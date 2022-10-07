@@ -41,20 +41,29 @@
         mt-2
         lg:mt-0
         mr-1
-      " href="#">
-    <img src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png" style="height: 15px" alt=""
+      " href="/">
+    <img src="src/lib/images/rap-logo.png" style="height: 15px" alt="Rent Awesome People Logo"
       loading="lazy" />
   </a>
   <!-- Left links -->
   <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto">
     <li class="nav-item p-2">
-      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="#">Dashboard</a>
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/">Startseite</a>
     </li>
     <li class="nav-item p-2">
-      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="#">Team</a>
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/arbeitnehmer">Arbeitnehmer</a>
     </li>
     <li class="nav-item p-2">
-      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="#">Projects</a>
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/arbeitgeber">Arbeitgeber</a>
+    </li>
+    <li class="nav-item p-2">
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/jobs">Jobs</a>
+    </li>
+    <li class="nav-item p-2">
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/ueberuns">Über uns</a>
+    </li>
+    <li class="nav-item p-2">
+      <a class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0" href="/kontakt">Kontakt</a>
     </li>
   </ul>
   <!-- Left links -->
