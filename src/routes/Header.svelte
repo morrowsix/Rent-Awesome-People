@@ -69,7 +69,7 @@
         href="/"
       >
         <img
-          src="/src/lib/images/rap-logo.png"
+          src="/rap-logo.png"
           alt="Rent Awesome People Logo"
           loading="lazy"
         />
