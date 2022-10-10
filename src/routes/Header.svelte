@@ -1,16 +1,30 @@
+<script> 
+import { page } from '$app/stores';
+let path;
+    $: path = $page.url.pathname;
+  let navlink = 
+  [
+    {title: 'Startseite', url: '/'},
+    {title: 'Arbeitnehmer', url: '/arbeitnehmer'},
+    {title: 'Arbeitgeber', url: '/arbeitgeber'},
+    {title: 'Jobs', url: '/jobs'},
+    {title: 'Über uns', url: 'ueberuns'},
+    {title: 'Kontakt', url: '/kontakt'},
+  ];
+</script>
 <nav
   class="
   relative
-  w-full
+  max-w-container
+  mx-auto
   flex flex-wrap
   items-center
   justify-between
   py-4
-  bg-gray-100
-  text-gray-500
+  text-fontblue
+  text-2xl
   hover:text-gray-700
   focus:text-gray-700
-  shadow-lg
   navbar navbar-expand-lg navbar-light
   "
 >
@@ -75,43 +89,15 @@
         />
       </a>
       <!-- Left links -->
-      <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto">
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/">Startseite</a
-          >
-        </li>
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/arbeitnehmer">Arbeitnehmer</a
-          >
-        </li>
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/arbeitgeber">Arbeitgeber</a
-          >
-        </li>
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/jobs">Jobs</a
-          >
-        </li>
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/ueberuns">Über uns</a
-          >
-        </li>
-        <li class="nav-item p-2">
-          <a
-            class="nav-link text-gray-500 hover:text-gray-700 focus:text-gray-700 p-0"
-            href="/kontakt">Kontakt</a
-          >
-        </li>
+      <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto mx-auto font-medium">
+        {#each navlink as navlink}
+          <li  class={path === navlink.url ? 'text-gray-900' : ''}>
+            <a
+              class="nav-link p-0"
+              href={navlink.url}>{navlink.title}</a
+            >
+          </li>
+        {/each}
       </ul>
       <!-- Left links -->
     </div>

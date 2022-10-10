@@ -3,6 +3,12 @@ const config = {
 
   theme: {
     extend: {},
+    colors: {
+      'fontblue': '#124D5E',
+    },
+    maxWidth: {
+      'container': '1420px',
+    }
   },
 
   plugins: [require('tw-elements/dist/plugin')],
