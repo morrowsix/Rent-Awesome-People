@@ -72,7 +72,7 @@ let path;
       <a
         class="
         flex
-        items-center
+        items-centernhnhn
         text-gray-900
         hover:text-gray-900
         focus:text-gray-900
