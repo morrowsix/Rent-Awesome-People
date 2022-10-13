@@ -2,7 +2,11 @@ const config = {
   content: ["./src/**/*.{html,js,svelte,ts}" , "./node_modules/tw-elements/dist/js/**/*.js"],
 
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sans': ['Signika', 'sans-serif']
+      }
+    },
     colors: {
       'primary': '#124D5E',
       'secondary': '#40A535',

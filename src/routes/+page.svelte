@@ -1,11 +1,12 @@
 <script>
-    import Herocard from "./Herocard.svelte";
+    import Herocard from "./components/Herocard.svelte";
+    import Button from "./components/Button.svelte";
     let heroes = [
-        { name: "Küchenmagier", imgurl: "/Kuechenmagier.png" },
-        { name: "Empfangselfen", imgurl: "/Empfangselfen.png" },
-        { name: "Servicehelden", imgurl: "/Servicehelden.png" },
-        { name: "Reinigungsninjas", imgurl: "/Reinigungsninjas.png" },
-        { name: "Backofficezauberer", imgurl: "/Backofficezauberer.png" },
+        { name: "Küchenmagier", imgurl: "heroes/Kuechenmagier.png" },
+        { name: "Empfangselfen", imgurl: "heroes/Empfangselfen.png" },
+        { name: "Servicehelden", imgurl: "heroes/Servicehelden.png" },
+        { name: "Reinigungsninjas", imgurl: "heroes/Reinigungsninjas.png" },
+        { name: "Backofficezauberer", imgurl: "heroes/Backofficezauberer.png" },
     ];
 </script>
 
@@ -25,10 +26,12 @@
             </p><br>
             <li class="text-white">Beatrix Westphal</li>
         </div>
-        <div class="self-center">
-            <p class="text-white text-center font-semibold uppercase">
+        <div class="self-center flex flex-col justify-start items-center gap-3">
+            <p class="text-white text-center font-medium text-2xl uppercase">
                 Beratung für:
             </p>
+            <Button text="Mitarbeitende" link="/arbeitnehmer" color="bg-secondary" />
+            <Button text="Hotelbetreiber" link="/arbeitgeber" color="bg-secondary" />
         </div>
     </div>
 </div>

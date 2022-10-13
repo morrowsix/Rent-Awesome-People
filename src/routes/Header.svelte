@@ -24,10 +24,11 @@ let path;
   text-primary
   text-2xl
   navbar navbar-expand-lg navbar-light
+  uppercase
   "
 >
   <div
-    class="container-fluid w-full flex flex-wrap items-center justify-between px-6"
+    class="container-fluid w-full flex flex-wrap items-center justify-between"
   >
     <button
       class="
@@ -71,13 +72,12 @@ let path;
         class="
         flex
         items-center
-        pr-10
+        pr-20
         text-gray-900
         hover:text-gray-900
         focus:text-gray-900
         mt-2
         lg:mt-0
-        mr-1
       "
         href="/"
       >
@@ -88,7 +88,7 @@ let path;
         />
       </a>
       <!-- Left links -->
-      <ul class="navbar-nav flex flex-grow justify-around flex-col pl-0 list-style-none mx-auto font-medium">
+      <ul class="navbar-nav flex flex-grow justify-between flex-col pl-0 list-style-none mx-auto font-medium">
         {#each navlinks as navlink}
           <li  class={path === navlink.url ? 'text-secondary' : ''}>
             <a
