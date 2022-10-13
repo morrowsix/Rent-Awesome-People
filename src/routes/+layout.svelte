@@ -1,6 +1,7 @@
 <script>
   import "../app.postcss";
   import Header from "./Header.svelte";
+  import Footer from "./Footer.svelte";
 </script>
 
 <div class="app">
@@ -11,8 +12,6 @@
   </main>
 
   <footer>
-    <p>
-      visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit
-    </p>
+    <Footer />
   </footer>
 </div>

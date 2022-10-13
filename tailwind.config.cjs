@@ -4,7 +4,11 @@ const config = {
   theme: {
     extend: {},
     colors: {
-      'fontblue': '#124D5E',
+      'primary': '#124D5E',
+      'secondary': '#40A535',
+      'gradient-light': '#228AA8',
+      'gradient-dark': '#124D5E',
+      'white': '#FFFFFF',
     },
     maxWidth: {
       'container': '1420px',

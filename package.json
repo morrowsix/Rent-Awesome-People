@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@beyonk/svelte-carousel": "^2.9.0",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/adapter-netlify": "^1.0.0-next.78",
     "@sveltejs/kit": "next",

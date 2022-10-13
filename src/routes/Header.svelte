@@ -2,13 +2,13 @@
 import { page } from '$app/stores';
 let path;
     $: path = $page.url.pathname;
-  let navlink = 
+  let navlinks = 
   [
     {title: 'Startseite', url: '/'},
     {title: 'Arbeitnehmer', url: '/arbeitnehmer'},
     {title: 'Arbeitgeber', url: '/arbeitgeber'},
     {title: 'Jobs', url: '/jobs'},
-    {title: 'Über uns', url: 'ueberuns'},
+    {title: 'Über uns', url: '/ueberuns'},
     {title: 'Kontakt', url: '/kontakt'},
   ];
 </script>
@@ -21,10 +21,8 @@ let path;
   items-center
   justify-between
   py-4
-  text-fontblue
+  text-primary
   text-2xl
-  hover:text-gray-700
-  focus:text-gray-700
   navbar navbar-expand-lg navbar-light
   "
 >
@@ -72,7 +70,8 @@ let path;
       <a
         class="
         flex
-        items-centernhnhn
+        items-center
+        pr-10
         text-gray-900
         hover:text-gray-900
         focus:text-gray-900
@@ -89,13 +88,12 @@ let path;
         />
       </a>
       <!-- Left links -->
-      <ul class="navbar-nav flex flex-col pl-0 list-style-none mr-auto mx-auto font-medium">
-        {#each navlink as navlink}
-          <li  class={path === navlink.url ? 'text-gray-900' : ''}>
+      <ul class="navbar-nav flex flex-grow justify-around flex-col pl-0 list-style-none mx-auto font-medium">
+        {#each navlinks as navlink}
+          <li  class={path === navlink.url ? 'text-secondary' : ''}>
             <a
-              class="nav-link p-0"
-              href={navlink.url}>{navlink.title}</a
-            >
+              class="nav-link p-0 hover:text-secondary"
+              href={navlink.url}>{navlink.title}</a>
           </li>
         {/each}
       </ul>
