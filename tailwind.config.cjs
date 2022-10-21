@@ -5,6 +5,11 @@ const config = {
     extend: {
       fontFamily: {
         'sans': ['Signika', 'sans-serif']
+      },
+      lineHeight: {
+        'lg': '79px',
+        'md': '50px',
+        'sm': '30px',
       }
     },
     colors: {
@@ -16,6 +21,9 @@ const config = {
     },
     maxWidth: {
       'container': '1420px',
+      'sm': '24rem',
+      'md': '28rem',
+      'lg': '32rem',
     }
   },
 
