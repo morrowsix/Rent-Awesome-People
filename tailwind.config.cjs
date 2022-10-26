@@ -10,7 +10,10 @@ const config = {
         'lg': '79px',
         'md': '50px',
         'sm': '30px',
-      }
+      },
+      backgroundImage : {
+        'split-blue-green': "linear-gradient(to right, #124D5E, #228AA8 50%, #40A535 50%);"
+      },
     },
     colors: {
       'primary': '#124D5E',

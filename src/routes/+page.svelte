@@ -131,7 +131,7 @@
       <span>:</span>
     </h3>
     <ul
-      class="text-primary font-light liœst-disc list-inside ml-4 text-2xl lg:whitespace-nowrap leading-sm">
+      class="text-primary font-light list-disc list-inside ml-4 text-2xl lg:whitespace-nowrap leading-sm">
       <li>Jeder kümmert sich um seine Kernkompetenz</li>
       <li>Mehr Umsatz durch eine bessere Personaldecke</li>
       <li>Von der Stellenausschreibung bis zu den Schnuppertagen</li>
@@ -145,6 +145,9 @@
   <div>
     <img class="max-w-[unset]" src="/FroheMitarbeiterin.png" alt="" />
   </div>
+</div>
+<div class=" bg-split-blue-green w-full h-72">
+
 </div>
 <div
   class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-contain bg-no-repeat bg-[position:50%,_right] h-[500px] flex justify-center items-center">
