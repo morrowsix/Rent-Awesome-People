@@ -3,6 +3,8 @@
   import Button from "./components/Button.svelte";
   import HeaderBanner from "./components/HeaderBanner.svelte";
   import TwoCol from "./components/TwoCol.svelte";
+  import H3 from "./components/H3.svelte";
+  import H2 from "./components/H2.svelte";
   let heroes = [
     { name: "Küchenmagier", imgurl: "heroes/Kuechenmagier.png" },
     { name: "Empfangselfen", imgurl: "heroes/Empfangselfen.png" },
@@ -13,20 +15,15 @@
 </script>
 
 <HeaderBanner imglink="/Header-Start.png">
-  <div
-    class="uppercase text-3xl sm:text-4xl sm:leading-md lg:text-6xl lg:leading-lg">
-    <h2>
+  <div>
+    <H2>
       <span class=" text-primary">Awesome </span>
-      <span class="text-secondary">Recruiting</span>
-    </h2>
-    <h2>
+      <span class="text-secondary">Recruiting</span><br>
       <span class=" text-primary">Awesome </span>
-      <span class="text-secondary">People</span>
-    </h2>
-    <h2>
+      <span class="text-secondary">People</span><br>
       <span class=" text-primary">Awesome </span>
       <span class="text-secondary">Jobs</span>
-    </h2>
+    </H2>
   </div>
   <div
     class="text-primary text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
@@ -83,11 +80,11 @@
       alt="" />
   </div>
   <div class="flex flex-col justify-between md:ml-10">
-    <h3 class="uppercase text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">
+    <H3>
       <span class=" text-primary">Werde Teil unserer Mission</span><br />
       <span class=" text-primary">und</span>
       <span class=" text-secondary">sichere dir Vorteile</span><span>:</span>
-    </h3>
+    </H3>
     <ul
       class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pb-5">
       <li>Mit einer Bewerbung - bei mehreren Arbeitgebern bewerben.</li>
@@ -103,11 +100,11 @@
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
-<h3 class="uppercase text-center text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md px-5">
+<H3 align="text-center">
   <span class="text-primary">Welche</span>
   <span class="text-secondary">Superkräfte</span>
   <span class="text-primary">besitzt du?</span>
-</h3>
+</H3>
 <div class=" grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 max-w-container-12 m-auto">
   {#each heroes as hero}
     <Herocard name={hero.name} imgurl={hero.imgurl} />
@@ -117,11 +114,11 @@
   class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
   <div
     class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto px-5 xl:px-0">
-    <h2 class="uppercase font-medium text-3xl sm:text-4xl sm:leading-md lg:text-6xl lg:leading-lg">
+    <H2>
       <span class=" text-primary">Gastfreundschaft ist Liebe!</span><br /><span
         class="text-secondary">Gute Arbeitsplätze auch</span
       ><span class="text-primary">!</span>
-    </h2>
+    </H2>
     <Button
       text="Jetzt anmelden"
       link="/kontakt"
@@ -131,10 +128,10 @@
 <div
   class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0">
   <div class="flex flex-col justify-between md:mr-10">
-    <h3 class="uppercase font-medium text-2xl sm:text-3xl lg:text-4xl leading-sm lg:leading-md">
+    <H3>
       <span class=" text-primary">Umsatzsteigerung durch</span><br />
       <span class=" text-secondary">neue Mitarbeitende</span><span>:</span>
-    </h3>
+    </H3>
     <ul
       class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl lg:whitespace-nowrap sm:leading-sm pb-5">
       <li>Jeder kümmert sich um seine Kernkompetenz</li>
@@ -155,18 +152,18 @@
   </div>
 </div>
 <div class="max-w-container-12 m-auto pb-9">
-  <h3 class="uppercase text-center text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">
+  <H3 align="text-center">
     <span class=" text-primary"> Für </span><span class=" text-secondary"
       >Hotelies
     </span><span class=" text-primary">und </span><span class=" text-secondary"
       >Gastronomen</span
     ><span>!</span>
-  </h3>
+  </H3>
 </div>
 <TwoCol>
   <div slot="left" class="max-w-container-6 flex-1 pt-9 pr-5 md:pr-20">
-    <h2 class="uppercase pb-10 text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">Unsere Partner:</h2>
-    <img src="/HospitalityServices-Logo.png" alt="Hospitality Services Logos" />
+    <H3>Unsere Partner:</H3>
+    <img class="pt-10" src="/HospitalityServices-Logo.png" alt="Hospitality Services Logos" />
     <p class="text-1xl sm:text-2xl font-light pt-9">
       Die Unternehmen des Hospitality Services haben sich zusammengeschlossen,
       um die Hotellerie und Gastronomie in allen Belangen zu unterstützen. Auch
@@ -175,7 +172,7 @@
   </div>
 
   <div slot="right" class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
-    <h2 class="uppercase text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">Informationen für <br /> Arbeitgeber:</h2>
+    <H3>Informationen für <br /> Arbeitgeber:</H3>
     <p class="text-1xl sm:text-2xl font-light pt-9 pb-7">
       Seit Jahren wird es schwieriger die passenden Bewerber:innen für offene
       Stellen zu finden. Ein Knackpunkt ist definitiv das Tagesgeschäft. Wer ein
@@ -199,13 +196,13 @@
   <div class="self-end"><img src="/BeatrixWestphal2.png" alt="" /></div>
   <div
     class="max-w-container-12  flex flex-col justify-between items-start">
-    <h2 class="uppercase font-medium text-3xl sm:text-4xl sm:leading-md lg:text-6xl lg:leading-lg">
+    <H2>
       <span class=" text-primary">Dein Boot ist</span><br />
       <span class="text-primary">gekentert?</span><br />
       <span class="text-secondary">Ab in den</span><br />
       <span class="text-secondary">neuen Job</span><span class="text-primary"
         >!</span>
-    </h2>
+    </H2>
     <Button
       text="Jetzt anmelden"
       link="/kontakt"
