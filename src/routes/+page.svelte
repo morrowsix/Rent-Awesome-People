@@ -114,9 +114,9 @@
   {/each}
 </div>
 <div
-  class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover h-[500px] flex flex-col justify-center items-center">
+  class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover h-[500px] flex justify-center items-center">
   <div
-    class="max-w-container-12 w-[1420px] h-60  flex flex-col justify-between items-start m-auto">
+    class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto">
     <h2 class="uppercase text-6xl font-medium leading-lg">
       <span class=" text-primary">Gastfreundschaft ist Liebe!</span><br /><span
         class="text-secondary">Gute Arbeitsplätze auch</span
@@ -195,10 +195,10 @@
   </div>
 </TwoCol>
 <div
-  class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-contain bg-no-repeat bg-[position:50%,_right] h-[500px] flex justify-center items-center">
+  class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-contain bg-no-repeat bg-[position:50%,_right] h-[500px] flex justify-start items-center">
   <div class="self-end"><img src="/BeatrixWestphal2.png" alt="" /></div>
   <div
-    class="max-w-container-12 w-[1420px] flex flex-col justify-between items-start">
+    class="max-w-container-12  flex flex-col justify-between items-start">
     <h2 class="uppercase text-6xl font-medium leading-lg">
       <span class=" text-primary">Dein Boot ist</span><br />
       <span class="text-primary">gekentert?</span><br />
