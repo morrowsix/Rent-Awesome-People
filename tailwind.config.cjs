@@ -33,7 +33,7 @@ const config = {
     maxWidth: {
       'container-12': '1420px',
       'container-6': '710px',
-      'container-3': '355',
+      'container-3': '355px',
       'container-1': '119px',
     }
   },
