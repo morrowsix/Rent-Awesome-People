@@ -108,11 +108,11 @@
   <span class="text-secondary">Superkräfte</span>
   <span class="text-primary">besitzt du?</span>
 </h3>
-<!-- <div class=" flex justify-around max-w-container-12 m-auto">
+<div class=" flex justify-around max-w-container-12 m-auto">
   {#each heroes as hero}
     <Herocard name={hero.name} imgurl={hero.imgurl} />
   {/each}
-</div> -->
+</div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
   <div

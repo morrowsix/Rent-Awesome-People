@@ -22,7 +22,8 @@
   justify-between
   py-4
   text-primary
-  text-2xl
+  text-xl
+  lg:text-2xl
   navbar navbar-expand-lg navbar-light
   uppercase
   ">
@@ -66,7 +67,8 @@
         class="
         flex
         items-center
-        pr-20
+        lg:pr-20
+        pr-5
         text-gray-900
         hover:text-gray-900
         focus:text-gray-900
@@ -77,7 +79,8 @@
         <img
           src="/rap-logo.png"
           alt="Rent Awesome People Logo"
-          loading="lazy" />
+          loading="lazy"
+          class="lg:max-w-[unset] max-w-[250px]" />
       </a>
       <!-- Left links -->
       <ul
