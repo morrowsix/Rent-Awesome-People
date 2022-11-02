@@ -78,7 +78,7 @@
   class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0">
   <div>
     <img
-      class="xl:max-w-[unset] lg:max-w-container-3 pb-5 lg:pb-0"
+      class="xl:max-w-[unset] lg:max-w-[550px] pb-5 lg:pb-0"
       src="/HotelCheckIn.png"
       alt="" />
   </div>
@@ -108,7 +108,7 @@
   <span class="text-secondary">Superkräfte</span>
   <span class="text-primary">besitzt du?</span>
 </h3>
-<div class=" flex justify-around max-w-container-12 m-auto">
+<div class=" grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 max-w-container-12 m-auto">
   {#each heroes as hero}
     <Herocard name={hero.name} imgurl={hero.imgurl} />
   {/each}
@@ -149,7 +149,7 @@
   </div>
   <div class="order-first lg:order-1">
     <img
-      class="xl:max-w-[unset] lg:max-w-container-3 pb-5 lg:pb-0"
+      class="xl:max-w-[unset] lg:max-w-[550px] pb-5 lg:pb-0"
       src="/FroheMitarbeiterin.png"
       alt="" />
   </div>
