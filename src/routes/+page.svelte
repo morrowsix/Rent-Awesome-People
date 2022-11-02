@@ -29,7 +29,7 @@
     </h2>
   </div>
   <div
-    class="text-primary text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 leading-sm">
+    class="text-primary text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
       in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
@@ -54,7 +54,7 @@
     </div>
     <div
       class=" lg:basis-2/5 md:w-1/2 lg:w-[unset] pr-5 lg:pr-0 self-end lg:self-center mx-5 md:mx-0">
-      <p class="text-white text-2xl font-light block">
+      <p class="text-white text-1xl sm:text-2xl font-light block">
         “Die Liebe zur Gastronomie und Hotellerie entwickelte sich in meiner
         Jugend. Die Leidenschaft für gute Arbeitsbedingungen im Laufe meines
         Arbeitslebens. Die Liebe zu Menschen wurde mir in die Wiege gelegt -
@@ -62,11 +62,11 @@
         zu verbinden.”
       </p>
       <br />
-      <li class="text-white text-2xl">Beatrix Westphal</li>
+      <li class="text-white text-1xl sm:text-2xl">Beatrix Westphal</li>
     </div>
     <div
       class="self-center lg:self-center md:self-end md:w-1/2 lg:w-[unset] flex flex-col md:items-start justify-center md:justify-start lg:items-center gap-3 pr-5 xl:pr-0">
-      <p class="text-white text-center font-medium text-2xl uppercase">
+      <p class="text-white text-center font-medium text-1xl sm:text-2xl uppercase">
         Beratung für:
       </p>
       <Button text="Mitarbeitende" link="/arbeitnehmer" color="bg-secondary" />
@@ -83,13 +83,13 @@
       alt="" />
   </div>
   <div class="flex flex-col justify-between md:ml-10">
-    <h3 class="uppercase text-4xl font-medium leading-md">
+    <h3 class="uppercase text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">
       <span class=" text-primary">Werde Teil unserer Mission</span><br />
       <span class=" text-primary">und</span>
       <span class=" text-secondary">sichere dir Vorteile</span><span>:</span>
     </h3>
     <ul
-      class="text-primary font-light list-disc list-inside ml-4 text-2xl 2xl:whitespace-nowrap leading-sm pb-5">
+      class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pb-5">
       <li>Mit einer Bewerbung - bei mehreren Arbeitgebern bewerben.</li>
       <li>Wir arbeiten nur mit wertschätzenden Arbeitgebern.</li>
       <li>Wir schauen, ob der Job zu Dir passt und Du zu dem Job.</li>
@@ -103,21 +103,21 @@
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
-<h3 class="uppercase text-4xl text-center">
+<h3 class="uppercase text-center text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md px-5">
   <span class="text-primary">Welche</span>
   <span class="text-secondary">Superkräfte</span>
   <span class="text-primary">besitzt du?</span>
 </h3>
-<div class=" flex justify-around max-w-container-12 m-auto">
+<!-- <div class=" flex justify-around max-w-container-12 m-auto">
   {#each heroes as hero}
     <Herocard name={hero.name} imgurl={hero.imgurl} />
   {/each}
-</div>
+</div> -->
 <div
-  class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover h-[500px] flex justify-center items-center">
+  class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
   <div
-    class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto">
-    <h2 class="uppercase text-6xl font-medium leading-lg">
+    class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto px-5 xl:px-0">
+    <h2 class="uppercase font-medium text-3xl sm:text-4xl sm:leading-md lg:text-6xl lg:leading-lg">
       <span class=" text-primary">Gastfreundschaft ist Liebe!</span><br /><span
         class="text-secondary">Gute Arbeitsplätze auch</span
       ><span class="text-primary">!</span>
@@ -130,13 +130,13 @@
 </div>
 <div
   class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0">
-  <div class="flex flex-col justify-between mr-10">
-    <h3 class="uppercase text-4xl font-medium leading-md">
+  <div class="flex flex-col justify-between md:mr-10">
+    <h3 class="uppercase font-medium text-2xl sm:text-3xl lg:text-4xl leading-sm lg:leading-md">
       <span class=" text-primary">Umsatzsteigerung durch</span><br />
       <span class=" text-secondary">neue Mitarbeitende</span><span>:</span>
     </h3>
     <ul
-      class="text-primary font-light list-disc list-inside ml-4 text-2xl lg:whitespace-nowrap leading-sm pb-5">
+      class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl lg:whitespace-nowrap sm:leading-sm pb-5">
       <li>Jeder kümmert sich um seine Kernkompetenz</li>
       <li>Mehr Umsatz durch eine bessere Personaldecke</li>
       <li>Von der Stellenausschreibung bis zu den Schnuppertagen</li>
@@ -155,7 +155,7 @@
   </div>
 </div>
 <div class="max-w-container-12 m-auto pb-9">
-  <h3 class="uppercase text-4xl text-center">
+  <h3 class="uppercase text-center text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">
     <span class=" text-primary"> Für </span><span class=" text-secondary"
       >Hotelies
     </span><span class=" text-primary">und </span><span class=" text-secondary"
@@ -165,9 +165,9 @@
 </div>
 <TwoCol>
   <div slot="left" class="max-w-container-6 flex-1 pt-9 pr-5 md:pr-20">
-    <h2 class="text-4xl uppercase pb-10">Unsere Partner:</h2>
+    <h2 class="uppercase pb-10 text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">Unsere Partner:</h2>
     <img src="/HospitalityServices-Logo.png" alt="Hospitality Services Logos" />
-    <p class="text-2xl font-light pt-9">
+    <p class="text-1xl sm:text-2xl font-light pt-9">
       Die Unternehmen des Hospitality Services haben sich zusammengeschlossen,
       um die Hotellerie und Gastronomie in allen Belangen zu unterstützen. Auch
       in schweren Zeiten!
@@ -175,8 +175,8 @@
   </div>
 
   <div slot="right" class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
-    <h2 class="text-4xl uppercase">Informationen für <br /> Arbeitgeber:</h2>
-    <p class="text-2xl font-light pt-9 pb-7">
+    <h2 class="uppercase text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">Informationen für <br /> Arbeitgeber:</h2>
+    <p class="text-1xl sm:text-2xl font-light pt-9 pb-7">
       Seit Jahren wird es schwieriger die passenden Bewerber:innen für offene
       Stellen zu finden. Ein Knackpunkt ist definitiv das Tagesgeschäft. Wer ein
       Unternehmen führt, hat eigentlich keine Zeit sich um die
@@ -199,7 +199,7 @@
   <div class="self-end"><img src="/BeatrixWestphal2.png" alt="" /></div>
   <div
     class="max-w-container-12  flex flex-col justify-between items-start">
-    <h2 class="uppercase text-6xl font-medium leading-lg">
+    <h2 class="uppercase font-medium text-3xl sm:text-4xl sm:leading-md lg:text-6xl lg:leading-lg">
       <span class=" text-primary">Dein Boot ist</span><br />
       <span class="text-primary">gekentert?</span><br />
       <span class="text-secondary">Ab in den</span><br />
