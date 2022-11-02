@@ -8,7 +8,7 @@
   class="group w-56 first:ml-0 last:mr-0 m-auto pt-7 hover:pt-0 transition-all">
   <div
     class="bg-gradient-to-r from-gradient-dark to-gradient-light rounded-2xl w-full h-auto flex justify-center m-auto group-hover:shadow-xl overflow-hidden">
-    <img src={imgurl} />
+    <img src={imgurl} alt="Arbeitnehmer aus Hotel und Gastronomie"/>
   </div>
   <div class="flex justify-center pb-5">
     <p

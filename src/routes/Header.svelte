@@ -15,7 +15,7 @@
 <nav
   class="
   relative
-  max-w-container
+  max-w-container-12
   mx-auto
   flex flex-wrap
   items-center

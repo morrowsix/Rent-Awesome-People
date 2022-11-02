@@ -1,5 +1,5 @@
 <div class="bg-primary w-full h-auto">
-    <div class="max-w-container flex justify-between m-auto pt-10 pb-10">
+    <div class="max-w-container-12 flex justify-between m-auto pt-10 pb-10">
         <img src="/rap-logo-weiss.png" alt="Logo Weiß" class=" w-[308px] h-[127px]" />
         <div class="text-xl font-light">
             <div class=" h-12">

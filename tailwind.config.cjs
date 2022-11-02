@@ -11,6 +11,14 @@ const config = {
         'md': '50px',
         'sm': '30px',
       },
+      screens: {
+        '2xl': '1750px',
+        'xl': '1450px',
+        'lg': '1250px',
+        'md': '800px',
+        'sm': '640px',
+        'xs': '400px',
+      },
       backgroundImage : {
         'split-blue-green': "linear-gradient(to right, #124D5E, #228AA8 50%, #40A535 50%);"
       },
@@ -23,10 +31,10 @@ const config = {
       'white': '#FFFFFF',
     },
     maxWidth: {
-      'container': '1420px',
-      'sm': '24rem',
-      'md': '28rem',
-      'lg': '32rem',
+      'container-12': '1420px',
+      'container-6': '710px',
+      'container-3': '355',
+      'container-1': '119px',
     }
   },
 
