@@ -21,20 +21,23 @@
   <div>
     <img src="/Mitarbeiter-Tablet.png" alt="" class="object-cover">
   </div>
-  <div class="flex-1 max-w-container-6">
+  <div class="flex-1 max-w-container-6 pt-10 m-auto ">
     <H3>
       <span class="text-white">Wir sind der Direktvermittler</span><br>
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
     </H3>
     <div
-      class="text-white font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
+      class="text-white font-light text-1xl sm:text-2xl pr-5 pt-8 lg:pt-12 sm:leading-sm">
       <p>
         Du bist auf der Suche nach einem Job der dich zufrieden stellt? 
         Dann lies unsere Stellenangebote genau! Wir analysieren die Arbeitgeber und die Stellen genau
-        - So kannst Du schon beimLesen der Anzeige einen Eindruck gewinnen. Unsere Mission ist es,
-        gute Arbeitgeber:innen und gute Arbeitnehmer:innen zusammen zu bringen!
+        - So kannst Du schon beim Lesen der Anzeige einen Eindruck gewinnen. Unsere Mission ist es,
+        gute Arbeitgeber:innen und gute Arbeitnehmer:innen zusammen zu bringen!</p><br>
+        <p>
         Du bist noch angestellt? Wir führen auf Wunsch auch am Wochenende,
         früh morgens oder am Abend Kennenlerngespräche durch. So, wie es zu deinem Leben passt!
+        </p><br>
+        <p>
         Be awesome! Weil glückliche Gäste von glücklichen Mitarbeitenden kommen.
       </p>
     </div>
