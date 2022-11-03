@@ -26,7 +26,7 @@
     </H2>
   </div>
   <div
-    class="text-primary text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
       in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win

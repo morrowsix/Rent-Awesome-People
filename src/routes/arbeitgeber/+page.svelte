@@ -49,7 +49,7 @@
   <div
     slot="right"
     class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
-    <H3>Direktvermittlung <br> durch uns!</H3>
+    <H3>Direktvermittlung <br /> durch uns!</H3>
     <ul
       class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Passgenaues Recruiting</li>
@@ -58,17 +58,54 @@
   </div>
 </TwoCol>
 
-<div
-  class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
-  <div
-    class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto px-5 xl:px-0">
+<div class="max-w-container-12 flex flex-col md:flex-row m-auto pt-10 relative">
+  <div class="self-end xl:w-[unset] md:w-1/2">
+    <img src="/Beatrix.png" alt="" />
+  </div>
+  <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10">
     <H2>
-      <span class=" text-primary">Wer wagt gewinnt!</span><br />
-      <span class="text-secondary">Vielleicht haben wir</span><br />
-      <span class="text-secondary">deinen Traumjob</span><span
-        class="text-primary">?</span>
+      <span class=" text-primary">Mein Gastroherz</span><br />
+      <span class="text-secondary">Ihr Vorteil</span><span class=" text-primary"
+        >!</span>
     </H2>
-    <div class="flex flex-col md:flex-row">
+    <H3>
+      <br />
+      <span class="text-primary">Meine </span><span class="text-secondary"
+        >Expertise</span
+      ><span class="text-primary">:</span>
+    </H3>
+    <div
+      class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
+      <p>
+        Seit über 25 Jahren bin ich in der Gastronomie unterwegs. 1994 hatte ich
+        meinen ersten Gastrojob in einem Bierwagen auf einem Volksfest. Seit dem
+        schlägt mein Herz für die Gastronomie. Gästen Wünsche von den Augen
+        abzulesen ist eine meiner Superkräfte.
+      </p><br>
+      <p>
+        Ich habe von der Festzeltgastronomie bis zum 4 Sterne superior Haus
+        alles geliebt und mich an die Gegebenheiten angepasst und durfte von
+        ganz fantastischen Kollegen lernen.
+      </p><br>
+      <p>
+        Vor 10 Jahren begann meine Reise hinter die Kulissen. 8 Jahre auf einem
+        Kreuzfahrtschiff, danach in einer Zeitarbeitsfirma. Gute Mitarbeitende
+        brauchen gute Arbeitgeber, um ihr Potenzial voll auszuschöpfen! Sein Sie
+        ein Teil der Revolution im Gastgewerbe!
+      </p>
+    </div>
+  </div>
+</div>
+
+<div
+  class=" w-full bg-[url(/Rectangle.png),_url(/Footer-Banner-Arbeitgeber.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
+  <div
+    class="max-w-container-12 h-60 flex-1 flex flex-col justify-center items-start m-auto px-5 xl:px-0">
+    <H2>
+      <span class=" text-primary">Wir finden was</span><br />
+      <span class="text-secondary">was Sie brauchen.</span>
+    </H2>
+    <div class="flex flex-col md:flex-row pt-5">
       <Button
         text="Jetzt bewerben"
         link="/jobs"
