@@ -14,13 +14,13 @@
       <span class="text-secondary">Glückliche Gäste</span><span
         class=" text-primary">=</span
       ><br />
-      <span class="text-primary">Glücklicher</span><span class="text-secondary">
+      <span class="text-primary">Glücklicher </span><span class="text-secondary">
         Chef</span
       ><span class="text-primary">.</span>
     </H2>
   </div>
   <div
-    class="text-primary text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
       darum machen müssten, wo Sie Ihr Personal her bekommen? Gut? Dann sollten
@@ -43,6 +43,7 @@
       class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Fachkräftemangel?</li>
       <li>Keine Zeit für Recruiting?</li>
+      <li>Kündigungen in der Probezeit?</li>
     </ul>
   </div>
 
@@ -54,6 +55,7 @@
       class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Passgenaues Recruiting</li>
       <li>Fachkräfte aus der Umgebung und dem Ausland</li>
+      <li>Begleitung im Onboarding-Prozess</li>
     </ul>
   </div>
 </TwoCol>
@@ -102,7 +104,7 @@
   <div
     class="max-w-container-12 h-60 flex-1 flex flex-col justify-center items-start m-auto px-5 xl:px-0">
     <H2>
-      <span class=" text-primary">Wir finden was</span><br />
+      <span class=" text-primary">Wir finden,</span><br />
       <span class="text-secondary">was Sie brauchen.</span>
     </H2>
     <div class="flex flex-col md:flex-row pt-5">

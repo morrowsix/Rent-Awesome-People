@@ -51,6 +51,7 @@
     </div>
     <div
       class=" lg:basis-2/5 md:w-1/2 lg:w-[unset] pr-5 lg:pr-0 self-end lg:self-center mx-5 md:mx-0">
+      <h1>Personalvermittlung für Hotellerie und Gastronomie</h1>
       <p class="text-white text-1xl sm:text-2xl font-light block">
         “Die Liebe zur Gastronomie und Hotellerie entwickelte sich in meiner
         Jugend. Die Leidenschaft für gute Arbeitsbedingungen im Laufe meines
@@ -67,7 +68,7 @@
         Beratung für:
       </p>
       <Button text="Mitarbeitende" link="/arbeitnehmer" color="bg-secondary" />
-      <Button text="Hotelbetreiber" link="/arbeitgeber" color="bg-secondary" />
+      <Button text="Arbeitgeber" link="/arbeitgeber" color="bg-secondary" />
     </div>
   </div>
 </div>

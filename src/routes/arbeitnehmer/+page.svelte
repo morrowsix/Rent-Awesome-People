@@ -45,7 +45,7 @@
   <div
     slot="right"
     class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
-    <H3>Eine Bewerbung - <br>× viele Optionen!</H3>
+    <H3>Eine Bewerbung - <br> viele Optionen!</H3>
     <ul
       class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Ein Ansprechpartner für deinen Bewerbungsprozess</li>

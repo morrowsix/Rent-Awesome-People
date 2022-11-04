@@ -17,11 +17,11 @@
     </div>
   </HeaderBanner>
 
-<div class="w-full bg-gradient-to-r from-gradient-dark to-gradient-light flex flex-col lg:flex-row">
+<div class="w-full bg-gradient-to-r from-gradient-dark to-gradient-light flex flex-col gap-4 lg:flex-row">
   <div>
     <img src="/Mitarbeiter-Tablet.png" alt="" class="object-cover">
   </div>
-  <div class="flex-1 max-w-container-6 pt-10 m-auto ">
+  <div class="flex-1 max-w-container-6 m-auto order-first lg:order-1">
     <H3>
       <span class="text-white">Wir sind der Direktvermittler</span><br>
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
@@ -44,6 +44,9 @@
   </div>
 </div>
 
+<div class="pt-10 pb-5" id="section-jobs">
+  <H2 align="text-center"><span class="text-primary">Ist dein neuer Job dabei?</span></H2>
+</div>
 <!-- coveto Stellenportal iframe -->
-<iframe id="coveto_iframe" src="https://k58053.coveto.de/public/jobs/" border="0" style="border: none;" width="100%" height="750"></iframe><p id="poweredbycoveto" style="margin-top:20px; text-align:right;"><a style="font-size: 10px; color: #AAA;text-decoration:none;" href="http://www.coveto.de" target="_blank" rel="noopener">powered by coveto, Software f&uuml;r Bewerberverwaltung</a></p>
+    <iframe id="coveto_iframe" src="https://k58053.coveto.de/public/jobs/" border="0" style="border: none;" width="100%" height="750"></iframe><p id="poweredbycoveto" style="margin-top:20px; text-align:right;"><a style="font-size: 10px; color: #AAA;text-decoration:none;" href="http://www.coveto.de" target="_blank" rel="noopener">powered by coveto, Software f&uuml;r Bewerberverwaltung</a></p>
 <!-- end of coveto Stellenportal iframe -->
