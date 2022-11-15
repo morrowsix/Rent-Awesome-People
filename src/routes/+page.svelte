@@ -26,7 +26,7 @@
     </H2>
   </div>
   <div
-    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12">
     <p>
       Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
       in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
@@ -45,14 +45,14 @@
 <div
   class="relative w-full bg-gradient-to-r from-gradient-dark to-gradient-light">
   <div
-    class="max-w-container-12 relative flex justify-end m-auto gap-14 py-5 flex-col lg:flex-row">
+    class="max-w-container-12 relative flex justify-end m-auto gap-14 py-10 flex-col lg:flex-row">
     <div class="hidden md:block absolute 2xl:left-[-150px] left-0 bottom-0">
       <img src="/beatrix-westphal.png" alt="Beatrix Westphal" class="" />
     </div>
     <div
       class=" lg:basis-2/5 md:w-1/2 lg:w-[unset] pr-5 lg:pr-0 self-end lg:self-center mx-5 md:mx-0">
-      <h1>Personalvermittlung für Hotellerie und Gastronomie</h1>
-      <p class="text-white text-1xl sm:text-2xl font-light block">
+      <h1 class="uppercase text-white text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md">Personalvermittlung für Hotellerie und Gastronomie</h1>
+      <p class="text-white text-1xl sm:text-2xl font-light block pt-4">
         “Die Liebe zur Gastronomie und Hotellerie entwickelte sich in meiner
         Jugend. Die Leidenschaft für gute Arbeitsbedingungen im Laufe meines
         Arbeitslebens. Die Liebe zu Menschen wurde mir in die Wiege gelegt -
@@ -60,7 +60,9 @@
         zu verbinden.”
       </p>
       <br />
-      <li class="text-white text-1xl sm:text-2xl">Beatrix Westphal</li>
+      <ul class=" list-disc list-inside">
+        <li class="text-white text-1xl sm:text-2xl">Beatrix Westphal</li>
+      </ul>
     </div>
     <div
       class="self-center lg:self-center md:self-end md:w-1/2 lg:w-[unset] flex flex-col md:items-start justify-center md:justify-start lg:items-center gap-3 pr-5 xl:pr-0">
@@ -87,7 +89,7 @@
       <span class=" text-secondary">sichere dir Vorteile</span><span>:</span>
     </H3>
     <ul
-      class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pb-5">
+      class="text-primary font-light list-disc list ml-7 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pb-5 pt-4">
       <li>Mit einer Bewerbung - bei mehreren Arbeitgebern bewerben.</li>
       <li>Wir arbeiten nur mit wertschätzenden Arbeitgebern.</li>
       <li>Wir schauen, ob der Job zu Dir passt und Du zu dem Job.</li>
@@ -134,7 +136,7 @@
       <span class=" text-secondary">neue Mitarbeitende</span><span>:</span>
     </H3>
     <ul
-      class="text-primary font-light list-disc list-inside ml-4 text-1xl sm:text-2xl lg:whitespace-nowrap sm:leading-sm pb-5">
+      class="text-primary font-light list-disc ml-7 text-1xl sm:text-2xl lg:whitespace-nowrap sm:leading-sm pb-5 pt-4">
       <li>Jeder kümmert sich um seine Kernkompetenz</li>
       <li>Mehr Umsatz durch eine bessere Personaldecke</li>
       <li>Von der Stellenausschreibung bis zu den Schnuppertagen</li>
@@ -155,26 +157,26 @@
 <div class="max-w-container-12 m-auto pb-9">
   <H3 align="text-center">
     <span class=" text-primary"> Für </span><span class=" text-secondary"
-      >Hotelies
+      >Hoteliers
     </span><span class=" text-primary">und </span><span class=" text-secondary"
       >Gastronomen</span
     ><span>!</span>
   </H3>
 </div>
 <TwoCol>
-  <div slot="left" class="max-w-container-6 flex-1 pt-9 pr-5 md:pr-20">
+  <div slot="left" class="max-w-container-6 flex-1 pr-5 md:pr-20">
     <H3>Unsere Partner:</H3>
-    <img class="pt-10" src="/HospitalityServices-Logo.png" alt="Hospitality Services Logos" />
-    <p class="text-1xl sm:text-2xl font-light pt-9">
+    <img class="py-5" src="/HospitalityServices-Logo.png" alt="Hospitality Services Logos" />
+    <p class="text-1xl sm:text-2xl font-light py-5">
       Die Unternehmen des Hospitality Services haben sich zusammengeschlossen,
       um die Hotellerie und Gastronomie in allen Belangen zu unterstützen. Auch
       in schweren Zeiten!
     </p>
   </div>
 
-  <div slot="right" class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
+  <div slot="right" class="max-w-container-6 flex-1 pl-5 xl:pl-16 flex flex-col">
     <H3>Informationen für <br /> Arbeitgeber:</H3>
-    <p class="text-1xl sm:text-2xl font-light pt-9 pb-7">
+    <p class="text-1xl sm:text-2xl font-light py-5">
       Seit Jahren wird es schwieriger die passenden Bewerber:innen für offene
       Stellen zu finden. Ein Knackpunkt ist definitiv das Tagesgeschäft. Wer ein
       Unternehmen führt, hat eigentlich keine Zeit sich um die

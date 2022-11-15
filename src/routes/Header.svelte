@@ -12,34 +12,29 @@
   ];
 </script>
 
-<nav
-  class="
-  relative
-  max-w-container-12
-  mx-auto
-  flex flex-wrap
-  items-center
-  justify-between
-  py-4
-  text-primary
-  text-xl
-  lg:text-2xl
-  navbar navbar-expand-lg navbar-light
-  uppercase
-  ">
+<nav class="relative max-w-container-12 mx-auto flex flex-wrap items-center justify-between py-4 text-primary text-xl lg:text-2xl navbar navbar-expand-lg navbar-light uppercase">
   <div
     class="container-fluid w-full flex flex-wrap items-center justify-between">
-    <button
-      class="
-      navbar-toggler
-      text-gray-500
-      border-0
-      hover:shadow-none hover:no-underline
-      py-2
-      px-2.5
-      bg-transparent
-      focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline
-    "
+    <a
+        class="
+        flex
+        items-center
+        lg:pr-20
+        pr-5
+        text-gray-900
+        hover:text-gray-900
+        focus:text-gray-900
+        mt-2
+        lg:mt-0
+      "
+        href="/">
+        <img
+          src="/rap-logo.png"
+          alt="Rent Awesome People Logo"
+          loading="lazy"
+          class="lg:max-w-[unset] max-w-[250px]" />
+      </a>
+    <button class="navbar-toggler text-gray-500 border-0 hover:shadow-none hover:no-underline py-2 px-2.5 bg-transparent focus:outline-none focus:ring-0 focus:shadow-none focus:no-underline"
       type="button"
       data-bs-toggle="collapse"
       data-bs-target="#navbarSupportedContent"
@@ -61,27 +56,9 @@
       </svg>
     </button>
     <div
-      class="collapse navbar-collapse flex-grow items-center"
+      class="collapse navbar-collapse flex-grow items-center pl-5"
       id="navbarSupportedContent">
-      <a
-        class="
-        flex
-        items-center
-        lg:pr-20
-        pr-5
-        text-gray-900
-        hover:text-gray-900
-        focus:text-gray-900
-        mt-2
-        lg:mt-0
-      "
-        href="/">
-        <img
-          src="/rap-logo.png"
-          alt="Rent Awesome People Logo"
-          loading="lazy"
-          class="lg:max-w-[unset] max-w-[250px]" />
-      </a>
+      
       <!-- Left links -->
       <ul
         class="navbar-nav flex flex-grow justify-between flex-col pl-0 list-style-none mx-auto font-medium">

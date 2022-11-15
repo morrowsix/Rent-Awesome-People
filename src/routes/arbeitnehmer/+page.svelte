@@ -4,9 +4,10 @@
   import TwoCol from "../components/TwoCol.svelte";
   import H3 from "../components/H3.svelte";
   import H2 from "../components/H2.svelte";
+  import Contactform from "../components/Contactform.svelte";
 </script>
 
-<HeaderBanner imglink="/Header-Arbeitnehmer.png">
+<HeaderBanner imglink="/Header-Arbeitnehmer2.png">
   <div>
     <H2>
       <span class=" text-primary">Keine Angst</span><br />
@@ -33,10 +34,10 @@
   </div>
 </HeaderBanner>
 <TwoCol>
-  <div slot="left" class="max-w-container-6 flex-1 pt-9 pr-5 lg:pr-20">
+  <div slot="left" class="max-w-container-6 flex-1 pr-5 lg:pr-20">
     <H3>So viele freie Stellen - <br> wo bewerbe ich mich?</H3>
     <ul
-      class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
+      class="font-light list-disc ml-7 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Bewirb dich bei mir - ich helfe Dir!</li>
       <li>Ich weiß auch schon, was du verdienst!</li>
     </ul>
@@ -44,10 +45,10 @@
 
   <div
     slot="right"
-    class="max-w-container-6 flex-1 pl-5 xl:pl-16 pt-9 flex flex-col">
+    class="max-w-container-6 flex-1 pl-5 xl:pl-16 flex flex-col">
     <H3>Eine Bewerbung - <br> viele Optionen!</H3>
     <ul
-      class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
+      class="font-light list-disc ml-7 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Ein Ansprechpartner für deinen Bewerbungsprozess</li>
       <li>Schnelle Antworten auf Fragen</li>
     </ul>
@@ -86,9 +87,10 @@
     </div>
   </div>
 </div>
+<Contactform />
 
 <div
-  class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
+  class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center mt-10">
   <div
     class="max-w-container-12 h-60 flex-1 flex flex-col justify-center items-start m-auto px-5 xl:px-0">
     <H2>
@@ -97,7 +99,7 @@
       <span class="text-secondary">deinen Traumjob</span><span
         class="text-primary">?</span>
     </H2>
-    <div class="flex flex-col md:flex-row pt-5">
+    <div class="flex flex-col md:flex-row pt-5 gap-4">
       <Button
         text="Jetzt bewerben"
         link="/jobs"

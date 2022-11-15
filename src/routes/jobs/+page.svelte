@@ -19,15 +19,15 @@
 
 <div class="w-full bg-gradient-to-r from-gradient-dark to-gradient-light flex flex-col gap-4 lg:flex-row">
   <div>
-    <img src="/Mitarbeiter-Tablet.png" alt="" class="object-cover">
+    <img src="/Mitarbeiter-Tablet.png" alt="" class="object-cover h-full">
   </div>
-  <div class="flex-1 max-w-container-6 m-auto order-first lg:order-1">
+  <div class="flex-1 py-10 px-5 max-w-container-6 m-auto order-first lg:order-1">
     <H3>
       <span class="text-white">Wir sind der Direktvermittler</span><br>
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
     </H3>
     <div
-      class="text-white font-light text-1xl sm:text-2xl pr-5 pt-8 lg:pt-12 sm:leading-sm">
+      class="text-white font-light text-1xl sm:text-2xl pr-5 pt-5 sm:leading-sm">
       <p>
         Du bist auf der Suche nach einem Job der dich zufrieden stellt? 
         Dann lies unsere Stellenangebote genau! Wir analysieren die Arbeitgeber und die Stellen genau
@@ -44,7 +44,7 @@
   </div>
 </div>
 
-<div class="pt-10 pb-5" id="section-jobs">
+<div class="pt-20 pb-5" id="section-jobs">
   <H2 align="text-center"><span class="text-primary">Ist dein neuer Job dabei?</span></H2>
 </div>
 <!-- coveto Stellenportal iframe -->

@@ -3,6 +3,7 @@
   import HeaderBanner from "../components/HeaderBanner.svelte";
   import H3 from "../components/H3.svelte";
   import H2 from "../components/H2.svelte";
+  import Contactform from "../components/Contactform.svelte";
 </script>
 
 <HeaderBanner imglink="/Header-Ueberuns.png">
@@ -37,10 +38,10 @@
 </HeaderBanner>
 
 <div class="max-w-container-12 flex flex-col md:flex-row m-auto pt-10 relative">
-  <div class="self-end xl:w-[unset] md:w-1/2">
+  <div class="self-end xl:w-[unset] md:w-1/2 flex-1">
     <img src="/Beatrix-Fjolla.png" alt="" />
   </div>
-  <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10">
+  <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10 pb-10">
     <H2>
       <span class=" text-primary">Awesome</span><br />
       <span class="text-secondary">Results</span><span class=" text-primary"
@@ -71,9 +72,9 @@
             color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
-
+<Contactform />
 <div
-  class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
+  class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center mt-10">
   <div
     class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto px-5 xl:px-0">
     <H2>
@@ -81,7 +82,7 @@
       <span class="text-secondary">Auf in eine gute Zukunft</span><span
         class="text-primary">!</span>
     </H2>
-    <div class="flex flex-col md:flex-row">
+    <div class="flex flex-col md:flex-row gap-4">
       <Button
         text="Jetzt bewerben"
         link="/jobs"

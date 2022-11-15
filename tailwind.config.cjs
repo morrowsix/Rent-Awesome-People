@@ -29,6 +29,7 @@ const config = {
       'gradient-light': '#228AA8',
       'gradient-dark': '#124D5E',
       'white': '#FFFFFF',
+      'alert': '#ff0000',
     },
     maxWidth: {
       'container-12': '1420px',

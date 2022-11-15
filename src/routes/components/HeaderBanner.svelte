@@ -10,7 +10,7 @@
       src={imglink}
       alt="" />
   </div>
-  <div class=" max-w-container-12 m-auto pt-12 lg:pt-28 pb-72 sm:pb-60">
+  <div class=" max-w-container-12 lg:h-[1000px] h-[900px] m-auto pt-12 lg:pt-28 pb-72 sm:pb-60">
     <slot />
   </div>
 </div>

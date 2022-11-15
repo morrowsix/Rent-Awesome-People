@@ -32,13 +32,13 @@
     </div>
     <div class="text-xl font-light lg:text-right flex-[100%] sm:flex-[50%] lg:flex-[25%] text-center sm:text-left">
       <div class="flex justify-center sm:justify-start lg:justify-end h-12">
-        <a href="" class=" mr-4"
+        <a href="https://www.facebook.com/RentAwesomePeople" class=" mr-4"
           ><img src="/facebook-icon.png" alt="Facebook Icon" /></a>
-        <a href=""> <img src="/insta-icon.png" alt="Instagram Icon" /></a>
+        <a href="https://www.instagram.com/rent_awesome_people/"> <img src="/insta-icon.png" alt="Instagram Icon" /></a>
       </div>
-      <a href="" class="text-white">Datenschutzerklärung</a><br />
-      <a href="" class="text-white">AGB</a><br />
-      <a href="" class="text-white">Impressum</a>
+      <a href="/datenschutz" class="text-white">Datenschutzerklärung</a><br />
+      <a href="/agb" class="text-white">AGB</a><br />
+      <a href="/impressum" class="text-white">Impressum</a>
     </div>
   </div>
 </div>
