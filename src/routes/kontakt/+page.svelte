@@ -6,27 +6,33 @@
     import Contactform from "../components/Contactform.svelte";
   </script>
 <HeaderBanner imglink="/Header-Start.png">
-    <div>
-      <H2>
-        <span class=" text-primary">Awesome</span>
-        <span class="text-secondary">Recruiting</span><br>
-        <span class=" text-primary">Awesome </span>
-        <span class="text-secondary">People</span><br>
-        <span class=" text-primary">Awesome </span>
-        <span class="text-secondary">Jobs</span>
-      </H2>
-    </div>
-    <div
-      class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12">
-      <p>
-        Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
-        in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
-        Situationen, die entstehen, wenn sich jeder um sein Kerngeschäft kümmert!
-        Unseres ist Recruiting - weil leihen oder mieten von Personal einfach
-        nicht genug ist!
-      </p>
-    </div>
-  </HeaderBanner>
+  <div>
+    <H2>
+      <span class=" text-primary">Awesome </span>
+      <span class="text-secondary">Recruiting</span><br>
+      <span class=" text-primary">Awesome </span>
+      <span class="text-secondary">People</span><br>
+      <span class=" text-primary">Awesome </span>
+      <span class="text-secondary">Jobs</span>
+    </H2>
+  </div>
+  <div
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12">
+    <p>
+      Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
+      in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
+      Situationen, die entstehen, wenn sich jeder um sein Kerngeschäft kümmert!
+      Unseres ist Recruiting - weil leihen oder mieten von Personal einfach
+      nicht genug ist!
+    </p>
+  </div>
+  <div class="py-10 flex">
+    <Button
+      text="Mehr erfahren"
+      link="/kontakt"
+      color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
+  </div>
+</HeaderBanner>
   <div class="pb-10"></div>
   <Contactform/>
   <div
