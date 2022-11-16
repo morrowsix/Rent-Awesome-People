@@ -195,10 +195,10 @@
   </div>
 </TwoCol>
 <div
-  class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-contain bg-no-repeat bg-[position:50%,_right] h-[500px] flex justify-start items-center">
-  <div class="self-end"><img src="/BeatrixWestphal2.png" alt="" /></div>
+  class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-cover bg-no-repeat bg-[position:0%,_right] 2xl:bg-[position:50%,_right] md:h-[500px] flex flex-col md:flex-row justify-start items-center">
+  <div class="self-end 2xl:max-w-[900px] md:max-w-[600px] max-w-[400px] order-2 md:order-1 m-auto md:m-[unset]"><img src="/BeatrixWestphal2.png" alt="" /></div>
   <div
-    class="max-w-container-12  flex flex-col justify-between items-start">
+    class="max-w-container-12 flex flex-col justify-start items-start m-auto md:m-[unset] order-1 md:order-2 pt-5 md:pr-5">
     <H2>
       <span class=" text-primary">Dein Boot ist</span><br />
       <span class="text-primary">gekentert?</span><br />
