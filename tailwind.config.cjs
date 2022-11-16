@@ -18,6 +18,7 @@ const config = {
         'md': '800px',
         'sm': '640px',
         'xs': '400px',
+        'menu': '1000px',
       },
       backgroundImage : {
         'split-blue-green': "linear-gradient(to right, #124D5E, #228AA8 50%, #40A535 50%);"
