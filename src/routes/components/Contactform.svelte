@@ -68,7 +68,7 @@
           placeholder="NACHRICHT:" />
       </div>
     </div>
-    <div class="p-4">
+    <div class="p-5">
       <p class="text-md sm:text-lg text-white pb-3">
         Die mit * markierten Felder sind Pflichtfelder. <br /> Informationen zum
         Umgang mit Ihren Daten finden Sie in unserer

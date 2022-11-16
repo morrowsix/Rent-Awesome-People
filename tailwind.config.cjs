@@ -1,5 +1,5 @@
 const config = {
-  content: ["./src/**/*.{html,js,svelte,ts}" , "./node_modules/tw-elements/dist/js/**/*.js"],
+  content: ["./src/**/*.{html,js,svelte,ts}"],
 
   theme: {
     extend: {
@@ -38,8 +38,6 @@ const config = {
       'container-1': '119px',
     }
   },
-
-  plugins: [require('tw-elements/dist/plugin')],
 };
 
 module.exports = config;

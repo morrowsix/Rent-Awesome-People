@@ -21,8 +21,5 @@
     "tailwindcss": "^3.1.5",
     "vite": "^3.1.0"
   },
-  "type": "module",
-  "dependencies": {
-    "tw-elements": "^1.0.0-alpha12"
-  }
+  "type": "module"
 }
