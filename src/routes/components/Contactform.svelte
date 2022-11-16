@@ -12,34 +12,34 @@
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center">
       <div class="flex flex-col flex-1 px-5 gap-4">
         <input
-          class="placeholder:text-primary placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
+          class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="text"
           name="Vorname"
           id="vname"
           placeholder="*VORNAME:"
           required />
         <input
-          class="placeholder:text-primary placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
+          class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="text"
           name="Nachname"
           id="nname"
           placeholder="*NACHNAME:"
           required />
         <input
-          class="placeholder:text-primary placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
+          class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="tel"
           name="Telefon"
           id="tel"
           placeholder="TELEFON:" />
         <input
-          class="placeholder:text-primary placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
+          class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="email"
           name="E-Mail"
           id="email"
           placeholder="*E-MAIL:"
           required />
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none"
+          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none"
           name="Berufsfeld"
           id="profession">
           <option class="font-light" value="Berufsfeld">BERUFSFELD:</option>
@@ -47,7 +47,7 @@
           <option class="font-light" value="Hotellerie">HOTELLERIE</option>
         </select>
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none"
+          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none"
           name="Jobbezeichnung"
           id="job">
           <option class="font-light" value="Jobbezeichnung"
@@ -61,7 +61,7 @@
       </div>
       <div class="flex flex-col flex-1 height-full px-5">
         <textarea
-          class="placeholder:text-primary placeholder:font-light px-4 py-2 h-full rounded-[40px]"
+          class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[40px]"
           type="textfield"
           name="Nachricht"
           id="message"
