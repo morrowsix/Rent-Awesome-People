@@ -55,7 +55,7 @@
   </div>
 </TwoCol>
 <div class="max-w-container-12 flex flex-col md:flex-row m-auto pt-10 relative">
-  <div class="self-end xl:w-[unset] md:w-1/2">
+  <div class="self-end xl:w-[unset] md:w-1/2 mb-[-10px] z-[-1]">
     <img src="/Beatrix-Rettungsring.png" alt="" />
   </div>
   <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10">

@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="max-w-container-12 m-auto shadow-lg bg-gradient-to-b from-gradient-dark to-gradient-light rounded-[50px] pt-8 pb-10 md:px-5">
+  class="max-w-container-12 shadow-lg bg-gradient-to-b from-gradient-dark to-gradient-light rounded-[50px] pt-8 pb-10 md:px-5 mx-2 xl:m-auto">
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
   </div>
@@ -39,7 +39,7 @@
           placeholder="*E-MAIL:"
           required />
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none"
+          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
           name="Berufsfeld"
           id="profession">
           <option class="font-light" value="Berufsfeld">BERUFSFELD:</option>
@@ -47,7 +47,7 @@
           <option class="font-light" value="Hotellerie">HOTELLERIE</option>
         </select>
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none"
+          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
           name="Jobbezeichnung"
           id="job">
           <option class="font-light" value="Jobbezeichnung"
