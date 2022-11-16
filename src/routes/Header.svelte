@@ -12,10 +12,10 @@
     { title: "Kontakt", url: "/kontakt" },
   ];
   function toggleMobileMenu(){
-    if (mobileNavVisible == "max-h-auto"){
+    if (mobileNavVisible == "max-h-[400px]"){
       mobileNavVisible = "max-h-0";
     } else{
-      mobileNavVisible = "max-h-auto";
+      mobileNavVisible = "max-h-[400px]";
     }
     
   }
@@ -77,11 +77,11 @@
 
   </div>
   <!-- Mobile Nav -->
-  <div class="flex-grow items-center text-center pl-5 menu:hidden transition-all overflow-hidden {mobileNavVisible}">
+  <div class="flex-grow items-center text-center pl-5 menu:hidden transition-all overflow-hidden {mobileNavVisible} pt-5">
     <ul
       class="flex flex-grow gap-4 flex-col list-style-none font-medium">
       {#each navlinks as navlink}
-        <li class={path === navlink.url ? "text-secondary" : ""}>
+        <li class={path === navlink.url ? "text-secondary" : ""} on:click={toggleMobileMenu}>
           <a class=" hover:text-secondary" href={navlink.url}
             >{navlink.title}</a>
         </li>
