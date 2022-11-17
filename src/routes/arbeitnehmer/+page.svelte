@@ -88,7 +88,8 @@
   </div>
 </div>
 <Contactform />
-<form name="contact" netlify>
+<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <input type="hidden" name="form-name" value="contact" />
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
