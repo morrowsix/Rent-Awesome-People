@@ -17,7 +17,7 @@
     </H2>
   </div>
   <div
-    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgeber vielleicht bereits oder lernen
@@ -29,7 +29,7 @@
   <div class="py-10 flex">
     <Button
       text="Offene Stellen"
-      link="/jobs"
+      link="/jobs#coveto_iframe"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </HeaderBanner>
@@ -102,11 +102,11 @@
     <div class="flex flex-col md:flex-row pt-5 gap-4">
       <Button
         text="Offene Stellen"
-        link="/jobs"
+        link="/jobs#coveto_iframe"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
       <Button
         text="Initiativ Bewerbung"
-        link="mailto:info@rent-awesome-people.de"
+        link="mailto:info@rent-awesome-people.de?subject=Initiativ Bewerbung"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
     </div>
   </div>

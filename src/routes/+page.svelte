@@ -99,19 +99,22 @@
     </ul>
     <Button
       text="Offene Stellen"
-      link="/jobs"
+      link="/jobs#coveto_iframe"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
 <H3 align="text-center">
   <span class="text-primary">Welche</span>
   <span class="text-secondary">Superkräfte</span>
-  <span class="text-primary">besitzt du?</span>
+  <span class="text-primary">besitzt du?*</span>
 </H3>
 <div class=" grid lg:grid-cols-5 md:grid-cols-3 sm:grid-cols-2 max-w-container-12 m-auto">
   {#each heroes as hero}
     <Herocard name={hero.name} imgurl={hero.imgurl} />
   {/each}
+</div>
+<div class="m-auto max-w-container-12 text-center pb-5 text-primary">
+  <p>* Wir sprechen immer alle Geschlechter an (m/w/d).</p>
 </div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
@@ -144,7 +147,7 @@
     </ul>
     <Button
       text="Kostenloses Erstgespräch vereinbaren"
-      link="/kontakt"
+      link="mailto:info@rent-awesome-people.de?subject=Kostenloses Erstgespräch vereinbaren"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
   <div class="order-first lg:order-1">
@@ -196,7 +199,7 @@
 </TwoCol>
 <div
   class=" w-full bg-[url(/VerlaufBanner.png),_url(/MannImPool.png)] bg-cover bg-no-repeat bg-[position:0%,_right] 2xl:bg-[position:50%,_right] md:h-[500px] flex flex-col md:flex-row justify-start items-center">
-  <div class="self-end 2xl:max-w-[900px] md:max-w-[600px] max-w-[400px] order-2 md:order-1 m-auto md:m-[unset]"><img src="/BeatrixWestphal2.png" alt="" /></div>
+  <div class="self-end 2xl:max-w-[900px] md:max-w-[540px] max-w-[400px] order-2 md:order-1 m-auto md:m-[unset]"><img src="/BeatrixWestphal2.png" alt="" /></div>
   <div
     class="max-w-container-12 flex flex-col justify-start items-start m-auto md:m-[unset] order-1 md:order-2 pt-5 md:pr-5">
     <H2>
@@ -206,9 +209,10 @@
       <span class="text-secondary">neuen Job</span><span class="text-primary"
         >!</span>
     </H2>
-    <Button
+    <div class="pt-5"><Button
       text="Offene Stellen"
-      link="/jobs"
+      link="/jobs#coveto_iframe"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
+    </div>
   </div>
 </div>

@@ -23,7 +23,7 @@
         <h6 class=" uppercase text-white text-xl font-bold">Kontakt</h6>
       </div>
       <a href="mailto:info@rent-awesome-people.de" class="text-white"
-        >info@rent-awesomde-people.de</a>
+        >info@rent-awesome-people.de</a>
       <p class="text-white" />
       <br />
       <a href="tel:056058791598" class="text-white">Tel.: +49 05605 8791598</a
@@ -34,7 +34,8 @@
       <div class="flex justify-center sm:justify-start lg:justify-end h-12">
         <a href="https://www.facebook.com/RentAwesomePeople" class=" mr-4"
           ><img src="/facebook-icon.png" alt="Facebook Icon" /></a>
-        <a href="https://www.instagram.com/rent_awesome_people/"> <img src="/insta-icon.png" alt="Instagram Icon" /></a>
+        <a href="https://www.instagram.com/rent_awesome_people/"> <img class=" mr-4" src="/insta-icon.png" alt="Instagram Icon" /></a>
+        <a href="https://www.linkedin.com/in/beatrix-westphal-a39a3b236/"> <img class="max-w-[34px]" src="/linkedin-icon.png" alt="Instagram Icon" /></a>
       </div>
       <a href="/datenschutz" class="text-white">Datenschutzerklärung</a><br />
       <a href="/agb" class="text-white">AGB</a><br />

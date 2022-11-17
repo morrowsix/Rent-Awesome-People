@@ -31,7 +31,7 @@
   </div>
   <div class="py-10 flex">
     <Button
-      text="Mehr erfahren"
+      text="Kontakt aufnehmen"
       link="/kontakt"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
@@ -73,20 +73,20 @@
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center mt-10">
   <div
-    class="max-w-container-12 h-60 flex-1 flex flex-col justify-between items-start m-auto px-5 xl:px-0">
+    class="max-w-container-12 h-60 flex-1 flex flex-col justify-center items-start m-auto px-5 xl:px-0">
     <H2>
       <span class=" text-primary">Dein neuer Betrieb vermisst dich!</span><br />
       <span class="text-secondary">Auf in eine gute Zukunft</span><span
         class="text-primary">!</span>
     </H2>
-    <div class="flex flex-col md:flex-row gap-4">
+    <div class="flex flex-col md:flex-row pt-5 gap-4">
       <Button
         text="Offene Stellen"
-        link="/jobs"
+        link="/jobs#coveto_iframe"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
       <Button
         text="Initiativ Bewerbung"
-        link="mailto:info@rent-awesome-people.de"
+        link="mailto:info@rent-awesome-people.de?subject=Initiativ Bewerbung"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
     </div>
   </div>

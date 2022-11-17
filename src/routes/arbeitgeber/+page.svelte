@@ -109,10 +109,10 @@
       <span class="text-secondary">was Sie brauchen.</span>
     </H2>
     <div class="pt-5">
-      <Button
-        text="Kostenloses Erstgespräch verienbaren"
-        link="mailto:info@rent-awesome-people.de"
-        color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
     </div>
+    <Button
+      text="Kostenloses Erstgespräch vereinbaren"
+      link="mailto:info@rent-awesome-people.de?subject=Kostenloses Erstgespräch vereinbaren"
+      color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
