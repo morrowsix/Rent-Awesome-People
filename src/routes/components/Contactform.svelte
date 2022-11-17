@@ -2,7 +2,7 @@
   import H3 from "./H3.svelte";
 </script>
 
-<div
+<!-- <div
   class="max-w-container-12 shadow-lg bg-gradient-to-b from-gradient-dark to-gradient-light rounded-[50px] pt-8 pb-10 md:px-5 mx-2 xl:m-auto">
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
@@ -91,7 +91,7 @@
         class="text-white uppercase border-4 border-white bg-secondary rounded-full text-1xl sm:text-2xl font-light py-2 px-6 sm:min-w-[20rem] min-w-[16rem] max-w-[fit-content] text-center shadow-md hover:shadow-2xl hover:scale-[101%] transition-all cursor-pointer" />
     </div>
   </form>
-</div>
+</div> -->
 <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
