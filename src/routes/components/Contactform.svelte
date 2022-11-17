@@ -8,6 +8,7 @@
     <H3 align="text-center">Kontaktformular</H3>
   </div>
   <form name="contactform" data-netlify="true">
+    <input type="hidden" name="form-name" value="contactform" />
     <div
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center text-primary font-light">
       <div class="flex flex-col flex-1 px-5 gap-4">
