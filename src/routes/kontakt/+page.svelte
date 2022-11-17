@@ -27,10 +27,10 @@
     </p>
   </div>
   <div class="py-10 flex">
-    <Button
+    <!-- <Button
       text="Mehr erfahren"
       link="/kontakt"
-      color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
+      color="bg-gradient-to-r from-gradient-dark to-gradient-light" /> -->
   </div>
 </HeaderBanner>
   <div class="pb-10"></div>
@@ -46,7 +46,7 @@
     </H2>
     <div class="flex flex-col md:flex-row gap-4">
       <Button
-        text="Jetzt bewerben"
+        text="Offene Stellen"
         link="/jobs"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
       <Button

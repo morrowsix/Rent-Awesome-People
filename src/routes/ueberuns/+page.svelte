@@ -57,8 +57,8 @@
       class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
       <p>
         Auf dem heutigen Arbeitsmarkt eine Garantie zu geben, liegt uns fern.
-        Aber wir versprechen alles dafür zu tun, dass Bewerber und Auftraggeber
-        zu Mitarbeitenden und Arbeitgebern werden.</p><br>
+        Aber wir versprechen alles dafür zu tun, dass Bewerbende und Auftraggebende
+        zu Mitarbeitenden und Arbeitgebenden werden.</p><br>
         <p>
         Egal ob Sie das Schiff
         steuern oder auf dem Schiff arbeiten. Vom Twindeck bis zur Brücke ist
@@ -67,9 +67,6 @@
         Lassen Sie mich Ihr Beiboot sein!
       </p>
     </div>
-    <Button text="Jetzt Anker werfen"
-            link="#"
-            color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
 <Contactform />
@@ -84,7 +81,7 @@
     </H2>
     <div class="flex flex-col md:flex-row gap-4">
       <Button
-        text="Jetzt bewerben"
+        text="Offene Stellen"
         link="/jobs"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
       <Button

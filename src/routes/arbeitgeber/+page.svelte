@@ -32,7 +32,7 @@
   </div>
   <div class="py-10 flex">
     <Button
-      text="Mehr erfahren"
+      text="Kontakt aufnehmen"
       link="/kontakt"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
@@ -108,13 +108,9 @@
       <span class=" text-primary">Wir finden,</span><br />
       <span class="text-secondary">was Sie brauchen.</span>
     </H2>
-    <div class="flex flex-col md:flex-row pt-5 gap-4">
+    <div class="pt-5">
       <Button
-        text="Jetzt bewerben"
-        link="/jobs"
-        color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
-      <Button
-        text="Initiativ Bewerbung"
+        text="Kostenloses Erstgespräch verienbaren"
         link="mailto:info@rent-awesome-people.de"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
     </div>

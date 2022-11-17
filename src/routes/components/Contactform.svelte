@@ -42,34 +42,45 @@
           class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
           name="Berufsfeld"
           id="profession">
-          <option class="font-light" value="Berufsfeld">BERUFSFELD:</option>
-          <option class="font-light" value="Gastronomie">GASTRONOMIE</option>
-          <option class="font-light" value="Hotellerie">HOTELLERIE</option>
+          <option class="font-light" value="Berufsfeld">VOLLZEIT</option>
+          <option class="font-light" value="Gastronomie">TEILZEIT</option>
+          <option class="font-light" value="Hotellerie">NEBENJOB</option>
         </select>
         <select
           class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
           name="Jobbezeichnung"
           id="job">
           <option class="font-light" value="Jobbezeichnung"
-            >JOBBEZEICHNUNG:</option>
-          <option class="font-light" value="Koch">KOCH</option>
-          <option class="font-light" value="Servicekraft">SERVICEKRAFT</option>
-          <option class="font-light" value="Buerokraft">BÜROKRAFT</option>
-          <option class="font-light" value="Reinigungskraft"
-            >REINIGUNGSKRAFT</option>
+            >ABTEILUNGEN:</option>
+          <option class="font-light" value="Küche">KÜCHE</option>
+          <option class="font-light" value="Service">SERVICE</option>
+          <option class="font-light" value="Rezeption">REZEPTION</option>
+          <option class="font-light" value="Bankett"
+            >BANKETT</option>
+            <option class="font-light" value="Verwaltung"
+            >VERWALTUNG</option>
+            <option class="font-light" value="Lager"
+            >LAGER</option>
+            <option class="font-light" value="Housekeeping"
+            >HOUSEKEEPING</option>
+            <option class="font-light" value="Führungskräfte"
+            >FÜHRUNGSKRÄFTE</option>
+            <option class="font-light" value="Allrounderin"
+            >ALLROUNDER*IN</option>
         </select>
       </div>
       <div class="flex flex-col flex-1 height-full px-5">
         <textarea
-          class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[40px]"
+          class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[40px] focus-visible:outline-none"
           type="textfield"
           name="Nachricht"
           id="message"
-          placeholder="NACHRICHT:" />
+          placeholder="*WIE KÖNNEN WIR HELFEN?"
+          required />
       </div>
     </div>
     <div class="p-5">
-      <p class="text-md sm:text-lg text-white pb-3">
+      <p class="text-md sm:text-lg text-white pb-5">
         Die mit * markierten Felder sind Pflichtfelder. <br /> Informationen zum
         Umgang mit Ihren Daten finden Sie in unserer
         <a class="underline" href="/datenschutz">Datenschutzerklärung</a>.

@@ -38,7 +38,7 @@
   <div class="py-10 flex">
     <Button
       text="Mehr erfahren"
-      link="/kontakt"
+      link="/arbeitgeber"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </HeaderBanner>
@@ -70,7 +70,7 @@
         Beratung für:
       </p>
       <Button text="Mitarbeitende" link="/arbeitnehmer" color="bg-secondary" />
-      <Button text="Arbeitgeber" link="/arbeitgeber" color="bg-secondary" />
+      <Button text="Arbeitgebende" link="/arbeitgeber" color="bg-secondary" />
     </div>
   </div>
 </div>
@@ -98,8 +98,8 @@
       </li>
     </ul>
     <Button
-      text="Jetzt Kontakt aufnehmen"
-      link="/kontakt"
+      text="Offene Stellen"
+      link="/jobs"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>
@@ -123,7 +123,7 @@
       ><span class="text-primary">!</span>
     </H2>
     <Button
-      text="Jetzt anmelden"
+      text="Kontakt aufnehmen"
       link="/kontakt"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
@@ -189,7 +189,7 @@
       Vertrag ab!
     </p>
     <Button
-      text="Jetzt Kontakt aufnehmen"
+      text="Kontakt aufnehmen"
       link="/kontakt"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
@@ -207,8 +207,8 @@
         >!</span>
     </H2>
     <Button
-      text="Jetzt anmelden"
-      link="/kontakt"
+      text="Offene Stellen"
+      link="/jobs"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </div>

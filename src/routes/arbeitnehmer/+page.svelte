@@ -28,8 +28,8 @@
   </div>
   <div class="py-10 flex">
     <Button
-      text="Mehr erfahren"
-      link="/kontakt"
+      text="Offene Stellen"
+      link="/jobs"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 </HeaderBanner>
@@ -101,7 +101,7 @@
     </H2>
     <div class="flex flex-col md:flex-row pt-5 gap-4">
       <Button
-        text="Jetzt bewerben"
+        text="Offene Stellen"
         link="/jobs"
         color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
       <Button
