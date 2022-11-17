@@ -7,9 +7,9 @@
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
   </div>
-  <form class="text-primary font-light" name="contact" method="POST" data-netlify="true">
+  <form name="contact" netlify>
     <div
-      class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center">
+      class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center text-primary font-light">
       <div class="flex flex-col flex-1 px-5 gap-4">
         <input
           class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
