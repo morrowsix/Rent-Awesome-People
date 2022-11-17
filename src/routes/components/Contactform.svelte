@@ -85,10 +85,10 @@
         Umgang mit Ihren Daten finden Sie in unserer
         <a class="underline" href="/datenschutz">Datenschutzerklärung</a>.
       </p>
-      <input
+      <button
         type="submit"
-        value="NACHRICHT SENDEN"
-        class="text-white uppercase border-4 border-white bg-secondary rounded-full text-1xl sm:text-2xl font-light py-2 px-6 sm:min-w-[20rem] min-w-[16rem] max-w-[fit-content] text-center shadow-md hover:shadow-2xl hover:scale-[101%] transition-all cursor-pointer" />
+        class="text-white uppercase border-4 border-white bg-secondary rounded-full text-1xl sm:text-2xl font-light py-2 px-6 sm:min-w-[20rem] min-w-[16rem] max-w-[fit-content] text-center shadow-md hover:shadow-2xl hover:scale-[101%] transition-all cursor-pointer">
+        Nachricht senden</button>
     </div>
   </form>
 </div>
