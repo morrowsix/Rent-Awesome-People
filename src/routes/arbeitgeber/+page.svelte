@@ -6,7 +6,17 @@
   import H2 from "../components/H2.svelte";
   import Contactform from "../components/Contactform.svelte";
 </script>
-
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+  </form>
 <HeaderBanner imglink="/Header-Arbeitgeber.png">
   <div>
     <H2>
