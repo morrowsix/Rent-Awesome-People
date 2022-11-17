@@ -1,5 +1,5 @@
 <script>
-    export let align;
+    export let align = "text-left";
 </script>
 
 <h3
