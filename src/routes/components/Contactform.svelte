@@ -7,7 +7,7 @@
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
   </div>
-  <form class="text-primary font-light" name="contact" netlify>
+  <form class="text-primary font-light" name="contact" method="POST" data-netlify="true">
     <div
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center">
       <div class="flex flex-col flex-1 px-5 gap-4">
@@ -39,15 +39,15 @@
           placeholder="*E-MAIL:"
           required />
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
+          class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
           name="Berufsfeld"
           id="profession">
-          <option class="font-light" value="Berufsfeld">VOLLZEIT</option>
-          <option class="font-light" value="Gastronomie">TEILZEIT</option>
-          <option class="font-light" value="Hotellerie">NEBENJOB</option>
+          <option class="font-light" value="Vollzeit">VOLLZEIT</option>
+          <option class="font-light" value="Teilzeit">TEILZEIT</option>
+          <option class="font-light" value="Nebenjob">NEBENJOB</option>
         </select>
         <select
-          class="py-2 px-2 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem]"
+          class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
           name="Jobbezeichnung"
           id="job">
           <option class="font-light" value="Jobbezeichnung"
@@ -71,7 +71,7 @@
       </div>
       <div class="flex flex-col flex-1 height-full px-5">
         <textarea
-          class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[40px] focus-visible:outline-none"
+          class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[24px] focus-visible:outline-none"
           type="textfield"
           name="Nachricht"
           id="message"
@@ -88,7 +88,7 @@
       <input
         type="submit"
         value="NACHRICHT SENDEN"
-        class="text-white uppercase bg-secondary border-4 border-white rounded-full text-1xl sm:text-2xl font-light py-2 px-6 xs:min-w-[20rem] min-w-[18rem] max-w-[fit-content] text-center shadow-md hover:shadow-2xl hover:scale-[101%] hover:cursor-pointer transition-all" />
+        class="text-white uppercase border-4 border-white bg-secondary rounded-full text-1xl sm:text-2xl font-light py-2 px-6 sm:min-w-[20rem] min-w-[16rem] max-w-[fit-content] text-center shadow-md hover:shadow-2xl hover:scale-[101%] transition-all cursor-pointer" />
     </div>
   </form>
 </div>
