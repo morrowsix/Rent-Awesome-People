@@ -29,13 +29,13 @@
     <div
       class="text-white font-light text-1xl sm:text-2xl pr-5 pt-5 sm:leading-sm">
       <p>
-        Du bist auf der Suche nach einem Job der dich zufrieden stellt? 
-        Dann lies unsere Stellenangebote genau! Wir analysieren die Arbeitgeber und die Stellen genau
-        - So kannst Du schon beim Lesen der Anzeige einen Eindruck gewinnen. Unsere Mission ist es,
+        Du bist auf der Suche nach einem Job der Dich zufrieden stellt? 
+        Dann lies unsere Stellenangebote genau! Wir analysieren die Arbeitgebenden und die Stellen genau
+        - So kannst Du schon beim Lesen der Anzeige einen guten Eindruck gewinnen. Unsere Mission ist es,
         gute Arbeitgeber:innen und gute Arbeitnehmer:innen zusammen zu bringen!</p><br>
         <p>
         Du bist noch angestellt? Wir führen auf Wunsch auch am Wochenende,
-        früh morgens oder am Abend Kennenlerngespräche durch. So, wie es zu deinem Leben passt!
+        frühmorgens oder am Abend Kennenlerngespräche durch. So, wie es zu deinem Leben passt!
         </p><br>
         <p>
         Be awesome! Weil glückliche Gäste von glücklichen Mitarbeitenden kommen.

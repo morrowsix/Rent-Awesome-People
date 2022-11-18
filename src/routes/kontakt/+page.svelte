@@ -20,7 +20,7 @@
   <div
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12">
     <p>
-      Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
+      Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgebende
       in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
       Situationen, die entstehen, wenn sich jeder um sein Kerngeschäft kümmert!
       Unseres ist Recruiting - weil leihen oder mieten von Personal einfach

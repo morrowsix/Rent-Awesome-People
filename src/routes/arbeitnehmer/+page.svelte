@@ -20,7 +20,7 @@
     class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
-      dabei. Wir kennen Deinen neuen Arbeitgeber vielleicht bereits oder lernen
+      dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder lernen
       ihn gerade kennen und können Dir sagen, ob Ihr zusammen passt. Falls der
       eine nicht passt, gibt es gewiss einen anderen. Wir küssen für dich die
       Frösche! Du bekommst den Prinz oder die Prinzessin!
@@ -71,17 +71,17 @@
         class="text-primary">für deine</span
       ><br />
       <span class="text-secondary">Zukunft </span><span class="text-primary"
-        >zufinden:</span>
+        >zu finden:</span>
     </H3>
     <div
       class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
       <p>
         Wir wollen alle ankommen. Im beruflichen Heimathafen! Abhängig von
-        deiner Wertewelt schauen wir uns an, welche Arbeitgeber und
+        deiner Wertewelt schauen wir uns an, welche Arbeitgebenden und
         Arbeitsplätze zu Dir passen.</p><br>
         <p>Aber wir dürfen dennoch nicht vergessen,
         dass wir im Gastgewerbe unterwegs sind. In einem der schönsten Gewerben
-        der Welt - Aus Gästen und Kollegen Freunde machen und glücklich nach
+        der Welt - Aus Gästen und Kolleg:innen Freunde machen und glücklich nach
         Hause gehen! Das klingt doch nach einem Ziel!
       </p>
     </div>

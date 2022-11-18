@@ -23,7 +23,7 @@
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
-      darum machen müssten, wo Sie Ihr Personal her bekommen? Gut? Dann sollten
+      darum machen müssten, wo Sie Ihr Personal herbekommen? Gut? Dann sollten
       wir uns kennenlernen. Wir nehmen Ihnen diese Sorge ab! - Eine Garantie
       können wir nur dann geben, wenn Sie gewillt sind über den Tellerrand
       hinaus zu schauen. Alles andere wäre unseriös!
@@ -54,7 +54,7 @@
     <ul
       class="font-light list-disc list-inside ml-4 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pt-5">
       <li>Passgenaues Recruiting</li>
-      <li>Fachkräfte aus der Umgebung und dem Ausland</li>
+      <li>Fachkräfte aus der Umgebung und aus dem Ausland</li>
       <li>Begleitung im Onboarding-Prozess</li>
     </ul>
   </div>
@@ -81,18 +81,18 @@
       <p>
         Seit über 25 Jahren bin ich in der Gastronomie unterwegs. 1994 hatte ich
         meinen ersten Gastrojob in einem Bierwagen auf einem Volksfest. Seit dem
-        schlägt mein Herz für die Gastronomie. Gästen Wünsche von den Augen
+        schlägt mein Herz für die Gastronomie. Gästen ihre Wünsche von den Augen
         abzulesen ist eine meiner Superkräfte.
       </p><br>
       <p>
         Ich habe von der Festzeltgastronomie bis zum 4 Sterne superior Haus
         alles geliebt und mich an die Gegebenheiten angepasst und durfte von
-        ganz fantastischen Kollegen lernen.
+        ganz fantastischen Kolleg:innen lernen.
       </p><br>
       <p>
         Vor 10 Jahren begann meine Reise hinter die Kulissen. 8 Jahre auf einem
         Kreuzfahrtschiff, danach in einer Zeitarbeitsfirma. Gute Mitarbeitende
-        brauchen gute Arbeitgeber, um ihr Potenzial voll auszuschöpfen! Sein Sie
+        brauchen gute Arbeitgebende, um ihr Potenzial voll auszuschöpfen! Werden Sie
         ein Teil der Revolution im Gastgewerbe!
       </p>
     </div>

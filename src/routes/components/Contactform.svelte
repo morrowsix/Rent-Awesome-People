@@ -41,17 +41,17 @@
           required />
         <select
           class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
-          name="Berufsfeld"
-          id="profession">
+          name="Arbeitszeit"
+          id="worktime">
           <option class="font-light" value="Vollzeit">VOLLZEIT</option>
           <option class="font-light" value="Teilzeit">TEILZEIT</option>
           <option class="font-light" value="Nebenjob">NEBENJOB</option>
         </select>
         <select
           class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
-          name="Jobbezeichnung"
+          name="Abteilung"
           id="job">
-          <option class="font-light" value="Jobbezeichnung"
+          <option class="font-light" value="Abteilung"
             >ABTEILUNGEN:</option>
           <option class="font-light" value="Küche">KÜCHE</option>
           <option class="font-light" value="Service">SERVICE</option>

@@ -56,7 +56,7 @@
     <div
       class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
       <p>
-        Auf dem heutigen Arbeitsmarkt eine Garantie zu geben, liegt uns fern.
+        Auf dem heutigen Arbeitsmarkt eine Garantie zu geben, ist schwierig.
         Aber wir versprechen alles dafür zu tun, dass Bewerbende und Auftraggebende
         zu Mitarbeitenden und Arbeitgebenden werden.</p><br>
         <p>

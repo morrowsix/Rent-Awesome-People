@@ -28,7 +28,7 @@
   <div
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12">
     <p>
-      Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgeber
+      Unsere Mission ist es, großartige Mitarbeitende und großartige Arbeitgebende
       in der Hotellerie und Gastronomie zusammen zu bringen. Wir lieben Win-Win
       Situationen, die entstehen, wenn sich jeder um sein Kerngeschäft kümmert!
       Unseres ist Recruiting - weil leihen oder mieten von Personal einfach
@@ -90,8 +90,8 @@
     </H3>
     <ul
       class="text-primary font-light list-disc list ml-7 text-1xl sm:text-2xl 2xl:whitespace-nowrap sm:leading-sm pb-5 pt-4">
-      <li>Mit einer Bewerbung - bei mehreren Arbeitgebern bewerben.</li>
-      <li>Wir arbeiten nur mit wertschätzenden Arbeitgebern.</li>
+      <li>Mit einer Bewerbung - bei mehreren Arbeitgebenden bewerben.</li>
+      <li>Wir arbeiten nur mit wertschätzenden Arbeitgebenden.</li>
       <li>Wir schauen, ob der Job zu Dir passt und Du zu dem Job.</li>
       <li>
         Wir bringen dich sicher in deinen beruflichen Heimathafen. - Dauerhaft!
@@ -114,7 +114,7 @@
   {/each}
 </div>
 <div class="m-auto max-w-container-12 text-center pb-5 text-primary">
-  <p>* Wir sprechen immer alle Geschlechter an (m/w/d).</p>
+  <p>*Wir beziehen uns auf alle Geschlechter (m/w/d).</p>
 </div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
@@ -140,7 +140,7 @@
     </H3>
     <ul
       class="text-primary font-light list-disc ml-7 text-1xl sm:text-2xl lg:whitespace-nowrap sm:leading-sm pb-5 pt-4">
-      <li>Jeder kümmert sich um seine Kernkompetenz</li>
+      <li>Alle kümmern sich um ihre Kernkompetenzen</li>
       <li>Mehr Umsatz durch eine bessere Personaldecke</li>
       <li>Von der Stellenausschreibung bis zu den Schnuppertagen</li>
       <li>Professioneller Bewerbungsprozess</li>
@@ -178,14 +178,14 @@
   </div>
 
   <div slot="right" class="max-w-container-6 flex-1 pl-5 xl:pl-16 flex flex-col">
-    <H3>Informationen für <br /> Arbeitgeber:</H3>
+    <H3>Informationen für <br /> Arbeitgebende:</H3>
     <p class="text-1xl sm:text-2xl font-light py-5">
       Seit Jahren wird es schwieriger die passenden Bewerber:innen für offene
       Stellen zu finden. Ein Knackpunkt ist definitiv das Tagesgeschäft. Wer ein
       Unternehmen führt, hat eigentlich keine Zeit sich um die
       Stellenausschreibung, die zeitnahe Kontaktaufnahme und den Prozess des
       Aussortierens zu kümmern. Und schon sind großartige Kandidat:innen bei
-      einem anderen Arbeitgeber. Wir kümmern uns um den kompletten Prozess von
+      einem anderen Arbeitgebende. Wir kümmern uns um den kompletten Prozess von
       der Betriebs- und Bedarfsanalyse, über professionelle, wirkungsvolle
       Stellenausschreibungen bis hin zum vereinbaren des Termins für einen
       Schnuppertag - Sie lernen sich kennen und wenn es passt, schließen Sie den
