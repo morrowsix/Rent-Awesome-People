@@ -114,7 +114,7 @@
   {/each}
 </div>
 <div class="m-auto max-w-container-12 text-center pb-5 text-primary">
-  <p>*Wir beziehen uns auf alle Geschlechter (m/w/d).</p>
+  <p>*Wir beziehen uns auf alle Geschlechterrollen (m/w/d).</p>
 </div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/professionelleKellnerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center">
