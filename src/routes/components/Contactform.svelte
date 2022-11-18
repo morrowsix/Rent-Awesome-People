@@ -7,7 +7,7 @@
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
   </div>
-  <form name="contactform" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <form name="contactform" method="POST" netlify-honeypot="bot-field" data-netlify="true" action="/danke">
     <input type="hidden" name="form-name" value="contactform" />
     <div
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center text-primary font-light">
