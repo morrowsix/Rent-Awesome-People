@@ -10,7 +10,7 @@
     <div class="text-xl font-light flex-[100%] sm:flex-[50%] lg:flex-[25%] pb-10 lg:pb-0 text-center sm:text-left">
       <div class=" h-12">
         <h6 class=" uppercase text-white text-xl font-bold">
-          Rent awesome people GmbH:
+          Rent awesome people GmbH
         </h6>
       </div>
       <p class="text-white">Beatrix Westphal</p>
@@ -42,4 +42,5 @@
       <a href="/impressum" class="text-white">Impressum</a>
     </div>
   </div>
+  <div class="w-full bg-[#8c8c8c] text-white text-center font-extralight">Design und Umsetzung by <a href="https://www.morrowsix.de/">morrow six Gbr</a></div>
 </div>
