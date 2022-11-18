@@ -7,7 +7,7 @@
   import Contactform from "../components/Contactform.svelte";
 </script>
 
-<HeaderBanner imglink="/Header-Arbeitnehmer2.png">
+<HeaderBanner imglink="/Fjolla-Notebook.png">
   <div>
     <H2>
       <span class=" text-primary">Keine Angst</span><br />

@@ -39,7 +39,7 @@
 
 <div class="max-w-container-12 flex flex-col md:flex-row m-auto pt-10 relative">
   <div class="self-end xl:w-[unset] md:w-1/2 flex-1">
-    <img src="/Beatrix-Fjolla.png" alt="" />
+    <img src="/Bea_Fjolla.png" alt="" />
   </div>
   <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10 pb-10">
     <H2>
