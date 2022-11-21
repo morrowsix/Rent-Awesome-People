@@ -84,7 +84,7 @@
       <p class="text-md sm:text-lg text-white pb-5">
         Die mit * markierten Felder sind Pflichtfelder. <br /> Informationen zum
         Umgang mit Ihren Daten finden Sie in unserer
-        <a class="underline" href="/datenschutz">Datenschutzerklärung</a>.
+        <a class="underline" href="/datenschutz">Datenschutzinformation</a>.
       </p>
       <button
         type="submit"

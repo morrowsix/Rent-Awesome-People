@@ -37,7 +37,7 @@
         <a href="https://www.instagram.com/rent_awesome_people/"> <img class=" mr-4" src="/insta-icon.png" alt="Instagram Icon" /></a>
         <a href="https://www.linkedin.com/in/beatrix-westphal-a39a3b236/"> <img class="max-w-[34px]" src="/linkedin-icon.png" alt="Instagram Icon" /></a>
       </div>
-      <a href="/datenschutz" class="text-white">Datenschutzerklärung</a><br />
+      <a href="/datenschutz" class="text-white">Datenschutzinformation</a><br />
       <a href="/agb" class="text-white">AGB</a><br />
       <a href="/impressum" class="text-white">Impressum</a>
     </div>

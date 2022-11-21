@@ -5,7 +5,7 @@
 <div class="max-w-container-12 m-auto xl:px-0 px-7 pt-10">
   <h1
     class="uppercase text-2xl sm:text-4xl lg:text-5xl font-medium leading-sm lg:leading-md pb-5 text-primary">
-    Datenschutzerklärung
+    Datenschutzinformation
   </h1>
   <div class="text-primary font-light text-1xl sm:text-2xl sm:leading-sm pb-10">
     <p class="py-5">
