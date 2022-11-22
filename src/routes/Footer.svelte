@@ -42,5 +42,5 @@
       <a href="/impressum" class="text-white">Impressum</a>
     </div>
   </div>
-  <div class="w-full bg-[#8c8c8c] text-white text-center font-extralight">Design und Umsetzung by <a class="font-medium" href="https://www.morrowsix.de/">morrow six Gbr</a></div>
+  <div class="w-full bg-[#8c8c8c] text-white text-center font-extralight">Design und Umsetzung by <a class="font-medium" href="https://www.morrowsix.de/">morrow six GbR</a></div>
 </div>
