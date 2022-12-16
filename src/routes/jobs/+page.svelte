@@ -1,3 +1,7 @@
+<head>
+  <title>Jobs</title>
+  <meta name="title" content="Jobs">
+</head>
 <script type="text/javascript" src="https://k58053.coveto.de/jobs.js">
     import Button from "../components/Button.svelte";
     import HeaderBanner from "../components/HeaderBanner.svelte";

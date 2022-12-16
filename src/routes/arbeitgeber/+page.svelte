@@ -1,3 +1,7 @@
+<head>
+  <title>Arbeitgeber</title>
+  <meta name="title" content="Arbeitgeber">
+</head>
 <script>
   import Button from "../components/Button.svelte";
   import HeaderBanner from "../components/HeaderBanner.svelte";

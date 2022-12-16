@@ -1,3 +1,7 @@
+<head>
+  <title>Startseite</title>
+  <meta name="title" content="Startseite">
+</head>
 <script>
   import Herocard from "./components/Herocard.svelte";
   import Button from "./components/Button.svelte";
