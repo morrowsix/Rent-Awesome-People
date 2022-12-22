@@ -1,7 +1,7 @@
-<head>
+<svelte:head>
   <title>Über Uns</title>
   <meta name="title" content="Über Uns">
-</head>
+</svelte:head>
 <script>
   import Button from "../components/Button.svelte";
   import HeaderBanner from "../components/HeaderBanner.svelte";

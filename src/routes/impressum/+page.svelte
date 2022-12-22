@@ -1,7 +1,7 @@
-<head>
+<svelte:head>
   <title>Impressum</title>
   <meta name="title" content="Impressum">
-</head>
+</svelte:head>
 <script>
   import H3 from "../components/H3.svelte";
 </script>

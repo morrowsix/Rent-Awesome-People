@@ -1,7 +1,7 @@
-<head>
+<svelte:head>
   <title>AGB</title>
   <meta name="title" content="AGB">
-</head>
+</svelte:head>
 <script>
   import H3 from "../components/H3.svelte";
 </script>
