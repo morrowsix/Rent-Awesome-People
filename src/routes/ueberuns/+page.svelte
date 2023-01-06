@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Über Uns</title>
-  <meta name="title" content="Über Uns">
+  <meta name="description" content="">
 </svelte:head>
 <script>
   import Button from "../components/Button.svelte";

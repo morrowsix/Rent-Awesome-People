@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Personalvermittlung Gastronomie Hotellerie</title>
-  <meta name="title" content="Startseite">
+  <meta name="description" content="">
 </svelte:head>
 <script>
   import Herocard from "./components/Herocard.svelte";

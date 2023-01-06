@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Danke</title>
-  <meta name="title" content="Danke">
+  <meta name="description" content="">
 </svelte:head>
 <script>
     import HeaderBanner from "../components/HeaderBanner.svelte";

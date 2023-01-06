@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Jobs</title>
-  <meta name="title" content="Jobs">
+  <meta name="description" content="">
 </svelte:head>
 <script type="text/javascript" src="https://k58053.coveto.de/jobs.js">
     import Button from "../components/Button.svelte";
@@ -52,5 +52,5 @@
   <H2 align="text-center"><span class="text-primary">Ist dein neuer Job dabei?</span></H2>
 </div>
 <!-- coveto Stellenportal iframe -->
-    <iframe id="coveto_iframe" src="https://k58053.coveto.de/public/jobs/" border="0" style="border: none;" width="100%" height="750"></iframe><p id="poweredbycoveto" style="margin-top:20px; text-align:right;"><a style="font-size: 10px; color: #AAA;text-decoration:none;" href="http://www.coveto.de" target="_blank" rel="noopener">powered by coveto, Software f&uuml;r Bewerberverwaltung</a></p>
+    <iframe id="coveto_iframe" src="https://k58053.coveto.de/public/jobs/" border="0" style="border: none;" width="100%" height="750"></iframe>
 <!-- end of coveto Stellenportal iframe -->
