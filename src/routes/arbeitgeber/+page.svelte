@@ -1,6 +1,6 @@
 <svelte:head>
-  <title>Arbeitgeber</title>
-  <meta name="description" content="">
+  <title>Hotelpersonalvermittlung & Vermittlung Serviceroboter Kassel</title>
+  <meta name="description"content="Sie suchen die passenden Arbeitskräfte für Ihr Unternehmen? Wir finden Sie! Hotelpersonalvermittlung und Serviceroboter Vermittlung in Kassel">
 </svelte:head>
 <script>
   import Button from "../components/Button.svelte";
@@ -25,6 +25,7 @@
   </div>
   <div
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    <H1><span class="text-white" style="font-size:24px">class="text-white">Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</span></H1>
     <p>
       Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
       darum machen müssten, wo Sie Ihr Personal herbekommen? Gut? Dann sollten
