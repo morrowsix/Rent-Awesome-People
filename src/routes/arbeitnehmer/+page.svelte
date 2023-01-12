@@ -1,6 +1,6 @@
 <svelte:head>
-  <title>Arbeitnehmer</title>
-  <meta name="description" content="">
+  <title>Personalvermittlungsagentur Kassel | Gastronomie & Hotellerie</title>
+  <meta name="description" content="Wir finden die besten Mitarbeiter für Ihr Unternehmen! Spezialist für Personalvermittlung in der Gastronomie und Hotellerie | Personalvermittlungsagentur Kassel">
 </svelte:head>
 <script>
   import Button from "../components/Button.svelte";
@@ -19,9 +19,9 @@
       <span class="text-secondary">Unterschrift</span><span
         class=" text-primary">.</span>
     </H2>
+    <H1><span class="text-white" style="font-size:24px">class="text-white">Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</span></H1>
   </div>
-  <div
-    class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+  <div class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder lernen
