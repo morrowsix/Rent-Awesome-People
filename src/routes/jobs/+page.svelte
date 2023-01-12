@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-  <title>Jobs</title>
+  <title>Jobs.</title>
   <meta name="description" content="" />
 </svelte:head>
 
