@@ -34,7 +34,7 @@
       <span class="text-white">Wir sind der Direktvermittler</span><br />
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
     </H3>
-    
+    <H1><span class="text-white" style="font-size:24px">class="text-white">Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</span></H1>
     <div
       class="text-white font-light text-1xl sm:text-2xl pr-5 pt-5 sm:leading-sm">
       <p>
