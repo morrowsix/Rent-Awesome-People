@@ -7,8 +7,8 @@
 </script>
 
 <svelte:head>
-  <title>Jobs.</title>
-  <meta name="description" content="" />
+  <title>Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</title>
+  <meta name="description" content="Noch heute deinen Traum Job finden! Jobs und Jobangebote für Hotelmitarbeiter und Gastronomen | Gastronomie & Hotellerie Kassel | Personalvermittlung" />
 </svelte:head>
 
 <HeaderBanner imglink="/Header-Start.png">
@@ -34,6 +34,9 @@
       <span class="text-white">Wir sind der Direktvermittler</span><br />
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
     </H3>
+    <H1>
+      <span class="text-white" style="font-size:24px">class="text-white">Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</span>
+    </H1>
     <div
       class="text-white font-light text-1xl sm:text-2xl pr-5 pt-5 sm:leading-sm">
       <p>
