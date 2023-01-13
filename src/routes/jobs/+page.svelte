@@ -7,6 +7,7 @@
 </script>
 
 <svelte:head>
+  <script type="text/javascript" src="https://k58053.coveto.de/jobs.js"></script>
   <title>Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</title>
   <meta name="description" content="Noch heute deinen Traum Job finden! Jobs und Jobangebote für Hotelmitarbeiter und Gastronomen | Gastronomie & Hotellerie Kassel | Personalvermittlung" />
 </svelte:head>
