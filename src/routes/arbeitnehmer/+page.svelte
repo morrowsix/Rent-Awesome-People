@@ -19,7 +19,9 @@
       <span class="text-secondary">Unterschrift</span><span
         class=" text-primary">.</span>
     </H2>
-    <H1><span class="text-white" style="font-size:24px">class="text-white">Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</span></H1>
+    </div>
+  <div>
+    <H1><span class="text-white" style="font-size:24px">Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</span></H1>
   </div>
   <div class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <p>
