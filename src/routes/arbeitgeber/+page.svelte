@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Hotelpersonalvermittlung & Vermittlung Serviceroboter Kassel</title>
+  <title>Hotelpersonalvermittlung & Vermittlung Serviceroboter Kassel.</title>
   <meta name="description" content="Sie suchen die passenden Arbeitskräfte für Ihr Unternehmen? Wir finden Sie! Hotelpersonalvermittlung und Serviceroboter Vermittlung in Kassel">
 </svelte:head>
 <script>
