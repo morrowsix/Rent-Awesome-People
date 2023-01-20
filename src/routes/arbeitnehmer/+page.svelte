@@ -9,6 +9,7 @@
   import H3 from "../components/H3.svelte";
   import H2 from "../components/H2.svelte";
   import Contactform from "../components/Contactform.svelte";
+  import H1 from "../components/H1.svelte";
 </script>
 
 <HeaderBanner imglink="/Fjolla-Notebook.png">
@@ -21,9 +22,9 @@
     </H2>
     </div>
   <div>
-    <H1><span class="text-white" style="font-size:24px">Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</span></H1>
   </div>
   <div class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    <H1 small>Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</H1>
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder lernen

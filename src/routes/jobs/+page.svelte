@@ -3,6 +3,7 @@
   import HeaderBanner from "../components/HeaderBanner.svelte";
   import H3 from "../components/H3.svelte";
   import H2 from "../components/H2.svelte";
+  import H1 from "../components/H1.svelte";
 
 </script>
 
@@ -35,9 +36,9 @@
       <span class="text-white">Wir sind der Direktvermittler</span><br />
       <span class="text-white">für die Hotellerie und Gastronomie!</span>
     </H3>
-    <H1><span class="text-white" style="font-size:24px">Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</span></H1>
     <div
       class="text-white font-light text-1xl sm:text-2xl pr-5 pt-5 sm:leading-sm">
+      <H1 small>Jobangebot Gastronomie & Hotelmitarbeiter Jobs finden Kassel</H1>
       <p>
         Du bist auf der Suche nach einem Job der Dich zufrieden stellt? Dann
         lies unsere Stellenangebote genau! Wir analysieren die Arbeitgebenden

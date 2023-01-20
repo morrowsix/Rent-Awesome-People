@@ -8,6 +8,7 @@
   import H3 from "../components/H3.svelte";
   import H2 from "../components/H2.svelte";
   import Contactform from "../components/Contactform.svelte";
+  import H1 from "../components/H1.svelte";
 </script>
 
 <HeaderBanner imglink="/Header-Start.png">
