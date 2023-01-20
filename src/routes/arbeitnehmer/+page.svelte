@@ -3,13 +3,13 @@
   <meta name="description" content="Wir finden die besten Mitarbeiter für Ihr Unternehmen! Spezialist für Personalvermittlung in der Gastronomie und Hotellerie | Personalvermittlungsagentur Kassel">
 </svelte:head>
 <script>
-  import Button from "../components/Button.svelte";
-  import HeaderBanner from "../components/HeaderBanner.svelte";
-  import TwoCol from "../components/TwoCol.svelte";
-  import H3 from "../components/H3.svelte";
-  import H2 from "../components/H2.svelte";
-  import Contactform from "../components/Contactform.svelte";
-  import H1 from "../components/H1.svelte";
+  import Button from "$lib/components/Button.svelte";
+  import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+  import TwoCol from "$lib/components/TwoCol.svelte";
+  import H3 from "$lib/components/H3.svelte";
+  import H2 from "$lib/components/H2.svelte";
+  import Contactform from "$lib/components/Contactform.svelte";
+  import H1 from "$lib/components/H1.svelte";
 </script>
 
 <HeaderBanner imglink="/Fjolla-Notebook.png">

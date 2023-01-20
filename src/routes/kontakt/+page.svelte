@@ -3,12 +3,12 @@
   <meta name="description" content="">
 </svelte:head>
 <script>
-  import Button from "../components/Button.svelte";
-  import HeaderBanner from "../components/HeaderBanner.svelte";
-  import H3 from "../components/H3.svelte";
-  import H2 from "../components/H2.svelte";
-  import Contactform from "../components/Contactform.svelte";
-  import H1 from "../components/H1.svelte";
+  import Button from "$lib/components/Button.svelte";
+  import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+  import H3 from "$lib/components/H3.svelte";
+  import H2 from "$lib/components/H2.svelte";
+  import Contactform from "$lib/components/Contactform.svelte";
+  import H1 from "$lib/components/H1.svelte";
 </script>
 
 <HeaderBanner imglink="/Header-Start.png">

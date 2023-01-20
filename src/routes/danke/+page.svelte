@@ -3,8 +3,8 @@
   <meta name="description" content="">
 </svelte:head>
 <script>
-    import HeaderBanner from "../components/HeaderBanner.svelte";
-    import H2 from "../components/H2.svelte";
+    import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+    import H2 from "$lib/components/H2.svelte";
   </script>
   
   <HeaderBanner imglink="/Header-Ueberuns.png">

@@ -3,12 +3,12 @@
   <meta name="description" content="">
 </svelte:head>
 <script>
-  import Herocard from "./components/Herocard.svelte";
-  import Button from "./components/Button.svelte";
-  import HeaderBanner from "./components/HeaderBanner.svelte";
-  import TwoCol from "./components/TwoCol.svelte";
-  import H3 from "./components/H3.svelte";
-  import H2 from "./components/H2.svelte";
+  import Herocard from "$lib/components/Herocard.svelte";
+  import Button from "$lib/components/Button.svelte";
+  import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+  import TwoCol from "$lib/components/TwoCol.svelte";
+  import H3 from "$lib/components/H3.svelte";
+  import H2 from "$lib/components/H2.svelte";
   let heroes = [
     { name: "Küchenmagier", imgurl: "heroes/Kuechenmagier.png" },
     { name: "Empfangselfen", imgurl: "heroes/Empfangselfen.png" },

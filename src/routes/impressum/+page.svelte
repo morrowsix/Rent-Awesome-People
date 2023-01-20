@@ -3,7 +3,7 @@
   <meta name="description" content="">
 </svelte:head>
 <script>
-  import H3 from "../components/H3.svelte";
+  import H3 from "$lib/components/H3.svelte";
 </script>
 
 <div class="max-w-container-12 m-auto xl:px-0 px-7 pt-10">
