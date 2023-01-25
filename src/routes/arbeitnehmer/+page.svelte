@@ -1,6 +1,6 @@
 <svelte:head>
   <title>Personalvermittlungsagentur Kassel | Gastronomie & Hotellerie</title>
-  <meta name="description" content="Wir finden die besten Mitarbeiter für Ihr Unternehmen! Spezialist für Personalvermittlung in der Gastronomie und Hotellerie | Personalvermittlungsagentur Kassel">
+  <meta name="description" content="Wir finden die passenden Mitarbeiter für Ihr Unternehmen! Personalvermittlung für Gastronomie und Hotellerie | Personalvermittlungsagentur in Kassel">
 </svelte:head>
 <script>
   import Button from "$lib/components/Button.svelte";

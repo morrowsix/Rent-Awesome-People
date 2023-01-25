@@ -26,7 +26,7 @@
   </div>
   <div
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
-    <H1 small>Vermittlung für Serviceroboter & Hotelpersonalvermittlung in Kassel</H1>
+    <H1 small>Hotelpersonalvermittlung & Serviceroboter Vermittlung in Kassel </H1>
     <p>
       Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
       darum machen müssten, wo Sie Ihr Personal herbekommen? Gut? Dann sollten
