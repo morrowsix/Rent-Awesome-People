@@ -1,10 +1,11 @@
-<svelte:head>
-  <title>Impressum</title>
-  <meta name="description" content="">
-</svelte:head>
 <script>
   import H3 from "$lib/components/H3.svelte";
 </script>
+
+<svelte:head>
+  <title>Impressum</title>
+  <meta name="description" content="" />
+</svelte:head>
 
 <div class="max-w-container-12 m-auto xl:px-0 px-7 pt-10">
   <h1
@@ -26,11 +27,10 @@
     </p>
     <p>
       Die Rent Awesome People GmbH in Kassel ist der nachhaltige
-      Personaldienstleister für die Hotellerie und Gastronomie. Suchen Sie
-      Personal für Ihre Hochzeit, ein Fest oder Unterstützung in stürmischen
-      Zeiten? Sprechen Sie uns an! Du suchst einen fairen Job in der
-      Gastronomie? Möchtest auch als Mensch gesehen werden? Dann bewirb dich bei
-      uns und werde Teil unserer Mission des Teilens!
+      Direktvermittler für die Hotellerie und Gastronomie. Suchen Sie
+      Unterstützung in stürmischen Zeiten? Sprechen Sie uns an! Du suchst einen
+      fairen Job in der Gastronomie? Möchtest auch als Mensch gesehen werden?
+      Dann bewirb dich bei uns und werde Teil unserer Mission!
     </p>
   </div>
 </div>
