@@ -1,5 +1,42 @@
 <script>
   import H3 from "./H3.svelte";
+  import {goto} from "$app/navigation";
+
+  let form;
+
+  function enhance(form) {
+    async function handleSubmit(event) {
+      event.preventDefault();
+
+      const thankYouUrl = "/danke";
+      const data = new FormData(form);
+      
+      await fetch(form.action, {
+        method: form.method,
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(data).toString(),
+      })
+        .then(() => {
+          form.reset();
+          window.setTimeout(() => {
+            goto(thankYouUrl)
+          }, 2000);
+        })
+        .catch((error) => {
+          alert(
+            "Beim senden des Formulars ist ein Fehler aufgetreten, bitte versuchen Sie es zu einem späteren Zeitpunkt erneut oder nutzen Sie unsere E-Mail Adresse."
+          );
+        });
+    }
+
+    form.addEventListener("submit", handleSubmit);
+
+    return {
+      destroy: () => {
+        form.removeEventListener("submit", handleSubmit);
+      },
+    };
+  }
 </script>
 
 <div
@@ -7,13 +44,18 @@
   <div class="text-white pb-8">
     <H3 align="text-center">Kontaktformular</H3>
   </div>
-  <form name="contactform" method="POST" action="https://p632806.mittwaldserver.info/contact.php">
+  <form
+    use:enhance
+    bind:this={form}
+    name="contactform"
+    method="POST"
+    action="https://p632806.mittwaldserver.info/contact.php">
     <input type="hidden" name="form-name" value="contactform" />
     <div
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center text-primary font-light">
       <div class="flex flex-col flex-1 px-5 gap-4">
         <input
-        for="name"
+          for="name"
           class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="text"
           name="Vorname"
@@ -34,7 +76,7 @@
           id="tel"
           placeholder="TELEFON:" />
         <input
-        for="email"
+          for="email"
           class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
           type="email"
           name="E-Mail"
@@ -53,28 +95,22 @@
           class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
           name="Abteilung"
           id="job">
-          <option class="font-light" value="Abteilung"
-            >ABTEILUNGEN:</option>
+          <option class="font-light" value="Abteilung">ABTEILUNGEN:</option>
           <option class="font-light" value="Küche">KÜCHE</option>
           <option class="font-light" value="Service">SERVICE</option>
           <option class="font-light" value="Rezeption">REZEPTION</option>
-          <option class="font-light" value="Bankett"
-            >BANKETT</option>
-            <option class="font-light" value="Verwaltung"
-            >VERWALTUNG</option>
-            <option class="font-light" value="Lager"
-            >LAGER</option>
-            <option class="font-light" value="Housekeeping"
-            >HOUSEKEEPING</option>
-            <option class="font-light" value="Führungskräfte"
+          <option class="font-light" value="Bankett">BANKETT</option>
+          <option class="font-light" value="Verwaltung">VERWALTUNG</option>
+          <option class="font-light" value="Lager">LAGER</option>
+          <option class="font-light" value="Housekeeping">HOUSEKEEPING</option>
+          <option class="font-light" value="Führungskräfte"
             >FÜHRUNGSKRÄFTE</option>
-            <option class="font-light" value="Allrounderin"
-            >ALLROUNDER*IN</option>
+          <option class="font-light" value="Allrounderin">ALLROUNDER*IN</option>
         </select>
       </div>
       <div class="flex flex-col flex-1 height-full px-5">
         <textarea
-        for="message"
+          for="message"
           class="placeholder:text-grey placeholder:font-light px-5 py-4 h-full rounded-[24px] focus-visible:outline-none"
           type="textfield"
           name="Nachricht"
