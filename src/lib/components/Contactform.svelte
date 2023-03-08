@@ -1,6 +1,6 @@
 <script>
   import H3 from "./H3.svelte";
-  import {goto} from "$app/navigation";
+  import { goto } from "$app/navigation";
 
   let form;
 
@@ -10,7 +10,7 @@
 
       const thankYouUrl = "/danke";
       const data = new FormData(form);
-      
+
       await fetch(form.action, {
         method: form.method,
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -19,7 +19,7 @@
         .then(() => {
           form.reset();
           window.setTimeout(() => {
-            goto(thankYouUrl)
+            goto(thankYouUrl);
           }, 2000);
         })
         .catch((error) => {
@@ -54,6 +54,12 @@
     <div
       class="flex flex-col gap-4 md:gap-0 md:flex-row text-1xl sm:text-2xl justify-center text-primary font-light">
       <div class="flex flex-col flex-1 px-5 gap-4">
+        <input
+          class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none hidden"
+          type="text"
+          name="firstname"
+          id="firstname"
+          placeholder="*VORNAME:" />
         <input
           for="name"
           class="placeholder:text-grey placeholder:font-light px-4 py-2 rounded-[40px] focus-visible:outline-none"
