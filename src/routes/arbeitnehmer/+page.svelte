@@ -105,7 +105,9 @@
 <Contactform />
 <div class="px-5 pb-5 pt-8 lg:pt-12 lg:w-8/12 m-auto">
   <div class="text-primary font-light text-1xl sm:text-2xl">
-      <H3>Deine awesome Personalvermittlungsagentur in Kassel</H3>
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-5 align-middle">
+        Deine awesome Personalvermittlungsagentur in Kassel
+      </h3>
       <p>
         Die Wahl einer guten Personalvermittlungsagentur in Kassel hat einen
         maßgeblichen Einfluss auf deine Karriere: Dein Personalvermittler kann
