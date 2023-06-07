@@ -82,8 +82,11 @@
 <!-- end of coveto Stellenportal iframe -->
 
 <div class="px-5 pb-5 pt-8 lg:pt-12 lg:w-8/12 m-auto">
-  <Accordion title="Deinen passenden Job finden, Kassel und Umgebung">
+
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Deinen passenden Job finden, Kassel und Umgebung
+      </h3>
       <p>
         Einen Personalvermittler zu finden, der gut zu deiner Persönlichkeit,
         deinen beruflichen Anforderungen und deinem Profil passt, kann sich oft
@@ -111,10 +114,9 @@
         den Einstieg in die Arbeit mit einem Personalvermittler:
       </p>
     </div>
-  </Accordion>
-  <Accordion
-    title="Finde einen Vermittler für Jobs Gastronomie Kassel, bevor du einen brauchst">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      Finde einen Vermittler für Jobs Gastronomie Kassel, bevor du einen brauchst
       <p>
         Der Erstkontakt soll dazu dienen, dass dein Vermittler und du euch
         kennenlernt und ein Gefühl füreinander bekommt. Stelle sicher, dass ihr
@@ -131,9 +133,11 @@
         gestaltet sich die Suche nach einem passenden Job.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Spezialisierung auf das Jobangebot Gastronomie Kassel">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Spezialisierung auf das Jobangebot Gastronomie Kassel
+      </h3>
       <p>
         Die meisten Vermittler sind heutzutage sehr spezialisiert. Am besten
         suchst du einen Vermittler, der deine Branche versteht. Vorzugsweise hat
@@ -148,10 +152,11 @@
         Traumjob.
       </p>
     </div>
-  </Accordion>
-  <Accordion
-    title="Ein effektives Anschreiben für den Hotelmitarbeiter Job in Kassel">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Ein effektives Anschreiben für den Hotelmitarbeiter Job in Kassel
+      </h3>
       <p>
         Gestalte dein Anschreiben einfach und trotzdem gehaltvoll. Bringe die
         Sachen direkt auf den Punkt. Dein Anschreiben sollte dem
@@ -166,10 +171,11 @@
         aber möglicherweise nicht im Lebenslauf enthalten sind.
       </p>
     </div>
-  </Accordion>
-  <Accordion
-    title="Finde einen Personalvermittler, bei dem du dich wohlfühlst und dem du vertraust">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Finde einen Personalvermittler, bei dem du dich wohlfühlst und dem du vertraust
+      </h3>
       <p>
         Man kann es gar nicht genug betonen. Dein Personalvermittler muss gut zu
         deiner Persönlichkeit passen und in der Lage sein, absolut vertraulich
@@ -188,9 +194,11 @@
         Sicherheit deinen passenden Hotelmitarbeiter Job in Kassel.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Klare Anforderungen bei der Jobsuche">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Klare Anforderungen bei der Jobsuche
+      </h3>
       <p>
         Lege deinem Vermittler so früh wie möglich alle wichtigen Anforderungen
         und Bedürfnisse dar. Dazu gehören aktuelle Gehaltsinformationen und
@@ -201,9 +209,11 @@
         mit Vorstellungsgesprächen für Jobs, die gar nicht zu dir passen.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Kläre alle Formalitäten für die Jobsuche">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Kläre alle Formalitäten für die Jobsuche
+      </h3>
       <p>
         Du solltest von Anfang an alle wichtigen formalen Dinge mit deinem
         Vermittler klären. Zum Beispiel wie genau der Prozess ablaufen wird, wer
@@ -217,9 +227,12 @@
         auf die kommunikativen Eigenschaften deines Gegenübers.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Keine Angst vor dem Jobwechsel">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Keine Angst vor dem Jobwechsel
+      </h3>
       <p>
         Eine gut gepflegte Beziehung zu einem guten Personalvermittler kann ein
         Segen für deine Karriere sein. Früher galt es als negativer
@@ -242,9 +255,11 @@
         Karriere nach vorne!
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Lass uns loslegen!">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Lass uns loslegen!
+      </h3>
       <p>
         Bist du bereit für berufliche Veränderung? Willst du für dich und deine
         Karriere das Beste? Möchtest du einen Job finden, Kassel und Umgebung?
@@ -257,5 +272,4 @@
         drauf!
       </p>
     </div>
-  </Accordion>
 </div>
