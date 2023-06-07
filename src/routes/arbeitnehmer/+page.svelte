@@ -129,7 +129,7 @@
       </p>
     </div>
   
-    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Das Vertrauen bei der Personalvermittlung Kassel
       </h3>
@@ -161,7 +161,7 @@
       </p>
     </div>
 
-    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Das nötige Wissen und Erfahrung
       </h3>
@@ -179,7 +179,7 @@
       </p>
     </div>
 
-    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Spezialisierung: Personalvermittlung Gastronomie Kassel & Hotellerie Kassel
       </h3>
@@ -203,7 +203,7 @@
     </div>
 
 
-    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Die Chemie muss stimmen
       </h3>
@@ -227,7 +227,7 @@
     </div>
 
 
-    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Nur das Beste für deine Karriere!
       </h3>
@@ -262,7 +262,7 @@
     </div>
 
 
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Noch heute den ersten Schritt in Richtung Traumjob machen!
       </h3>
