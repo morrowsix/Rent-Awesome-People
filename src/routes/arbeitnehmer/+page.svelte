@@ -129,7 +129,7 @@
       </p>
     </div>
   
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Das Vertrauen bei der Personalvermittlung Kassel
       </h3>
@@ -161,7 +161,7 @@
       </p>
     </div>
 
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Das nötige Wissen und Erfahrung
       </h3>
@@ -179,7 +179,7 @@
       </p>
     </div>
 
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Spezialisierung: Personalvermittlung Gastronomie Kassel & Hotellerie Kassel
       </h3>
@@ -202,8 +202,11 @@
       </p>
     </div>
 
-  <Accordion title="Die Chemie muss stimmen">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Die Chemie muss stimmen
+      </h3>
       <p>
         Wie bei den meisten menschlichen Interaktionen ist die Chemie zwischen
         deinem Personalvermittler und dir für eine zufriedenstellende Beziehung
@@ -222,9 +225,12 @@
         Job für dich finden und deine Karriere vorantreiben!
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Nur das Beste für deine Karriere!">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-3">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Nur das Beste für deine Karriere!
+      </h3>
       <p>
         Sei bei deiner Auswahl ruhig wählerisch! Deine Karriere ist ein
         wichtiger Aspekt deines Lebens, du solltest dich also nicht mit weniger
@@ -254,9 +260,12 @@
         Personalvermittlungsagentur in Kassel.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Noch heute den ersten Schritt in Richtung Traumjob machen!">
+
+
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Noch heute den ersten Schritt in Richtung Traumjob machen!
+      </h3>
       <p>
         wartest du noch? Wenn du wirklich das Beste für dich und deine Karriere
         rausholen willst, dann leg direkt los! Sieh dir Vermittler an, die sich
@@ -270,7 +279,7 @@
         wie gut wir zueinander passen. Awesome, wir freuen uns drauf!
       </p>
     </div>
-  </Accordion>
+
 </div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/Sekretaerin.png)] bg-cover bg-center h-[500px] flex justify-center items-center mt-10">
