@@ -129,8 +129,10 @@
       </p>
     </div>
   
-  <Accordion title="Das Vertrauen bei der Personalvermittlung Kassel">
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Das Vertrauen bei der Personalvermittlung Kassel
+      </h3>
       <p>
         Wie in den meisten Bereichen menschlicher Interaktion ist Vertrauen und
         Wohlwollen maßgeblich für eine gute Beziehung. Das gilt sowohl im
@@ -158,9 +160,11 @@
         einzuschätzen.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Das nötige Wissen und Erfahrung">
+
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Das nötige Wissen und Erfahrung
+      </h3>
       <p>
         Um dich professionell zu betreuen und einen passenden Job zu finden,
         muss dein Vermittler dich und deine berufliche Situation verstehen. Er
@@ -174,10 +178,11 @@
         machen.
       </p>
     </div>
-  </Accordion>
-  <Accordion
-    title="Spezialisierung: Personalvermittlung Gastronomie Kassel & Hotellerie Kassel">
+
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Spezialisierung: Personalvermittlung Gastronomie Kassel & Hotellerie Kassel
+      </h3>
       <p>
         Wenn du dich umsiehst, wirst du schnell merken, dass es viele
         Vermittlungsagenturen gibt. Die meisten werden dir versprechen, das
@@ -196,7 +201,7 @@
         verhelfen kann.
       </p>
     </div>
-  </Accordion>
+
   <Accordion title="Die Chemie muss stimmen">
     <div class="text-primary font-light text-1xl sm:text-2xl">
       <p>
