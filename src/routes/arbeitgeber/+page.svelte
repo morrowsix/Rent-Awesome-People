@@ -115,8 +115,10 @@
 </div>
 <Contactform />
 <div class="px-5 pb-5 pt-8 lg:pt-12 lg:w-8/12 m-auto">
-  <Accordion title="Ihr Partner für die Hotelpersonalvermittlung Kassel">
     <div class="text-primary font-light text-1xl sm:text-2xl">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Ihr Partner für die Hotelpersonalvermittlung Kassel
+      </h3>
       <p>
         Viele kleine Unternehmen haben oft mit dem Finden neuer Mitarbeiter zu
         kämpfen, wenn sie sich in der Wachstumsphase befinden und noch nie eine
@@ -138,10 +140,11 @@
         bedacht vorzugehen.
       </p>
     </div>
-  </Accordion>
-  <Accordion
-    title="Große oder kleine Agenturen für die Vermittlung Serviceroboter Kassel?">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Große oder kleine Agenturen für die Vermittlung Serviceroboter Kassel?
+      </h3>
       <p>
         Wie bereits erwähnt: Gehen Sie nicht immer davon aus, dass eine große
         Agentur die beste Wahl für Sie darstellt. Häufig kann die Erfahrung mit
@@ -166,9 +169,12 @@
         Faktoren, die Sie bei der Auswahl Ihres Vermittlers beachten sollten:
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Erfahrung und Expertise">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+  
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Erfahrung und Expertise
+      </h3>
       <p>
         Erfahrung und Expertise Es ist wichtig, dass die Personalagentur über
         die entsprechende Erfahrung bezüglich der Mitarbeitergewinnung in Ihrer
@@ -183,9 +189,12 @@
         gut abschätzen, welche Mitarbeiter gut zu Ihrem Unternehmen passen.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Referenzen überprüfen">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Referenzen überprüfen
+      </h3>
       <p>
         Wenn Sie mit einem Vermittler zusammenarbeiten, geschieht das im
         Optimalfall über einen längeren Zeitraum. Deshalb sollten Sie die
@@ -198,9 +207,12 @@
         für die Hotelpersonalvermittlung Kassel ist.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Markenidentität und Professionalität">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Markenidentität und Professionalität
+      </h3>
       <p>
         Am Auftreten des Vermittlers können Sie oft erkennen, ob Ihr Vermittler
         eine etablierte Marke ist und wie professionell er arbeitet. Dafür
@@ -216,9 +228,12 @@
         Vermittler kontaktieren und sehen, ob er zu Ihnen passt.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Image und Ruf">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Image und Ruf
+      </h3>
       <p>
         Die Website ist immer ein guter erster Schritt, um mehr über einen
         Vermittler zu erfahren. Achten Sie auch darauf, was Sie sonst noch über
@@ -238,9 +253,12 @@
         qualifizierte und passende Bewerber.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Informationen vorab">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Informationen vorab
+      </h3>
       <p>
         Ein guter Personalvermittler ist in der Regel bereit, gute, informative
         und ehrliche Ratschläge zu geben und vorausschauend zu arbeiten. Wenn
@@ -262,9 +280,12 @@
         Serviceroboter Kassel zu klären.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Starke Kommunikation">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Starke Kommunikation
+      </h3>
       <p>
         Wenn eine Personalagentur schnell und gewissenhaft auf Anfragen
         antwortet und klar kommuniziert, ist das ein Zeichen für einen guten
@@ -274,9 +295,12 @@
         erkennen.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Die Mitarbeiter der Agentur">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Die Mitarbeiter der Agentur
+      </h3>
       <p>
         Die Mitarbeiter der Agentur Die Art und Weise, wie die Mitarbeiter der
         Agentur arbeiten, spiegeln das Image und die Grundsätze des Unternehmens
@@ -291,9 +315,12 @@
         Eine gute Agentur können Sie bereits an Ihrem Gesprächspartner erkennen.
       </p>
     </div>
-  </Accordion>
-  <Accordion title="Suchen Sie awesome People für Ihr Unternehmen?">
-    <div class="text-primary font-light text-1xl sm:text-2xl">
+
+
+    <div class="text-primary font-light text-1xl sm:text-2xl pt-4">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
+        Suchen Sie awesome People für Ihr Unternehmen?
+      </h3>
       <p>
         Sind Sie auf der Suche nach den besten Bewerbern für Ihr Unternehmen?
         Suchen Sie einen Partner für die Hotelpersonalvermittlung Kassel oder
@@ -302,7 +329,7 @@
         persönlichen Gespräch kennenlernen. Wir freuen uns drauf!
       </p>
     </div>
-  </Accordion>
+
 </div>
 <div
   class=" w-full bg-[url(/Rectangle.png),_url(/Footer-Banner-Arbeitgeber.png)] bg-cover bg-center h-[500px] flex justify-center items-center mt-10">
