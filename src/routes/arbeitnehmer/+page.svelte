@@ -105,7 +105,7 @@
 <Contactform />
 <div class="px-5 pb-5 pt-8 lg:pt-12 lg:w-8/12 m-auto">
   <div class="text-primary font-light text-1xl sm:text-2xl">
-      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-bold">
+      <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
         Deine awesome Personalvermittlungsagentur in Kassel
       </h3>
       <p>
