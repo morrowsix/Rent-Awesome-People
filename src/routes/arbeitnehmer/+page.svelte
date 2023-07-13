@@ -10,10 +10,13 @@
 </script>
 
 <svelte:head>
-  <title>Personalvermittlungsagentur Kassel | Gastronomie & Hotellerie</title>
+  <title>Personalvermittlungsagentur Kassel | Gastronomie & Hotelpersonal</title>
   <meta
     name="description"
-    content="Wir finden die passenden Mitarbeiter für Ihr Unternehmen! Personalvermittlung für Gastronomie und Hotellerie | Personalvermittlungsagentur in Kassel" />
+    content="Wir finden die passenden Mitarbeiter für Ihr Unternehmen!
+    Personalvermittlung für Gastronomie und Hotelpersonal | Personalvermittlungsagentur in
+    Kassel
+    " />
 </svelte:head>
 
 <HeaderBanner imglink="/Fjolla-Notebook.png">
@@ -29,7 +32,7 @@
   <div
     class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
     <H1 small
-      >Personalvermittlungsagentur für Gastronomie & Hotellerie in Kassel</H1>
+      >Personalvermittlungsagentur für Gastronomie & Hotelpersonal in Kassel</H1>
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder
