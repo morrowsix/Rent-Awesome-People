@@ -20,9 +20,9 @@
       34117 Kassel <br /> <br /> Telefon: +49 (0) 56058791598 <br /> Mobil: +49
       (0) 17630304739 <br /> E-Mail: info@rent-awesome-people.de <br /> Website:
       www.rent-awesome-people.de <br /> <br /> Vertretungsberechtigte
-      Geschäftsführerin: B. Westphal <br /> Registernummer: HRB19008 <br />
+      Geschäftsführerin: Beatrix Westphal <br /> Registernummer: HRB19008 <br />
       Registergericht: Kassel <br />
-      Steuernummer: 2624225557 <br /> Umsatzsteueridentifikationsnummer USt.-ID-Nr.:
+      Umsatzsteueridentifikationsnummer USt.-ID-Nr.:
       DE351445409
     </p>
     <p>
