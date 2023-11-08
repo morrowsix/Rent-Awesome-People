@@ -16,7 +16,7 @@ const disableGoogleAnalytics = () => {
         'analytics_storage': 'denied',
         'ad_storage': 'denied'
     });
-    window['ga-disable-G-TRACKING_ID'] = true;
+    window['ga-disable-G-WSQT36X5WB'] = true;
 }
 
 
