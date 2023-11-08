@@ -211,7 +211,7 @@
       <span class="text-primary">gekentert?</span><br />
       <span class="text-secondary">Ab in den</span><br />
       <span class="text-secondary">neuen Job</span><span class="text-primary"
-        >!!</span>
+        >!!!</span>
     </H2>
     <div class="pt-5"><Button
       text="Offene Stellen"
