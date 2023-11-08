@@ -16,6 +16,16 @@
     { name: "Reinigungsninjas", imgurl: "heroes/Reinigungsninjas.png" },
     { name: "Backofficezauberer", imgurl: "heroes/Backofficezauberer.png" },
   ];
+
+  import { reset, run } from 'vanilla-cookieconsent';
+	import config from '$lib/cookieconsent-config';	
+	
+	const resetPlugin = () => {
+		reset(true);
+		run(config);
+	}
+
+
 </script>
 
 <HeaderBanner imglink="/Header-Start.png">
