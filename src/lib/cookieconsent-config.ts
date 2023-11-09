@@ -148,20 +148,15 @@ const config: CookieConsentConfig = {
 							cookieTable: {
 								caption: 'Cookie Tabelle',
 								headers: {
-									name: 'Cookie',
-									domain: 'Domain',
-									desc: 'Beschreibung'
+									name: 'Cookie Name',
+									provider: 'Anbieter',
+									policy: 'Datenschutzerklärung'
 								},
 								body: [
 									{
 										name: '_ga',
-										domain: 'yourdomain.com',
-										desc: 'Description 1'
-									},
-									{
-										name: '_gid',
-										domain: 'yourdomain.com',
-										desc: 'Description 2'
+										provider: 'Google LLC',
+										policy: '<a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>',
 									}
 								]
 							}
@@ -170,7 +165,7 @@ const config: CookieConsentConfig = {
 						{
 							title: 'Mehr Information',
 							description:
-								'Für weitere Informationen mit dem Umgang deiner Daten, <a href="/kontakt">kontaktiere uns</a> bitte.'
+								'Für weitere Informationen mit dem Umgang deiner Daten <a href="/kontakt">kontaktiere uns</a>.'
 						}
 					]
 				}
