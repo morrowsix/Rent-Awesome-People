@@ -38,10 +38,10 @@
     <p class="pb-5">
       (1) Zwischen uns und dem Auftraggeber wird ein Vermittlungs-, Beratungs-
       oder sonstiger Dienstleistungsvertrag abgeschlossen, der auch bei
-      ausschließlich mündlicher Auftragserteilung Gültigkeit hat. (2) Gegenstand
+      ausschließlich mündlicher Auftragserteilung Gültigkeit hat.<br /> (2) Gegenstand
       der Vereinbarung ist die Suche geeigneten Personals durch den
       Auftragnehmer für den Auftraggeber. Die Spezifikationen, welches Personal
-      gesucht werden soll, wird dabei vom Auftraggeber vorgegeben. (3) der
+      gesucht werden soll, wird dabei vom Auftraggeber vorgegeben.<br /> (3) der
       Auftragnehmer erstellt nach den Spezifikationen des Auftraggebers
       entsprechende Stellen Beschreibungen und veröffentlicht diese zum
       vereinbarten Honorar in den üblichen Börsen für Stellenangebote. Die
@@ -49,11 +49,11 @@
       Wege nach Personal gesucht wird, ist im Rahmen einer gesonderten
       vertraglichen Vereinbarung festzulegen. Fehlt es an einer solchen, ist
       ausschließlich die Platzierung in den üblichen Onlineplattformen und
-      Suchdiensten geschuldet. (4) die Bewerbungen der einzelnen Kandidaten
+      Suchdiensten geschuldet.<br /> (4) die Bewerbungen der einzelnen Kandidaten
       nimmt der Auftragnehmer entgegen. Er trifft nach den Spezifikationen des
       Auftraggebers eine Vorauswahl. Die im Rahmen dieser Voraus-wahl nach
       Auffassung des Auftragnehmers hinreichend qualifizierten Bewerber werden
-      dem Auftraggeber vorgestellt. (5) die von dem Auftragnehmer dem
+      dem Auftraggeber vorgestellt.<br /> (5) die von dem Auftragnehmer dem
       Auftraggeber mitgeteilten Angaben zu den Bewerbern beruhen auf Auskünften
       und Informationen der jeweils ausgewählten Bewerber bzw. Dritter. Eine
       Gewährleistung für die Richtigkeit und Vollständigkeit dieser Angaben kann
@@ -63,53 +63,53 @@
     <p class="pb-5">
       (1) Die Parteien können den Auftrag jederzeit mit einer Frist von 1 Monat
       kündigen, frühestens jedoch zum Ende des 3. vollen Kalendermonats nach
-      Vertragsschluss. (2) Der Auftrag endet, sobald die jeweilige Stelle
+      Vertragsschluss.<br /> (2) Der Auftrag endet, sobald die jeweilige Stelle
       besetzt ist (Einstellung eines Kandidaten in Festanstellung) oder der
       Personalbedarf entfällt. Die Auftraggeberin informiert den Berater in
       angemessener Frist über die Besetzung der Stelle oder den Wegfall des
-      Personalbedarfs. (3) Das Recht zur fristlosen Kündigung für die Parteien
-      bleibt davon unberührt. (4) Der Auftragnehmer kann den Auftrag
+      Personalbedarfs.<br /> (3) Das Recht zur fristlosen Kündigung für die Parteien
+      bleibt davon unberührt.<br /> (4) Der Auftragnehmer kann den Auftrag
       insbesondere dann fristlos kündigen, wenn für ihn ein wichtiger Grund
       vorliegt. Ein wichtiger Grund in diesem Sinne liegt insbesondere vor,
-      wenn, (a) der Auftraggeber seine vertraglichen Mitwirkungspflichten nicht
-      erfüllt, (b) der Auftraggeber trotz Abmahnung die Alleinauftragsbindung
-      verletzt (c) über das Vermögen des Auftraggebers das Insolvenzverfahren
-      eröffnet wird oder (d) der Auftraggeber gegen die
-      Vertraulichkeitsbestimmungen dieses Vertrages verstößt. (5) Die Kündigung
+      wenn,<br />(a) der Auftraggeber seine vertraglichen Mitwirkungspflichten nicht
+      erfüllt,<br /> (b) der Auftraggeber trotz Abmahnung die Alleinauftragsbindung
+      verletzt<br /> (c) über das Vermögen des Auftraggebers das Insolvenzverfahren
+      eröffnet wird oder<br /> (d) der Auftraggeber gegen die
+      Vertraulichkeitsbestimmungen dieses Vertrages verstößt.<br /> (5) Die Kündigung
       entbindet den Auftraggeber nicht von der Zahlung der vereinbarten
       Vergütung, wie z.B. einer Aufwandspauschale, einer Abbruchfee oder des
       Vermittlungshonorars bei Vorliegen der Voraussetzungen dieser
-      Vereinbarung. (6) Kündigungen bedürfen der Schriftform.
+      Vereinbarung.<br /> (6) Kündigungen bedürfen der Schriftform.
     </p>
     <H3>§ 4 Vermittlungshonorar</H3>
     <p class="pb-5">
       (1) Für unsere Tätigkeit erhalten wir ein Vermittlungshonorar in
-      vertraglich vereinbarter Höhe. Der Anspruch entsteht sobald zwischen dem
+      vertraglich vereinbarter Höhe. Der Anspruch entsteht sobald zwischen dem
       von uns vorgeschlagenen Bewerber und dem Auftraggeber ein
-      Beschäftigungsverhältnis jedweder Art – also im Rahmen eines Arbeits- oder
+      Beschäftigungsverhältnis jedweder Art – also im Rahmen eines Arbeits- oder
       Dienstverhältnisses oder ein selbständiges Dienstverhältnis im Rahmen
       einer freien Mitarbeit - zustande kommt. Spätestens entsteht der Anspruch
       mit Aufnahme des Bewerbers im Rahmen der vereinbarten Beschäftigung beim
-      Auftraggeber. (2) Der Honoraranspruch entsteht bereits bei
+      Auftraggeber.<br /> (2) Der Honoraranspruch entsteht bereits bei
       Mitursächlichkeit der Tätigkeit des Auftragnehmers für die Begründung des
-      Beschäftigungsverhältnisses. (3) Das Vermittlungshonorar entsteht auch,
+      Beschäftigungsverhältnisses.<br /> (3) Das Vermittlungshonorar entsteht auch,<br />
       (a) wenn der Bewerber vom Auftraggeber zunächst abgelehnt wurde, aber
       innerhalb von 12 Monaten nach der Präsentation durch den Auftragnehmer
-      dennoch beim Auftraggeber ein Beschäftigungsverhältnis aufnimmt, welches
+      dennoch beim Auftraggeber ein Beschäftigungsverhältnis aufnimmt, welches
       den Kriterien eines Beschäftigungsverhältnisses nach § 4 (1) der
-      Allgemeinen Geschäftsbedingungen entspricht. (b) wenn der Bewerber bei
+      Allgemeinen Geschäftsbedingungen entspricht.<br /> (b) wenn der Bewerber bei
       einem mit dem Auftraggeber verbundenen oder von ihm beherrschten
-      Unternehmen ein Beschäftigungsverhältnis aufnimmt, welches den Kriterien
+      Unternehmen ein Beschäftigungsverhältnis aufnimmt, welches den Kriterien
       eines Beschäftigungsverhältnisses nach § 4 (1) der Allgemeinen
-      Geschäftsbedingungen entspricht. (c) wenn der Bewerber auf eine andere
-      Position als die in Auftrag gegebene eingestellt wird, wobei maßgeblich
+      Geschäftsbedingungen entspricht.<br /> (c) wenn der Bewerber auf eine andere
+      Position als die in Auftrag gegebene eingestellt wird, wobei maßgeblich
       hierbei allein die Ursächlichkeit der Tätigkeit des Auftragnehmers für das
-      Zustandekommen dieses Beschäftigungsverhältnisses ist, (d) wenn zwischen
+      Zustandekommen dieses Beschäftigungsverhältnisses ist,<br /> (d) wenn zwischen
       dem Bewerber und einem Dritten ein Beschäftigungsverhältnis zustande
       kommt, sofern zwischen dem Dritten und dem Auftraggeber besonders enge
       persönliche oder ausgeprägte wirtschaftliche Beziehungen bestehen,
       insbesondere wenn es sich bei dem Dritten und dem Auftraggeber um
-      verbundene Unternehmen handelt (4) Für die Berechnung unseres Honorars ist
+      verbundene Unternehmen handelt<br /> (4) Für die Berechnung unseres Honorars ist
       das Bruttojahreszielgehalt oder die Jahreszielvergütung maßgeblich.
       Hierunter versteht sich als das auf ein Jahr berechnete Bruttogehalt oder
       die auf ein Jahr berechnete Vergütung unter Einschluss sämtlicher
@@ -119,14 +119,14 @@
       Überlassung eines Pkw usw.). Erfolgsabhängige Gehalts- oder
       Vergütungsanteile werden mit ihrem bei Abschluss des
       Beschäftigungsverhältnisses zu erwartenden bzw. üblichen Wert angesetzt.
-      Sachbezüge werden mit ihrem geldwerten Vorteil berechnet. (5) Der
+      Sachbezüge werden mit ihrem geldwerten Vorteil berechnet.<br /> (5) Der
       Honoraranspruch entsteht unabhängig von der Frage, wie lange der Bewerber
       bei Auftraggeber oder einem mit ihm verbundenen Unternehmen beschäftigt
-      ist oder ob es vor Arbeitsantritt wieder aufgelöst wird. (6) Kosten, die
+      ist oder ob es vor Arbeitsantritt wieder aufgelöst wird.<br /> (6) Kosten, die
       den Bewerbern im Zusammenhang mit Vorstellungsgesprächen beim
       Auftrag-geber entstehen, sind in dem zwischen den Parteien vereinbarten
       Honorar nicht enthalten und auf Verlangen des Bewerbers vom Auftraggeber
-      an diesen zu erstatten. (7) Die gesetzliche Umsatzsteuer ist zusätzlich zu
+      an diesen zu erstatten.<br /> (7) Die gesetzliche Umsatzsteuer ist zusätzlich zu
       der vereinbarten Vergütung vom Auftrag-geber an den Auftragnehmer zu
       zahlen.
     </p>
@@ -134,12 +134,12 @@
     <p class="pb-5">
       In den Fällen, in denen Rent Awesome People diesen Vertrag aus wichtigem
       Grund kündigen konnte, kann Rent Awesome People nach Maßgabe der
-      nachfolgenden Absätze den Ersatz des Aufwands verlangen. (1) Zum Aufwand
+      nachfolgenden Absätze den Ersatz des Aufwands verlangen.<br /> (1) Zum Aufwand
       von Rent Awesome People gehören vor allem die Kosten für Inserate,
       Exposés, sonstige Prospekte, die Einstellung im Internet, Hinweisschilder
       sowie sonstige konkrete für dieses Projekt aufgewandte Mittel. Nicht zum
       Aufwand gehören die allgemeinen Geschäftsunkosten des Maklers sowie seine
-      eigene Arbeitszeit. (2) Fahrten der Angestellten von Rent Awesome People
+      eigene Arbeitszeit.<br /> (2) Fahrten der Angestellten von Rent Awesome People
       mit dem Kraftfahrzeug sind mit 1,25 EUR pro Kilometer zzgl. der jeweils
       geltenden gesetzlichen Mehrwertsteuer zu entschädigen. Für die übrigen
       Auslagen wie Porto, Telekommunikationsdienstleistungen, Büromaterial und
@@ -160,13 +160,13 @@
       insbesondere Beginn des Beschäftigungsverhältnisses, Höhe des
       Jahresbruttogehaltes gemäß dieser Vereinbarung in Textform mitzuteilen.
       Hierzu ist insbesondere der Beschäftigungsvertrag in Kopie vorzulegen
-      (Übermittlung per E-Mail genügt). (2) Wird eine entsprechende Mitteilung
+      (Übermittlung per E-Mail genügt).<br /> (2) Wird eine entsprechende Mitteilung
       durch den Auftraggeber nicht übermittelt, ist der Auftragnehmer berechtigt
       eine der Qualifikation des Bewerbers entsprechende angemessene und
       marktübliche Jahresbruttovergütung zu ermitteln und dem Honoraranspruch
       zugrunde zu le-gen. Dem Auftraggeber bleibt im Anschluss nachgelassen, den
       Nachweis einer geringeren Vergütung zu erbringen. Für diesen Fall würde
-      die Berechnung auf das nachgewiesene geringere Einkommen korrigiert. (3)
+      die Berechnung auf das nachgewiesene geringere Einkommen korrigiert.<br /> (3)
       Soweit dem Auftraggeber Profile von Bewerbern bereits bei Vertragsschluss
       zwischen dem Auftraggeber und der Auftragnehmerin bekannt sind
       (Vorkenntnis), sind diese Bewerber unmittelbar dem Auftragnehmer
@@ -184,19 +184,19 @@
       keinen anderen Personalvermittler zur Erreichung des in § 2 genannten
       Ziels des Vertrags zu beauftragen (Alleinauftrag). Weiter verpflichtet
       sich der Auftraggeber, eventuell weiteren tätigen Personalvermittlern eine
-      Fortsetzung ihrer Bemühungen zu untersagen. (2) Der Auftraggeber
+      Fortsetzung ihrer Bemühungen zu untersagen.<br /> (2) Der Auftraggeber
       verpflichtet sich, die Bemühungen von Rent Awesome People zu unterstützen,
       insbesondere durch Angabe und Herausgabe aller bei ihm vorhandenen, die
       Personalsuche unterstützenden Informationen und Unterlagen. Er ermächtigt
       Rent Awesome People, diese Informationen und Unterlagen einschließlich von
       Fotos und positiven Stellungnahmen bereits vorhandener Mitarbeiter vom
       Auftraggeber als Arbeitgeber gegenüber Bewerbern sowie für die Werbung zu
-      verwenden. (3) Der Auftraggeber unterrichtet Rent Awesome People
+      verwenden.<br /> (3) Der Auftraggeber unterrichtet Rent Awesome People
       unverzüglich über alle maßgeblichen Umstände und Entwicklungen
       hinsichtlich der zu besetzenden Stelle, insbesondere über anderweitige
-      Besetzung oder deren Wegfall. (4) Der Auftraggeber ist verpflichtet, alle
+      Besetzung oder deren Wegfall.<br /> (4) Der Auftraggeber ist verpflichtet, alle
       im Rahmen dieses Vertrags erhaltenen Informationen vertraulich zu
-      behandeln und insbesondere nicht an Dritte weiterzugeben. (5) Wird die
+      behandeln und insbesondere nicht an Dritte weiterzugeben.<br /> (5) Wird die
       Chance von Rent Awesome People, die Provision zu verdienen, in Folge eines
       vertragswidrigen und schuldhaften Verhaltens des Auftraggebers vereitelt,
       hat der Auftraggeber Aufwendungsersatz nach den Bestimmungen dieses
@@ -206,7 +206,7 @@
     <H3>§ 8 Datenschutz</H3>
     <p class="pb-5">
       (1) Wir verwenden die von Ihnen mitgeteilten personenbezogenen Daten gemäß
-      den Bestimmungen des deutschen Datenschutzrechts. (2) Ihre
+      den Bestimmungen des deutschen Datenschutzrechts.<br /> (2) Ihre
       personenbezogenen Daten, soweit diese für die Begründung, inhaltliche
       Ausgestaltung oder Änderung des Vertragsverhältnisses erforderlich sind
       (Bestandsdaten), werden ausschließlich zur Abwicklung der zwischen uns
@@ -216,7 +216,7 @@
       oder zur bedarfsgerechten Gestaltung unserer Angebote bedarf Ihrer
       ausdrücklichen Einwilligung. Sie haben die Möglichkeit, diese Einwilligung
       jederzeit zu erteilen. Diese Einwilligungserklärung erfolgt völlig
-      freiwillig und kann von Ihnen jederzeit widerrufen werden. (3) Ihre
+      freiwillig und kann von Ihnen jederzeit widerrufen werden.<br /> (3) Ihre
       personenbezogenen Daten, welche erforderlich sind, um die Inanspruchnahme
       unserer Angebote zu ermöglichen und abzurechnen (Nutzungsdaten), werden
       ebenfalls ausschließlich zur Abwicklung der zwischen uns abgeschlossenen
@@ -227,11 +227,11 @@
       (1) Der Auftragnehmer haftet nach den gesetzlichen Bestimmungen, soweit
       der Auftraggeber Schadensersatzansprüche geltend macht, die auf Vorsatz
       oder grober Fahrlässigkeit, ein-schließlich von Vorsatz oder grober
-      Fahrlässigkeit seiner Vertreter oder Erfüllungsgehilfen beruhen. (2) Bei
+      Fahrlässigkeit seiner Vertreter oder Erfüllungsgehilfen beruhen.<br /> (2) Bei
       leichter Fahrlässigkeit der Auftragnehmer nach den gesetzlichen
       Bestimmungen bei einer Verletzung des Lebens, des Körpers oder der
       Gesundheit, bei Verletzung einer Garantie sowie einer Ersatzpflicht nach
-      dem Produkthaftungsgesetz. (3) Bei leichter Fahrlässigkeit haftet der
+      dem Produkthaftungsgesetz.<br /> (3) Bei leichter Fahrlässigkeit haftet der
       Auftragnehmer zudem nach den gesetzlichen Bestimmungen bei Verletzung
       einer wesentlichen Vertragspflicht, jedoch der Höhe nach beschränkt auf
       die vorhersehbaren und vertragstypischen Schäden. Wesentliche
@@ -239,10 +239,10 @@
       Durchführung des Vertrages überhaupt erst ermöglicht und auf deren
       Einhaltung der Auftraggeber regelmäßig vertraut oder vertrauen darf oder
       deren Verletzung die Erreichung des Vertragszwecks gefährdet
-      (Kardinalspflicht). (4) Soweit nicht vorstehend etwas Abweichendes
+      (Kardinalspflicht).<br /> (4) Soweit nicht vorstehend etwas Abweichendes
       geregelt ist, ist die Haftung des Auftragnehmers ausgeschlossen. Dies gilt
       auch im Hinblick auf die persönliche Schadensersatzhaftung von
-      Angestellten, Vertretern und Erfüllungsgehilfen des Auftragnehmers. (5)
+      Angestellten, Vertretern und Erfüllungsgehilfen des Auftragnehmers.<br /> (5)
       Soweit der Auftragnehmer mit der Personalsuche beauftragt ist, kann der
       Auftragnehmer keine Gewähr dafür übernehmen, dass der Bewerber Erwartungen
       des Auftraggebers an seine Person nicht erfüllt oder bestimmte
@@ -256,14 +256,14 @@
       jederzeit frei widerrufliche Einwilligung des jeweils anderen an Dritte
       weiterzugeben oder zu nutzen, es sei denn die Weitergabe dient der
       Vertrags-durchführung oder erfolgt aufgrund gesetzlicher und rechtlicher
-      Verpflichtungen oder im Rahmen der Geltendmachung des Honoraranspruchs.
+      Verpflichtungen oder im Rahmen der Geltendmachung des Honoraranspruchs.<br />
       (2) Diese Verpflichtung gilt auch nach Beendigung der Zusammenarbeit
-      weiter fort. (3) Diese Verpflichtung gilt auch für die Mitarbeiter der
-      Parteien. (4) Für den Fall, dass es zu keiner Vermittlung mit einem
+      weiter fort.<br /> (3) Diese Verpflichtung gilt auch für die Mitarbeiter der
+      Parteien.<br /> (4) Für den Fall, dass es zu keiner Vermittlung mit einem
       Bewerber kommt, verpflichtet sich der Auftraggeber, alle ihm zur Verfügung
       gestellten Unterlagen auf Aufforderung an den Auftraggeber zurückzugeben
       sowie Aufzeichnungen bzw. erarbeitete Unterlagen, Daten etc. zu
-      vernichten. (5) Dem Auftraggeber verpflichtet sich, nicht ohne
+      vernichten.<br /> (5) Dem Auftraggeber verpflichtet sich, nicht ohne
       ausdrückliche schriftliche Zustimmung des Bewerbers, mit derzeitigen oder
       früheren Arbeitgebern des Bewerbers Kontakt aufzunehmen.
     </p>
@@ -272,32 +272,32 @@
       (1) Sämtliche im Rahmen dieses Vertrages von Rent Awesome People
       hergestellten Werke wie z.B. Texte, Bilder, Fotos, Slogans, Videos, u.ä.
       sind urheberrechtlich geschützt. Rent Awesome People steht das Alleinige
-      Nutzungsrecht zu. Diese umfasst insbesondere: (a) Das Recht der
+      Nutzungsrecht zu. Diese umfasst insbesondere:<br /> (a) Das Recht der
       Vervielfältigung, öffentlichen Zugänglichmachung und Verbreitung, dh das
       Recht, das Werk, unter Einbezug jeglicher technischer Möglichkeiten,
       insbesondere durch die digitale Einbindung im Rahmen der Website,
       unbegrenzt zu vervielfältigen und öffentlich zugänglich zu machen oder
-      öffentlich wiederzugeben; (b) das Recht der Zurverfügungstellung auf
+      öffentlich wiederzugeben;<br /> (b) das Recht der Zurverfügungstellung auf
       Abruf, dh das Recht, das Werk abzuspeichern, für die Öffentlichkeit
       bereitzuhalten, an einen oder mehrere Abrufende zu übertragen, und zwar in
       allen analogen oder digitalen elektronischen Datenbanken, elektronischen
-      Datennetzen und Netzen von Telekommunikationsdiensten; (c) das Recht der
+      Datennetzen und Netzen von Telekommunikationsdiensten;<br /> (c) das Recht der
       öffentlichen Wiedergabe, dh das Recht, das Werk gewerblich oder nicht
       gewerblich, durch Tonträger, Bildträger, Bildtonträger, Multimedia-Träger
       bzw. andere Datenträger, insbesondere auch Magnetbänder,
       Magnetbandkassetten, Bildplatten, Chips, in allen Formaten, unter
       Anwendung aller analogen und digitalen Verfahren und Techniken öffentlich
-      wiederzugeben; (d) das Bearbeitungsrecht, dh das Recht das Werk, unter
+      wiederzugeben;<br /> (d) das Bearbeitungsrecht, dh das Recht das Werk, unter
       Wahrung des Urheberpersönlichkeitsrechts, selbst oder durch Dritte,
       beliebig umzugestalten und zu bearbeiten, insbesondere zum Zwecke der
-      Einbindung in die Website zu digitalisieren; (e) das Werberecht, dh das
+      Einbindung in die Website zu digitalisieren;<br /> (e) das Werberecht, dh das
       Recht, das Werk für die Bewerbung der Website, auch in jeglichen anderen
       Medien und außerhalb des Internets, namentlich im Fernsehen und in
       Printmedien, nicht jedoch für die Bewerbung von Drittprodukten, zu
-      verwenden. (2) Der vorliegende Vertrag gewährt dem Auftraggeber keine
+      verwenden.<br /> (2) Der vorliegende Vertrag gewährt dem Auftraggeber keine
       Lizenz an den erstellen Werken. Eine Nutzung jeglicher Art in der
       vorliegend geschilderten Form ist dem Auftraggeber ohne ausdrückliche in
-      Schriftform zu erteilende Zustimmung von Rent Awesome People untersagt.
+      Schriftform zu erteilende Zustimmung von Rent Awesome People untersagt.<br />
       (3) Im Falle des Verstoßes gegen das Urheberrecht durch den Aufraggeber
       wird eine Pauschale Lizenzgebühr von 4.500,00 EUR pro Verstoß bestimmt.
       Rent Awesome People bleibt es unbenommen nachzuweisen, dass die konkreten
@@ -311,11 +311,11 @@
     <p class="pb-10">
       (1) Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des
       UN-Kaufrechts. Unberührt bleiben zwingende Bestimmungen des Staates, in
-      dem Sie Ihren gewöhnlichen Auf-enthalt haben (2) mündliche Nebenabreden zu
+      dem Sie Ihren gewöhnlichen Auf-enthalt haben<br /> (2) mündliche Nebenabreden zu
       diesem Vertrag bestehen nicht. Etwaige weitergehende Vertragsänderungen-
       oder Ergänzungen bedürfen der Schriftform. Dies gilt auch für Änderung der
-      Schriftformklausel selbst. (3) Gerichtsstand für sämtliche Streitigkeiten
-      aus und im Zusammenhang mit dem Vertragsverhältnis ist Kassel. (4) Sollten
+      Schriftformklausel selbst.<br /> (3) Gerichtsstand für sämtliche Streitigkeiten
+      aus und im Zusammenhang mit dem Vertragsverhältnis ist Kassel.<br /> (4) Sollten
       einzelne Bestimmungen dieses Vertrages unwirksam sein oder den
       gesetzlichen Re-gelungen widersprechen, so wird hierdurch der Vertrag im
       Übrigen nicht berührt. Die unwirksame Bestimmung wird von den
