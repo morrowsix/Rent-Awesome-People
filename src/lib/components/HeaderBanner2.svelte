@@ -11,7 +11,7 @@
     </div>
     <div class="flex justify-center lg:justify-end align-middle flex-1">
       <img
-        class="rounded-2xl border-primary border-4"
+        class="rounded-2xl border-primary border-4 object-cover"
         src={imglink}
         alt="" />
     </div>

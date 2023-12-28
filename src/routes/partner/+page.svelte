@@ -11,32 +11,42 @@
   <meta name="description" content="" />
 </svelte:head>
 
-<HeaderBanner2 imglink="/placeholder.jpg">
+<HeaderBanner2 imglink="/partner-header.jpg">
   <div class="flex justify-center lg:justify-start">
     <H2>
-      <span class="text-primary">Win-Win-Win</span>
-      <span class="text-primary">Situationen</span><br>
-      <span class="text-secondary">Gemeinsam</span>
-      <span class="text-secondary">schaffen</span><span class=" text-primary"
-        >!</span
-      ><br />
+      <span class="text-primary">Awesome</span>
+      <span class="text-secondary">People</span><br />
+      <span class="text-primary">Awesome</span>
+      <span class="text-secondary">Connections</span><br />
     </H2>
   </div>
   <div
     class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
     <p>
-      Stellt euch vor, wir konnten euch zusammenbringen und nun sind 3 Probleme
-      gelöst!
+      Gerade im Gastgewerbe ist ein starkes Dienstleister-Netzwerk essenziell.
+      Es spart nicht nur Geld, sondern überbrückt auch Engpässe wie fehlende
+      Sichtbarkeit und den anhaltenden Personalmangel. Durch unsere
+      verlässlichen Partner lassen sich Kosten optimieren, sei es bei
+      Lieferanten, Energie, Lohnnebenkosten oder Marketing. Unser Netzwerk kann
+      Ihnen helfen, sich besser zu positionieren und neue Gäste, sowie
+      Mitarbeiter anzuziehen.
     </p>
     <br />
     <p>
-      Glückliche Gäste durch glückliche Mitarbeitende - Das beglückt doch auch
-      Ihr Unternehmerherz!
+      Ein solides Netzwerk ist daher der Schlüssel, um wirtschaftlich zu agieren
+      und gleichzeitig die Qualität und Sichtbarkeit im hart umkämpften
+      Gastgewerbe nachhaltig zu verbessern.
+    </p>
+    <p>
+      <br />
+      Lernen Sie unsere Lieblingspartner kennen, die mit uns gemeinsam die Zukunft
+      des Gastgewerbes sichern!
     </p>
   </div>
 </HeaderBanner2>
 
-<div class="max-w-container-12 flex flex-col justify-center m-auto py-16 px-5 xl:px-0">
+<div
+  class="max-w-container-12 flex flex-col justify-center m-auto py-16 px-5 xl:px-0">
   <div class="">
     <H2 align="text-center pb-4">
       <span class=" text-primary">Unsere</span>
@@ -66,7 +76,7 @@
     </div>
   </div>
   <!-- nano pictures -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-16">
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
       <img class="w-full rounded-2xl" src="/partner-nano-pictures.jpg" alt="" />
     </div>
@@ -89,7 +99,7 @@
     </div>
   </div>
   <!-- fewo angels -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-16">
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
       <a href="https://fewo-angels.de/">
         <img
@@ -123,9 +133,9 @@
     </div>
   </div>
   <!-- fp Finanzpartner -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-16">
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/placeholder.jpg" alt="" />
+      <img class="w-full rounded-2xl" src="/partner-fp.jpg" alt="" />
     </div>
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
       <a href="https://www.fp-finanzpartner.de/">
@@ -146,7 +156,7 @@
     </div>
   </div>
   <!-- klimaschutz einfach -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-16">
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
       <a href="https://klimaschutz-einfach.de/">
         <img
@@ -167,11 +177,14 @@
       </p>
     </div>
     <div class=" flex-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-klimaschutz-einfach.jpg" alt="" />
+      <img
+        class="w-full rounded-2xl"
+        src="/partner-klimaschutz-einfach.jpg"
+        alt="" />
     </div>
   </div>
-  <!-- fp Finanzpartner -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-16">
+  <!-- Hospitality Services -->
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
       <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
     </div>
@@ -183,16 +196,40 @@
           alt="Logo Hospitality Service" />
       </a>
       <H3
-        ><span class="text-primary">Die Zukunft</span><br>
+        ><span class="text-primary">Die Zukunft</span><br />
         <span class="text-secondary">der Hotellerie</span>
       </H3>
       <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-        voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-        amet.
+        Hoteliers müssen heute mehr denn je innovativ sein. Mit jahrzehntelanger
+        Hotellerie-Erfahrung und digitaler Transformation zeigen wir den Weg in
+        die Zukunft. Unsere Qualität, ein 360° Hotellerie-Consulting-Netzwerk,
+        unterstützt das Überleben und schafft neue Möglichkeiten. Wir verbinden
+        Individualhoteliers, Fachberater, Partner und Netzwerke.
       </p>
+    </div>
+  </div>
+  <!-- Neolohn -->
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
+    <div class=" flex-1 flex flex-col justify-center">
+      <a href="https://neolohn.de/">
+        <img
+          class="pb-6 md:max-w-[150px] max-w-[100px]"
+          src="/logo-neolohn.png"
+          alt="Logo neolohn by twodoxx" />
+      </a>
+      <H3
+        ><span class="text-primary">einfach lohnenswert</span><br />
+        <span class="text-secondary">für Hotel & Gastro</span>
+      </H3>
+      <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
+        Mit der Lohnoptimierungs-Software neolohn können Betriebe ihren
+        Mitarbeitern mehr auszahlen gleichzeitig Lohnnebenkosten reduzieren. Die
+        Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es ist
+        also kein kompletter Systemwechsel notwendig.
+      </p>
+    </div>
+    <div class=" flex-1 flex flex-col justify-center">
+      <img class="w-full rounded-2xl" src="/partner-neolohn.jpg" alt="" />
     </div>
   </div>
 </div>
