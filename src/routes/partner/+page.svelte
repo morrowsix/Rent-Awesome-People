@@ -66,7 +66,7 @@
         ><span class="text-primary">Die Werbeagentur</span><br />
         <span class="text-secondary">Ihres Vertrauens</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light pt-5 py-5 md:py-0">
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Wir formen Ihren Erfolg, und das schon morgen. Online oder offline,
         digital oder analog, ganz egal.
       </p>
@@ -91,7 +91,7 @@
         ><span class="text-primary">Fotografie</span>
         <span class="text-secondary">mit Herz</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light pt-5 py-5 md:py-0">
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Entdecke bei NanoPictures Fotografie mit Herz. Spezialisiert auf
         Hochzeiten und Events schaffe ich einzigartige, emotionale Bilder. Buche
         mich für authentische Erinnerungen und eine zuverlässige Zusammenarbeit.
@@ -148,7 +148,7 @@
         ><span class="text-primary">Begeisternde</span>
         <span class="text-secondary">Finanzberatung</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Was für mich zählt? Eine faire, unabhängige Beratung, ein langfristiges,
         vertrauensvolles Verhältnis zu meinen Mandantinnen und Mandaten und
         Lösungen, die zu Ihren individuellen Zielen und Wünschen passen.
@@ -168,12 +168,12 @@
         ><span class="text-primary">WENN WIR EINS NICHT HABEN,</span><br />
         <span class="text-secondary">IST ES ZEIT!</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-        voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-        clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-        amet.
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
+        Mit unseren Produkten und Dienstleistungen machen wir Energiekosten
+        senken und Klimaschutz ganz einfach. Wir unterstützen den
+        deutschsprachigen Raum mit unseren Produkten und Dienstleistungen dabei,
+        Energiekosten zu reduzieren und einen aktiven Beitrag zum Umweltschutz
+        zu leisten.
       </p>
     </div>
     <div class=" flex-1 flex flex-col justify-center">
@@ -199,7 +199,7 @@
         ><span class="text-primary">Die Zukunft</span><br />
         <span class="text-secondary">der Hotellerie</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Hoteliers müssen heute mehr denn je innovativ sein. Mit jahrzehntelanger
         Hotellerie-Erfahrung und digitaler Transformation zeigen wir den Weg in
         die Zukunft. Unsere Qualität, ein 360° Hotellerie-Consulting-Netzwerk,
@@ -221,7 +221,7 @@
         ><span class="text-primary">einfach lohnenswert</span><br />
         <span class="text-secondary">für Hotel & Gastro</span>
       </H3>
-      <p class="text-1xl sm:text-2xl font-light py-5 md:py-0">
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Mit der Lohnoptimierungs-Software neolohn können Betriebe ihren
         Mitarbeitern mehr auszahlen gleichzeitig Lohnnebenkosten reduzieren. Die
         Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es ist
