@@ -9,9 +9,10 @@
 <svelte:head>
   <title>Partner</title>
   <meta name="description" content="" />
+  <meta property=”og:image” content=”https://rent-awesome-people.de/partner-header.jpg” />
 </svelte:head>
 
-<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in Kassel.">
+<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in">
   <div class="flex justify-center lg:justify-start">
     <H2>
       <span class="text-primary">Awesome</span>
