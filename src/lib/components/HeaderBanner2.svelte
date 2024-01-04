@@ -1,5 +1,6 @@
 <script>
   export let imglink;
+  export let altText;
 </script>
 
 <div
@@ -13,7 +14,7 @@
       <img
         class="rounded-2xl border-primary border-4 object-cover"
         src={imglink}
-        alt="" />
+        alt={altText} />
     </div>
   </div>
 </div>

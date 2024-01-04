@@ -11,7 +11,7 @@
   <meta name="description" content="" />
 </svelte:head>
 
-<HeaderBanner2 imglink="/partner-header.jpg">
+<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in Kassel.">
   <div class="flex justify-center lg:justify-start">
     <H2>
       <span class="text-primary">Awesome</span>
