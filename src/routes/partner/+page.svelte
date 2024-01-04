@@ -9,7 +9,9 @@
 <svelte:head>
   <title>Partner</title>
   <meta name="description" content="" />
-  <meta property=”og:image” content=”https://rent-awesome-people.de/partner-header.jpg” />
+  <meta
+    property="”og:image”"
+    content="”https://rent-awesome-people.de/partner-header.jpg”" />
 </svelte:head>
 
 <HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in">
@@ -211,9 +213,9 @@
       </H3>
       <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Mit der Lohnoptimierungs-Software neolohn können Betriebe ihren
-        Mitarbeitern mehr auszahlen gleichzeitig Lohnnebenkosten reduzieren. Die
-        Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es ist
-        also kein kompletter Systemwechsel notwendig.
+        Mitarbeitern mehr auszahlen und gleichzeitig Lohnnebenkosten reduzieren.
+        Die Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es
+        ist also kein kompletter Systemwechsel notwendig.
       </p>
     </div>
   </div>
