@@ -56,7 +56,7 @@
   <!-- morrows six -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-4">
     <div class=" flex-1 flex flex-col justify-center">
-      <a href="https://www.morrowsix.de">
+      <a href="https://www.morrowsix.de" target="_blank">
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-m6.png"
@@ -64,11 +64,14 @@
       </a>
       <H3
         ><span class="text-primary">Die Werbeagentur</span><br />
-        <span class="text-secondary">Ihres Vertrauens</span>
+        <span class="text-secondary">Unseres Vertrauens</span>
       </H3>
       <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
-        Wir formen Ihren Erfolg, und das schon morgen. Online oder offline,
-        digital oder analog, ganz egal.
+        Unsere Agentur brilliert in der Erstellung hochwertiger 2D und 3D
+        Animationen sowie modernem Design für wirkungsvolle Homepages. Wir
+        formen Ihren Erfolg durch kreative Lösungen – sei es online oder
+        offline, digital oder analog. Mit unserer Expertise gestalten wir Ihre
+        Zukunft, von morgen an.
       </p>
     </div>
     <div class=" flex-1 flex flex-col justify-center">
@@ -81,7 +84,7 @@
       <img class="w-full rounded-2xl" src="/partner-nano-pictures.jpg" alt="" />
     </div>
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
-      <a href="https://www.nanopictures.de">
+      <a href="https://www.nanopictures.de" target="_blank">
         <img
           class="pb-6 md:max-w-[300px] max-w-[250px]"
           src="/logo-nano-pictures.png"
@@ -101,7 +104,7 @@
   <!-- fewo angels -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
-      <a href="https://fewo-angels.de/">
+      <a href="https://fewo-angels.de/" target="_blank">
         <img
           class="pb-6 md:max-w-[300px] max-w-[250px]"
           src="/logo-fewo-angels.png"
@@ -109,7 +112,7 @@
       </a>
       <H3
         ><span class="text-primary">Höhere Erträge.</span><br />
-        <span class="text-secondary">Glückliche Gäste.</span>
+        <span class="text-secondary">weniger Stress.</span>
       </H3>
       <p class="text-1xl sm:text-2xl font-light pt-5">
         BAFA & INQA zertifizierte Unternehmensberaterin für Gastgeber
@@ -138,7 +141,9 @@
       <img class="w-full rounded-2xl" src="/partner-fp.jpg" alt="" />
     </div>
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
-      <a href="https://www.fp-finanzpartner.de/">
+      <a
+        href="https://www.fp-finanzpartner-schartel.de/unternehmen.html"
+        target="_blank">
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-fp.jpg"
@@ -158,7 +163,7 @@
   <!-- klimaschutz einfach -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
-      <a href="https://klimaschutz-einfach.de/">
+      <a href="https://klimaschutz-einfach.de/" target="_blank">
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-klimaschutz-einfach.png"
@@ -183,13 +188,34 @@
         alt="" />
     </div>
   </div>
-  <!-- Hospitality Services -->
+  <!-- Neolohn -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
+      <img class="w-full rounded-2xl" src="/partner-neolohn.jpg" alt="" />
     </div>
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
-      <a href="https://hospitality-services.de/">
+      <a href="https://neolohn.de/" target="_blank">
+        <img
+          class="pb-6 md:max-w-[150px] max-w-[100px]"
+          src="/logo-neolohn.png"
+          alt="Logo neolohn by twodoxx" />
+      </a>
+      <H3
+        ><span class="text-primary">einfach lohnenswert</span><br />
+        <span class="text-secondary">für Hotel & Gastro</span>
+      </H3>
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
+        Mit der Lohnoptimierungs-Software neolohn können Betriebe ihren
+        Mitarbeitern mehr auszahlen gleichzeitig Lohnnebenkosten reduzieren. Die
+        Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es ist
+        also kein kompletter Systemwechsel notwendig.
+      </p>
+    </div>
+  </div>
+  <!-- Hospitality Service -->
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
+    <div class=" flex-1 flex flex-col justify-center">
+      <a href="https://hospitality-services.de/" target="_blank">
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-hospitality.svg"
@@ -207,29 +233,8 @@
         Individualhoteliers, Fachberater, Partner und Netzwerke.
       </p>
     </div>
-  </div>
-  <!-- Neolohn -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
-      <a href="https://neolohn.de/">
-        <img
-          class="pb-6 md:max-w-[150px] max-w-[100px]"
-          src="/logo-neolohn.png"
-          alt="Logo neolohn by twodoxx" />
-      </a>
-      <H3
-        ><span class="text-primary">einfach lohnenswert</span><br />
-        <span class="text-secondary">für Hotel & Gastro</span>
-      </H3>
-      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
-        Mit der Lohnoptimierungs-Software neolohn können Betriebe ihren
-        Mitarbeitern mehr auszahlen gleichzeitig Lohnnebenkosten reduzieren. Die
-        Lösung kann der bestehenden Lohnbuchhaltung vorgeschaltet werden. Es ist
-        also kein kompletter Systemwechsel notwendig.
-      </p>
-    </div>
-    <div class=" flex-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-neolohn.jpg" alt="" />
+      <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
     </div>
   </div>
 </div>
