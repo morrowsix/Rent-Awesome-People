@@ -96,10 +96,11 @@
             <option class="font-light" value="interest">Interesse an:</option>
             <option class="font-light" value="morrowsix">morrow six</option>
             <option class="font-light" value="nanopictures">Nano Pictures</option>
-            <option class="font-light" value="nanopictures">Fewo Angels</option>
-            <option class="font-light" value="nanopictures">FP Finanzpartner</option>
-            <option class="font-light" value="nanopictures">Klimaschutz Einfach</option>
-            <option class="font-light" value="nanopictures">Hospitality Service</option>
+            <option class="font-light" value="Fewo Pictures">Fewo Angels</option>
+            <option class="font-light" value="FP Finanzpartner">FP Finanzpartner</option>
+            <option class="font-light" value="Klimaschutz Einfach">Klimaschutz Einfach</option>
+            <option class="font-light" value="Neo Lohn">Neo Lohn</option>
+            <option class="font-light" value="Hospitality Service">Hospitality Service</option>
           </select>
         </div>
         <div class="flex flex-col flex-1 height-full px-5">
