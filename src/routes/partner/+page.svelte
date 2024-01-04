@@ -154,9 +154,13 @@
         <span class="text-secondary">Finanzberatung</span>
       </H3>
       <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
-        Was für mich zählt? Eine faire, unabhängige Beratung, ein langfristiges,
-        vertrauensvolles Verhältnis zu meinen Mandantinnen und Mandaten und
-        Lösungen, die zu Ihren individuellen Zielen und Wünschen passen.
+        Was für mich zählt? Finanzberatung, die sich auch auf
+        Arbeitnehmerbenefits fokussiert und danach strebt umfassend,
+        unvoreingenommen zu beraten. Mein Ziel ist es, langfristige
+        Win-Win-Situationen zu schaffen – nicht nur finanziell, sondern auch im
+        Arbeitsumfeld. Durch maßgeschneiderte Lösungen werden individuelle
+        Bedürfnisse abgedeckt, während langfristige Beziehungen auf Vertrauen
+        und gegenseitigem Erfolg basieren.
       </p>
     </div>
   </div>

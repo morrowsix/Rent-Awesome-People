@@ -8,6 +8,7 @@
     { title: "Arbeitnehmer", url: "/arbeitnehmer" },
     { title: "Arbeitgeber", url: "/arbeitgeber" },
     { title: "Jobs", url: "/jobs" },
+    { title: "Partner", url: "/partner" },
     { title: "Über uns", url: "/ueberuns" },
     { title: "Kontakt", url: "/kontakt" },
   ];
@@ -29,8 +30,6 @@
       class="
         flex
         items-center
-        lg:pr-20
-        pr-5
         text-gray-900
         hover:text-gray-900
         focus:text-gray-900
