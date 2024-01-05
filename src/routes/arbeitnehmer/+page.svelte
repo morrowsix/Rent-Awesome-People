@@ -30,9 +30,9 @@
   </div>
   <div />
   <div
-    class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm hyphens-manual">
     <H1 small
-      >Personalvermittlungsagentur für Gastronomie & Hotelpersonal in Kassel</H1>
+      >Personal&shy;vermittlungsagentur für Gastronomie & Hotelpersonal in Kassel</H1>
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder
