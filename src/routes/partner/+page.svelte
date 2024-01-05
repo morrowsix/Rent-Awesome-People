@@ -154,7 +154,7 @@
       </a>
       <H3
         ><span class="text-primary">Begeisternde</span>
-        <span class="text-secondary">Finanzberatung</span>
+        <span class="text-secondary">Benefitberatung</span>
       </H3>
       <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
         Was für mich zählt? Finanzberatung, die sich auch auf
