@@ -197,10 +197,10 @@
 </div>
 <TwoCol>
   <div slot="left" class="max-w-container-6 flex-1 pr-5 md:pr-20 flex flex-col">
-    <H3>Unsere Partner:</H3>
+    <H3>Unser Netzwerk:</H3>
     <img
-      class="py-5 lg:max-w-[500px] md:max-w-[400px] sm:max-w-[300px] max-w-[250px]"
-      src="/logo-bni.jpg"
+      class="py-5 lg:max-w-[430px] md:max-w-[400px] sm:max-w-[300px] max-w-[250px]"
+      src="/BNI-Logo.jpg"
       alt="BNI Logo" />
     <p class="text-1xl sm:text-2xl font-light py-5">
       Mitglied von BNI, DER Organisation für Geschäftsempfehlungen. 
@@ -210,7 +210,7 @@
     </p>
     <Button
       text="Mehr erfahren"
-      link="/partner"
+      link="https://bni-kassel.de/chapter-herkules/de/index"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
 
