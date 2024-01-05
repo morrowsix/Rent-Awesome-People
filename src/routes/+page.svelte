@@ -181,7 +181,7 @@
     </div>
     <div
       class="basis-full lg:basis-1/2 self-start lg:self-center">
-      <img class="w-full rounded-2xl" src="/BeaundKunde.jpg" alt="" />
+      <img class="w-full rounded-2xl" src="/FroheMitarbeiterin.png" alt="" />
     </div>
   </div>
 </div>
