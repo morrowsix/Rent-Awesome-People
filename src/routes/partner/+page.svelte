@@ -14,8 +14,8 @@
     content="”https://rent-awesome-people.de/partner-header.jpg”" />
 </svelte:head>
 
-<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in">
-  <div class="flex justify-center lg:justify-start">
+<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in Kassel">
+  <div class="flex justify-start">
     <H2>
       <span class="text-primary">Awesome</span>
       <span class="text-secondary">People</span><br />

@@ -1,6 +1,6 @@
 <script>
   import Button from "$lib/components/Button.svelte";
-  import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+  import HeaderBanner2 from "$lib/components/HeaderBanner2.svelte";
   import TwoCol from "$lib/components/TwoCol.svelte";
   import H3 from "$lib/components/H3.svelte";
   import H2 from "$lib/components/H2.svelte";
@@ -15,8 +15,8 @@
     name="description"
     content="Sie suchen die passenden Arbeitskräfte für Ihr Unternehmen? Wir finden Sie! Hotelpersonalvermittlung und Serviceroboter Vermittlung in Kassel" />
 </svelte:head>
-<HeaderBanner imglink="/Header-Arbeitgeber.png">
-  <div>
+<HeaderBanner2 imglink="/arbeitgeber-header.jpg" altText="Bea und Karo im Cafe">
+  <div class="flex justify-start">
     <H2>
       <span class=" text-primary">Glückliche</span><br />
       <span class=" text-primary">mitarbeitende +</span><br />
@@ -30,25 +30,24 @@
     </H2>
   </div>
   <div
-    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm">
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
     <H1 small
-      >Hotel&shy;personalvermittlung & Serviceroboter Vermittlung in Kassel
-    </H1>
-    <p>
-      Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
-      darum machen müssten, wo Sie Ihr Personal herbekommen? Gut? Dann sollten
-      wir uns kennenlernen. Wir nehmen Ihnen diese Sorge ab! - Eine Garantie
-      können wir nur dann geben, wenn Sie gewillt sind über den Tellerrand
-      hinaus zu schauen. Alles andere wäre unseriös!
-    </p>
-  </div>
-  <div class="py-10 flex">
-    <Button
+    >Hotel&shy;personalvermittlung & Serviceroboter Vermittlung in Kassel
+  </H1>
+  <p>
+    Wie würde es sich für Sie anfühlen, wenn Sie sich keine Gedanken mehr
+    darum machen müssten, wo Sie Ihr Personal herbekommen? Gut? Dann sollten
+    wir uns kennenlernen. Wir nehmen Ihnen diese Sorge ab! - Eine Garantie
+    können wir nur dann geben, wenn Sie gewillt sind über den Tellerrand
+    hinaus zu schauen. Alles andere wäre unseriös!
+  </p>
+    <div class="py-10 flex">
+      <Button
       text="Kontakt aufnehmen"
       link="/kontakt"
       color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
-</HeaderBanner>
+</HeaderBanner2>
 <TwoCol>
   <div slot="left" class="max-w-container-6 flex-1 pr-5 lg:pr-20">
     <H3>Es mangelt Ihnen nicht an Gästen, aber an Personal?</H3>

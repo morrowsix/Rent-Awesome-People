@@ -1,6 +1,6 @@
 <script>
   import Button from "$lib/components/Button.svelte";
-  import HeaderBanner from "$lib/components/HeaderBanner.svelte";
+  import HeaderBanner2 from "$lib/components/HeaderBanner2.svelte";
   import TwoCol from "$lib/components/TwoCol.svelte";
   import H3 from "$lib/components/H3.svelte";
   import H2 from "$lib/components/H2.svelte";
@@ -18,21 +18,16 @@
     Kassel
     " />
 </svelte:head>
-
-<HeaderBanner imglink="/Fjolla-Notebook.png">
-  <div>
+<HeaderBanner2 imglink="/arbeitnehmer-header.jpg" altText="Fjolla und Karo im Cafe">
+  <div class="flex justify-start">
     <H2>
-      <span class=" text-primary">Keine Angst</span><br />
-      <span class=" text-primary">mehr vor der</span><br />
+      <span class="text-primary">Keine Angst mehr vor der</span><br />
       <span class="text-secondary">Unterschrift</span><span
-        class=" text-primary">.</span>
+      class=" text-primary">.</span>
     </H2>
   </div>
-  <div />
   <div
-    class="text-primary font-light text-xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 lg:w-6/12 sm:leading-sm hyphens-manual">
-    <H1 small
-      >Personal&shy;vermittlungsagentur für Gastronomie & Hotelpersonal in Kassel</H1>
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
     <p>
       Wir Menschen wollen eine informierte Entscheidung treffen. Wir helfen Dir
       dabei. Wir kennen Deinen neuen Arbeitgebenden vielleicht bereits oder
@@ -40,14 +35,13 @@
       Falls der eine nicht passt, gibt es gewiss einen anderen. Wir küssen für
       dich die Frösche! Du bekommst den Prinz oder die Prinzessin!
     </p>
+    <div class="py-10 flex">
+      <Button
+        text="Offene Stellen"
+        link="/jobs#coveto_iframe"
+        color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
   </div>
-  <div class="py-10 flex">
-    <Button
-      text="Offene Stellen"
-      link="/jobs#coveto_iframe"
-      color="bg-gradient-to-r from-gradient-dark to-gradient-light" />
-  </div>
-</HeaderBanner>
+</HeaderBanner2>
 <TwoCol>
   <div slot="left" class="max-w-container-6 flex-1 pr-5 lg:pr-20">
     <H3>So viele freie Stellen - <br /> wo bewerbe ich mich?</H3>
@@ -69,26 +63,31 @@
     </ul>
   </div>
 </TwoCol>
-<div class="max-w-container-12 flex flex-col md:flex-row m-auto pt-10 relative">
-  <div class="self-end xl:w-[unset] md:w-1/2 mb-[-10px] z-[-1]">
-    <img src="/Beatrix-Rettungsring.png" alt="" />
-  </div>
-  <div class="flex-1 pl-5 md:pl-0 order-first md:order-1 md:pt-10">
-    <H2>
-      <span class=" text-primary">Meine</span><br />
-      <span class="text-secondary">Mission</span><span class=" text-primary"
-        >!</span>
-    </H2>
-    <H3>
-      <br />
-      <span class="text-primary">Ich helfe dir einen</span><br />
-      <span class="text-secondary">sicheren Hafen </span><span
-        class="text-primary">für deine</span
-      ><br />
-      <span class="text-secondary">Zukunft </span><span class="text-primary"
-        >zu finden:</span>
-    </H3>
+<!-- Meine Mission -->
+<div class="relative w-full">
+  <div
+    class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12">
     <div
+      class="order-2 lg:order-1 basis-full lg:basis-1/2 shrink-0 self-start lg:self-center">
+      <img class="w-full rounded-2xl" src="/meine-mission.jpg" alt="Bea im Cafe" />
+    </div>
+    <div
+      class="flex flex-col justify-between order-1 lg:order-2 basis-full w-full lg:basis-1/2">
+      <H2>
+        <span class=" text-primary">Meine</span><br />
+        <span class="text-secondary">Mission</span><span class=" text-primary"
+          >!</span>
+      </H2>
+      <H3>
+        <br />
+        <span class="text-primary">Ich helfe dir einen</span><br />
+        <span class="text-secondary">sicheren Hafen </span><span
+          class="text-primary">für deine</span
+        ><br />
+        <span class="text-secondary">Zukunft </span><span class="text-primary"
+          >zu finden:</span>
+      </H3>
+      <div
       class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
       <p>
         Wir wollen alle ankommen. Im beruflichen Heimathafen! Abhängig von
@@ -103,9 +102,11 @@
         klingt doch nach einem Ziel!
       </p>
     </div>
+    </div>
   </div>
 </div>
 <Contactform />
+<!-- SEO Texte -->
 <div class="px-5 pb-5 pt-8 lg:pt-12 lg:w-8/12 m-auto">
   <div class="text-primary font-light text-1xl sm:text-2xl">
       <h3 class="text-primary sm:text-3xl text-xl flex pb-2 align-middle font-normal">
