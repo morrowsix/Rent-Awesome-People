@@ -247,7 +247,7 @@
   <!-- Hospitality Services -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-neolohn.jpg" alt="" />
+      <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
     </div>
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
       <a href="https://hospitality-services.de/" target="_blank">
