@@ -252,7 +252,7 @@
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
       <a href="https://hospitality-services.de/" target="_blank">
         <img
-          class="pb-6 md:max-w-[150px] max-w-[100px]"
+          class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-hospitality.svg"
           alt="Logo Hospitality Service" />
       </a>
