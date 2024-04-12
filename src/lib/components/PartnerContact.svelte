@@ -89,7 +89,7 @@
             id="email"
             placeholder="*E-MAIL:"
             required />
-          <select
+          <!-- <select
             class="py-2 px-4 pr-5 rounded-[40px] focus-visible:outline-none appearance-none bg-[url(/arrow-down.png)] bg-no-repeat bg-[center_right_1.5rem] bg-[length:20px]"
             name="Interesse"
             id="partners">
@@ -101,7 +101,7 @@
             <option class="font-light" value="Klimaschutz Einfach">Klimaschutz Einfach</option>
             <option class="font-light" value="Neo Lohn">Neo Lohn</option>
             <option class="font-light" value="Hospitality Service">Hospitality Service</option>
-          </select>
+          </select> -->
         </div>
         <div class="flex flex-col flex-1 height-full px-5">
           <textarea
