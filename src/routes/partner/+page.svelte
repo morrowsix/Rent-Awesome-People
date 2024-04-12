@@ -14,7 +14,9 @@
     content="”https://rent-awesome-people.de/partner-header.jpg”" />
 </svelte:head>
 
-<HeaderBanner2 imglink="/partner-header.jpg" altText="Bea, Fjolla und Karo in Kassel">
+<HeaderBanner2
+  imglink="/partner-header.jpg"
+  altText="Bea, Fjolla und Karo in Kassel">
   <div class="flex justify-start">
     <H2>
       <span class="text-primary">Awesome</span>
@@ -219,12 +221,38 @@
       </p>
     </div>
   </div>
-  <!-- Hospitality Service -->
+  <!-- Schall Recruiting -->
   <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
     <div class=" flex-1 flex flex-col justify-center">
-      <a href="https://hospitality-services.de/" target="_blank">
+      <a href="https://schall-recruiting.de" target="_blank">
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
+          src="/logo-schall.png"
+          alt="Logo Schall Recruiting" />
+      </a>
+      <H3
+        ><span class="text-primary">Fleißige Hände </span><br />
+        <span class="text-secondary">für Industrie und Handwerk</span>
+      </H3>
+      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
+        Unsere Mission ist es, talentierte Fachkräfte mit erstklassigen
+        Arbeitgebern zu verbinden. Wir bringen auf direktem Wege zusammen, was
+        zusammen gehört.
+      </p>
+    </div>
+    <div class=" flex-1 flex flex-col justify-center">
+      <img class="w-full rounded-2xl" src="/partner-schall.png" alt="" />
+    </div>
+  </div>
+  <!-- Hospitality Services -->
+  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
+    <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
+      <img class="w-full rounded-2xl" src="/partner-neolohn.jpg" alt="" />
+    </div>
+    <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
+      <a href="https://hospitality-services.de/" target="_blank">
+        <img
+          class="pb-6 md:max-w-[150px] max-w-[100px]"
           src="/logo-hospitality.svg"
           alt="Logo Hospitality Service" />
       </a>
@@ -239,9 +267,6 @@
         unterstützt das Überleben und schafft neue Möglichkeiten. Wir verbinden
         Individualhoteliers, Fachberater, Partner und Netzwerke.
       </p>
-    </div>
-    <div class=" flex-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
     </div>
   </div>
 </div>
