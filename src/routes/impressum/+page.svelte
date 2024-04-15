@@ -14,16 +14,17 @@
   </h1>
   <div class="text-primary font-light text-1xl sm:text-2xl sm:leading-sm pb-10">
     <p class="pb-10">
-      <span class="font-medium"> Rent Awesome People GmbH </span><br />c/o neue
-      Denkerei <br />
-      Friedrichsstraße 28 <br />
+      <span class="font-medium"> Rent Awesome People GmbH </span><br />
+      Klessig Immobilien
+      <br />
+      Friedrich-Ebert-Straße 52
+      <br />
       34117 Kassel <br /> <br /> Telefon: +49 (0) 56058791598 <br /> Mobil: +49
       (0) 17630304739 <br /> E-Mail: info@rent-awesome-people.de <br /> Website:
       www.rent-awesome-people.de <br /> <br /> Vertretungsberechtigte
       Geschäftsführerin: Beatrix Westphal <br /> Registernummer: HRB19008 <br />
       Registergericht: Kassel <br />
-      Umsatzsteueridentifikationsnummer USt.-ID-Nr.:
-      DE351445409
+      Umsatzsteueridentifikationsnummer USt.-ID-Nr.: DE351445409
     </p>
     <p>
       Die Rent Awesome People GmbH in Kassel ist der nachhaltige

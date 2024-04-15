@@ -14,8 +14,8 @@
         </h6>
       </div>
       <p class="text-white">Beatrix Westphal</p>
-      <p class="text-white">c/o neue Denkerei</p>
-      <p class="text-white">Friedrichsstraße 28</p>
+      <p class="text-white">c/o Klessig Immobilien</p>
+      <p class="text-white">Friedrich-Ebert-Straße 52</p>
       <p class="text-white">34117 Kassel</p>
     </div>
     <div class="text-xl font-light flex-[100%] sm:flex-[50%] lg:flex-[25%] pb-10 lg:pb-0 text-center sm:text-left">
