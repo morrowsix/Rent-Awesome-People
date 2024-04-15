@@ -15,7 +15,7 @@
   <div class="text-primary font-light text-1xl sm:text-2xl sm:leading-sm pb-10">
     <p class="pb-10">
       <span class="font-medium"> Rent Awesome People GmbH </span><br />
-      Klessig Immobilien
+      c/o Klessig Immobilien
       <br />
       Friedrich-Ebert-Straße 52
       <br />

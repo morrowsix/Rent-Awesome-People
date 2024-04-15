@@ -14,7 +14,7 @@
         </h6>
       </div>
       <p class="text-white">Beatrix Westphal</p>
-      <p class="text-white">Klessig Immobilien</p>
+      <p class="text-white">c/o Klessig Immobilien</p>
       <p class="text-white">Friedrich-Ebert-Straße 52</p>
       <p class="text-white">34117 Kassel</p>
     </div>
