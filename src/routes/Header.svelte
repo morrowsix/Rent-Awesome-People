@@ -9,6 +9,7 @@
     { title: "Jobs", url: "/jobs" },
     { title: "Partner", url: "/partner" },
     { title: "Über uns", url: "/ueberuns" },
+    { title: "Potenzial erkennen", url: "/potenzial-erkennen" },
     { title: "Kontakt", url: "/kontakt" },
   ];
   function toggleMobileMenu() {
