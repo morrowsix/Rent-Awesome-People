@@ -232,23 +232,21 @@
           Einbeziehung von Menschen mit Behinderungen zeigt zudem, dass das
           Unternehmen Chancengleichheit und Inklusion ernst nimmt.
         </p>
-        <div class="py-10">
-          <Accordion title="Mehr erfahren">
-            <p class="text-1xl sm:text-2xl font-light pb-5 md:pb-0">
-              Offenheit für Diversität ist ein Zeichen von Respekt und
-              Wertschätzung gegenüber allen Mitarbeitenden. Ein inklusives
-              Arbeitsumfeld, in dem sich jede Person angenommen fühlt, erhöht
-              Motivation und Zufriedenheit und stärkt die Bindung an das
-              Unternehmen. Wichtig ist, dass die Aufgaben den Fähigkeiten der
-              Mitarbeitenden entsprechen, sodass jede Person ihre Stärken
-              einbringen kann. Insgesamt ist Diversität ein Gewinn für das
-              Gastgewerbe. Sie fördert Kreativität, verbessert den Kundenservice
-              und schafft ein positives Arbeitsklima. Für ein erfolgreiches
-              Unternehmen ist es essenziell, Vielfalt zu fördern und
-              Chancengleichheit für alle zu gewährleisten.
-            </p>
-          </Accordion>
-        </div>
+        <Accordion title="Mehr erfahren">
+          <p class="text-1xl sm:text-2xl font-light pb-5 md:pb-0">
+            Offenheit für Diversität ist ein Zeichen von Respekt und
+            Wertschätzung gegenüber allen Mitarbeitenden. Ein inklusives
+            Arbeitsumfeld, in dem sich jede Person angenommen fühlt, erhöht
+            Motivation und Zufriedenheit und stärkt die Bindung an das
+            Unternehmen. Wichtig ist, dass die Aufgaben den Fähigkeiten der
+            Mitarbeitenden entsprechen, sodass jede Person ihre Stärken
+            einbringen kann. Insgesamt ist Diversität ein Gewinn für das
+            Gastgewerbe. Sie fördert Kreativität, verbessert den Kundenservice
+            und schafft ein positives Arbeitsklima. Für ein erfolgreiches
+            Unternehmen ist es essenziell, Vielfalt zu fördern und
+            Chancengleichheit für alle zu gewährleisten.
+          </p>
+        </Accordion>
       </div>
     </div>
     <div class="flex-1 flex flex-col justify-center">
