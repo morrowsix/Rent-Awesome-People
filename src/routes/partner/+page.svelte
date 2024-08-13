@@ -11,12 +11,14 @@
   <meta name="description" content="" />
   <meta
     property="”og:image”"
-    content="”https://rent-awesome-people.de/partner-header.jpg”" />
+    content="”https://rent-awesome-people.de/partner-header.jpg”"
+  />
 </svelte:head>
 
 <HeaderBanner2
   imglink="/partner-header.jpg"
-  altText="Bea, Fjolla und Karo in Kassel">
+  altText="Bea, Fjolla und Karo in Kassel"
+>
   <div class="flex justify-start">
     <H2>
       <span class="text-primary">Awesome</span>
@@ -26,7 +28,8 @@
     </H2>
   </div>
   <div
-    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm">
+    class="text-primary font-light text-1xl sm:text-2xl pr-5 pb-5 pt-8 lg:pt-12 sm:leading-sm"
+  >
     <p>
       Gerade im Gastgewerbe ist ein starkes Dienstleister-Netzwerk essenziell.
       Es spart nicht nur Geld, sondern überbrückt auch Engpässe wie fehlende
@@ -51,7 +54,8 @@
 </HeaderBanner2>
 
 <div
-  class="max-w-container-12 flex flex-col justify-center m-auto py-16 px-5 xl:px-0">
+  class="max-w-container-12 flex flex-col justify-center m-auto py-16 px-5 xl:px-0"
+>
   <div class="">
     <H2 align="text-center pb-4">
       <span class=" text-primary">Unsere</span>
@@ -65,7 +69,8 @@
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-m6.png"
-          alt="Logo morrow six GbR" />
+          alt="Logo morrow six GbR"
+        />
       </a>
       <H3
         ><span class="text-primary">Die Werbeagentur</span><br />
@@ -93,7 +98,8 @@
         <img
           class="pb-6 md:max-w-[300px] max-w-[250px]"
           src="/logo-nano-pictures.png"
-          alt="Logo Nano Pictures" />
+          alt="Logo Nano Pictures"
+        />
       </a>
       <H3
         ><span class="text-primary">Fotografie</span>
@@ -113,7 +119,8 @@
         <img
           class="pb-6 md:max-w-[300px] max-w-[250px]"
           src="/logo-fewo-angels.png"
-          alt="Logo Fewo Angels" />
+          alt="Logo Fewo Angels"
+        />
       </a>
       <H3
         ><span class="text-primary">Höhere Erträge.</span><br />
@@ -148,11 +155,13 @@
     <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
       <a
         href="https://www.fp-finanzpartner-schartel.de/unternehmen.html"
-        target="_blank">
+        target="_blank"
+      >
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-fp.jpg"
-          alt="Logo FP Finanzpartner" />
+          alt="Logo FP Finanzpartner"
+        />
       </a>
       <H3
         ><span class="text-primary">Begeisternde</span>
@@ -176,7 +185,8 @@
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-klimaschutz-einfach.png"
-          alt="Logo Klimaschutz Einfach" />
+          alt="Logo Klimaschutz Einfach"
+        />
       </a>
       <H3
         ><span class="text-primary">WENN WIR EINS NICHT HABEN,</span><br />
@@ -194,7 +204,8 @@
       <img
         class="w-full rounded-2xl"
         src="/partner-klimaschutz-einfach.jpg"
-        alt="" />
+        alt=""
+      />
     </div>
   </div>
   <!-- Neolohn -->
@@ -207,7 +218,8 @@
         <img
           class="pb-6 md:max-w-[150px] max-w-[100px]"
           src="/logo-neolohn.png"
-          alt="Logo neolohn by twodoxx" />
+          alt="Logo neolohn by twodoxx"
+        />
       </a>
       <H3
         ><span class="text-primary">einfach lohnenswert</span><br />
@@ -228,7 +240,8 @@
         <img
           class="pb-6 md:max-w-[400px] max-w-[250px]"
           src="/logo-schall.png"
-          alt="Logo Schall Recruiting" />
+          alt="Logo Schall Recruiting"
+        />
       </a>
       <H3
         ><span class="text-primary">Fleißige Hände </span><br />
@@ -242,31 +255,6 @@
     </div>
     <div class=" flex-1 flex flex-col justify-center">
       <img class="w-full rounded-2xl" src="/partner-schall.png" alt="" />
-    </div>
-  </div>
-  <!-- Hospitality Services -->
-  <div class="flex justify-center flex-col md:flex-row md:gap-14 pt-20">
-    <div class=" flex-1 order-2 md:order-1 flex flex-col justify-center">
-      <img class="w-full rounded-2xl" src="/partner-hospitality.jpeg" alt="" />
-    </div>
-    <div class=" flex-1 order-1 md:order-2 flex flex-col justify-center">
-      <a href="https://hospitality-services.de/" target="_blank">
-        <img
-          class="pb-6 md:max-w-[400px] max-w-[250px]"
-          src="/logo-hospitality.svg"
-          alt="Logo Hospitality Service" />
-      </a>
-      <H3
-        ><span class="text-primary">Die Zukunft</span><br />
-        <span class="text-secondary">der Hotellerie</span>
-      </H3>
-      <p class="text-1xl sm:text-2xl font-light pt-5 pb-5 md:pb-0">
-        Hoteliers müssen heute mehr denn je innovativ sein. Mit jahrzehntelanger
-        Hotellerie-Erfahrung und digitaler Transformation zeigen wir den Weg in
-        die Zukunft. Unsere Qualität, ein 360° Hotellerie-Consulting-Netzwerk,
-        unterstützt das Überleben und schafft neue Möglichkeiten. Wir verbinden
-        Individualhoteliers, Fachberater, Partner und Netzwerke.
-      </p>
     </div>
   </div>
 </div>
