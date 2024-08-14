@@ -54,9 +54,9 @@
   class="relative w-full bg-gradient-to-r from-gradient-dark to-gradient-light"
 >
   <div
-    class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
+    class="flex flex-col md:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
   >
-    <div class="order-2 lg:order-1 basis-1/2 shrink-0 self-start">
+    <div class="order-2 md:order-1 basis-1/2 shrink-0 self-start">
       <img
         class="rounded-2xl border-white border-4 w-full"
         src="/vorteile-aec.jpg"
@@ -165,16 +165,16 @@
   class="relative w-full bg-gradient-to-r from-gradient-dark to-gradient-light"
 >
   <div
-    class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
+    class="flex flex-col md:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
   >
-    <div class="order-2 lg:order-1 basis-1/2 shrink-0 self-start">
+    <div class="order-2 md:order-1 basis-1/2 shrink-0 self-start">
       <img
         class="rounded-2xl border-white border-4 w-full"
         src="/generationsverstaendnis2.jpg"
         alt=""
       />
     </div>
-    <div class="flex flex-col justify-between order-1 lg:order-2 basis-1/2">
+    <div class="flex flex-col justify-between order-1 md:order-2 basis-1/2">
       <h2
         class="uppercase text-white text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md mb-8"
       >
@@ -259,16 +259,16 @@
   class="relative w-full bg-gradient-to-r from-gradient-dark to-gradient-light"
 >
   <div
-    class="flex flex-col lg:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
+    class="flex flex-col md:flex-row justify-between items-center max-w-container-12 m-auto py-14 px-5 xl:px-0 gap-12"
   >
-    <div class="order-2 lg:order-1 basis-1/2 shrink-0 self-start">
+    <div class="order-2 md:order-1 basis-1/2 shrink-0 self-start">
       <img
         class="rounded-2xl border-white border-4 w-full"
         src="/rekrutierung.jpg"
         alt=""
       />
     </div>
-    <div class="flex flex-col justify-between order-1 lg:order-2 basis-1/2">
+    <div class="flex flex-col justify-between order-1 md:order-2 basis-1/2">
       <h2
         class="uppercase text-white text-2xl sm:text-3xl lg:text-4xl font-medium leading-sm lg:leading-md mb-8"
       >
@@ -276,14 +276,14 @@
       </h2>
       <p class="text-white text-1xl sm:text-2xl font-light">
         Wertebasierte Rekrutierung im Gastgewerbe, die auf den
-        Nach-haltigkeitszielen der Agenda 2030 basiert, ist für
-        Arbeit-geber*innen wichtig. Sie stellt sicher, dass Mitarbeitende nicht
-        nur die nötigen Fähigkeiten haben, sondern auch die gleichen Werte wie
-        Umweltschutz und soziale Verantwortung teilen.
+        Nachhaltigkeitszielen der Agenda 2030 basiert, ist für Arbeitgeber*innen
+        wichtig. Sie stellt sicher, dass Mitarbeitende nicht nur die nötigen
+        Fähigkeiten haben, sondern auch die gleichen Werte wie Umweltschutz und
+        soziale Verantwortung teilen.
       </p>
       <br />
       <p class="text-white text-1xl sm:text-2xl font-light">
-        Wenn Arbeitgeber*innen und Mitarbeitende dieselben Werte haben, bringt
+        Wenn Arbeitgeber*innen und Mitarbeitende die selben Werte haben, bringt
         das viele Vorteile. Es schafft eine einheitliche Unternehmenskultur, was
         die Motivation und Zufriedenheit der Mitarbeitenden steigert. Außerdem
         erhöht es die Glaubwürdigkeit des Unternehmens, da Gäste echte
